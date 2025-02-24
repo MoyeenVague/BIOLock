@@ -1,0 +1,2562 @@
+{
+    "anxiety": {
+        "afobazol": [
+            "755f0086efcc8f170ce224760abcfd37"
+        ],
+        "aviandr": [
+            "b28de094bbf0c53a443865cca1c88e63"
+        ],
+        "escitalopram": [
+            "0291e9651c4da7f36b818fb1724054cc",
+            "22184910299ecdc1c79393b67789c629",
+            "310a36ca567224f8b376cc6f4c5a7dba",
+            "7f9a6191f7cc706adf98a4a1bd347ed0",
+            "834e01a9f77418b1b907b8805c5951b3",
+            "95eb423a87ba77c2631da8d55fea5256",
+            "c39c002419c33a54a4e0bf866694757f",
+            "d09cd0455746c240ba240233a2090c10",
+            "dfbc41a85354fe121ca87fd0e5af8151",
+            "f2a7a4136879e0e5226b28917690eff9",
+            "f34c367089509c62ee03cb601d923129"
+        ],
+        "ethylmethylhydroxypyridine succinate": [
+            "4582607fe7eb719fb3caf8de705161a6",
+            "4ac80824dd3e9ba7738bf3545d3751d3",
+            "fa9c891be84243f8fe913dd85c0dd73b"
+        ],
+        "fabomotizole": [
+            "755f0086efcc8f170ce224760abcfd37"
+        ],
+        "imcivree": [
+            "affe83cd109c63345ef716abd9418730"
+        ],
+        "metformin": [
+            "ec81ab4cfae1bdc6689407cf67aa2522"
+        ],
+        "sertraline": [
+            "7f9a6191f7cc706adf98a4a1bd347ed0",
+            "9efb8dc241a8bc2d741aaa9f4241fd2d",
+            "c39c002419c33a54a4e0bf866694757f",
+            "e8a47374ded337d27106553557703b64"
+        ],
+        "vitamin b6": [
+            "7fb28f9894b794d55d9ffbf110e68def"
+        ]
+    },
+    "nothing": {
+        "alimemazine": [
+            "35b8ea5051338cbb8b5f3d54b2d9c8d8",
+            "7705a7bed024fcd60f552ec4213c98e2",
+            "a16212494c3be7a675428bd410d39aca"
+        ],
+        "amlodipine": [
+            "39781445",
+            "39833947",
+            "39885564"
+        ],
+        "analgin": [
+            "089afd382f5686dab42473874c07c498",
+            "4bcd7932231cb250c46b71fb1c9343af",
+            "87bef8f232e6401c4e9cea2464562c8a"
+        ],
+        "codeine": [
+            "4d935720556b449d942742768c94b251",
+            "eb3aa19dc3228ffecaa98cedbc9a0fdb"
+        ],
+        "escitalopram": [
+            "001aa73cc409206c9ea49994cc29fb84",
+            "08e29d9fcda2bac6d8f0aede3d777ede",
+            "0dbbb1adaa7f0468ed32b38167820a08",
+            "27b02a18bdb4f3f628e263a1c98b8e2b",
+            "47330cc9d49fe346c795f07a9b5a1693",
+            "502f8a593958511e04f7380694ad52c5",
+            "629647d6e538f8cb1cfb11cbaf481c8b",
+            "657e3d360b934814ee89c28391c41775",
+            "8beb3b00d6fa71e6aeb0b3759b4d3487",
+            "90d21378bbede4ab6dcacb90fa2d8fd7",
+            "a4f4a1fa113062c0a9ca21bbad80dd32",
+            "a5bd81147ed043dba2f4d1c9d7fd698a",
+            "c2406f584435ff859164c35ca44a4e9d",
+            "c3c6de180dec448ee9a2feca21278bff",
+            "e2452b539af164e2196e03caaebd9488",
+            "ecca08b53b842751b3eda26bdf5436e5",
+            "fd10000e4e1c601e41bdfc4d27ea1bab"
+        ],
+        "ethylmethylhydroxypyridine succinate": [
+            "9622b9f3401467d5c7e16286874ace93",
+            "ed992a2527de8811dd1e22ce7bfe4159",
+            "f946596b48c7c3b37ffc75cbc71993bb"
+        ],
+        "exenatide": [
+            "18f965821ff80c734846b3b5ad09805b",
+            "44f9d978373243fe40d6b9c5777cd4ee",
+            "5050c90a631ea362948fcc960d2d7b1d",
+            "7b1a531b5dc0a5e1b9e37ba56613b205",
+            "95ee777114c78c42fe414b4aa87c4468",
+            "9ce5bac3df7c2bd7c5690c528fdc8591",
+            "b3a2510e96c2af63ef3c8b9e733772f8",
+            "be12ba53c13a34502934feb3d1c7395a",
+            "c2cdd4be2822b428cccbef8e1916b021",
+            "c7e342272a616a70cb942b6587f5bc94"
+        ],
+        "ibuprofen": [
+            "06cff2423914ade059382713ffae6710",
+            "1391cd6201705efca8025c38429dd48b",
+            "16503d097b3145e981ff7b920538c10c",
+            "16c18770fe9f561310a0abf8637e171e",
+            "2f75f164afa65c15001b4ad98dd0ef10",
+            "39080222",
+            "39318339",
+            "39367998",
+            "39779424",
+            "421c073faf71fd9aff7d5063606acc47",
+            "57dcd4b0544c0ad5aac9fa3af228ea92",
+            "63a63db85a0165b734b5c3f3bb60696b",
+            "6ce52ec95511640d3111a4e517fe23fa",
+            "6ea5376b81ca2e9ec93a4610d9d8ad97",
+            "73a900f3fd6694344c49b13f6079c0c7",
+            "85ec9f4785bf780977820ef483b700b4",
+            "bffbddf8246bffef4c229073920fdabf"
+        ],
+        "imcivree": [
+            "0cfec35e7d1547841ae7126c7d3ae5cc",
+            "102093bf2d68a27e8151493d226081a3",
+            "379b6861104ddc2df19e5c48bf8f0752",
+            "59ea21762b85d6119198f93ee3693491",
+            "b22d6e4d24e2971185826826a5180bc5",
+            "b28c7e26a16e60b3e99d1965290cc7d8",
+            "e8e79cdface0a72c8e449b1f81e83c96"
+        ],
+        "inosine pranobex": [
+            "55e4be1f25d4198588b822ed8de63d5b",
+            "fe860b7e58312dcb4eac617c33f38903"
+        ],
+        "losartan": [
+            "00d77825f1d553e2038087c324bbcb00",
+            "0b6310c69095c5c26120b5b4a3d660c2",
+            "13022667e9b55c2506f76a009e360034",
+            "24efe786c811c9ea6f1297c0cdfe56df",
+            "2c2605d2c093c4c139afaced28148671",
+            "3718f81b88156d7e8d81b3758027fa55",
+            "3c78f5ad2e139a0797faa47a23d79c49",
+            "5583888d8618dcb9e9fa514f2ec0f273",
+            "59c0e6c843330d9138828ed7d10d4667",
+            "63d9f272170fc6554310278947fd012c",
+            "968733017a5e08375abf7a3ab79a2f72",
+            "9ee339bc4ed2292569752938dcb07d16",
+            "a32593f63f3aec13377c0c4b1ea89bfa",
+            "a4a09ce4b13e45679797a032b9b6da31",
+            "aeafdd40048b491b92db46e461798ca1",
+            "aed38f3fb57ff6ffb4f05349d5dd36da",
+            "bad428da39ac770b86480ab38870b73d",
+            "bc8bcd2b0b0dd5a91e6cf52aac98a7a7",
+            "c02f87673770028f3442cdca99c986d2",
+            "dbfecec2f584c9e354d8ffeb477c78c8",
+            "e42a053275208d52af235dc93b565d84",
+            "f116a64b2c5059918567c381b8dda894",
+            "f83a212b9022b105bc1997663ca3ee8c",
+            "fa020c246b81ee60b69e07bf783fc90f"
+        ],
+        "metformin": [
+            "03683e06c9b84737eeebfbd143e8cccf",
+            "1b909bd4d12ce22f5da15bc2a04fa7e6",
+            "32ddbd3f5ec00a9ba01e4fe928a3c31d",
+            "3951ca8afa2a081c2602f4d84c1c9942",
+            "3d5ad8c9e75ba87e8a7e09a8336dc914",
+            "47206edc34879f47873d7b5384144a93",
+            "49f9a872f9af2b2c7fca3c0dee168e7f",
+            "4cd50514fe81730463dda4d013cd67fa",
+            "531ea4a3405b7c25c7b3b4d41a035c98",
+            "55d8ea857cc798888cb758af5ee8ef25",
+            "77c2ac6d15f4d97271cbcb91d8246776",
+            "83542adacf373d198610efeb3ba76fcc",
+            "95352d431d0ea7c42ef59f6a4ca0aa80",
+            "d593ec7b22e448bf7d55bd03326e21a0"
+        ],
+        "nurofen": [
+            "5ce6c3688de2afa5b26c134bdde4b2f2"
+        ],
+        "ozempic": [
+            "0b4b7732ae82e60321224ebc99629fa0",
+            "1ffb5c2231ce54dd73b2ab3ddff49e5d",
+            "39834714",
+            "39834714.0",
+            "39910752",
+            "39910752.0",
+            "39948761",
+            "39948761.0",
+            "3d84a892622911db76cfe0a720ab78de",
+            "52202f72b0da1b5d0f681cb2f80c0a75",
+            "6c9febb8bbefd80de7a9ac84efe0babc",
+            "6dc4bae93d9e51d28d6e1bc3c2063351",
+            "7b1a531b5dc0a5e1b9e37ba56613b205",
+            "97faca86fed4a61b0d5e9b1b9a80c5de",
+            "9d60f670e71d7ce74ffeed3bb95c1d1a",
+            "b3a2510e96c2af63ef3c8b9e733772f8",
+            "f3a829dd13a5721d270f7669bf862df5"
+        ],
+        "paracetamol": [
+            "38715425",
+            "38934287",
+            "39029700",
+            "39078178",
+            "39137286",
+            "39318339",
+            "39367998",
+            "39438770",
+            "39511635",
+            "39757482",
+            "39758304",
+            "39779424",
+            "39857177",
+            "39872636",
+            "39885564"
+        ],
+        "rifaximin": [
+            "140aa6cc9c396dc997aa2db2267efb3c",
+            "1a2258a9cfab75dc0bac9b48b228e484",
+            "1eca831f6a991c1a1ff537ee7b066d22",
+            "219f8c7590b02e99209dc0f00c0d621b",
+            "34ec949b1c904899daa32312d16a000e",
+            "3c89f526b79dc14310ad5c66e97fa18f",
+            "6c03580ba322fdccfb4240db740d3ddd",
+            "76b51038caf09335fae5459801acfdc8",
+            "78d980ec803c96e0ee828c7086483c95",
+            "7e555daca9f152d1f0058aa467704283",
+            "803613dbaff9d5987e0c384f08fafbcb",
+            "8edcd741311371b7dc57a265765e1910",
+            "92bbf0f4242ee139584ad5ecc27ce21b",
+            "9812c5012058d02f62e90fec8c05ec1b",
+            "9a8a5803e7c735dbd95f38d63dfed393",
+            "9e8231cfc20e11a494c41fc250cf462c",
+            "9facb6869fc60e74a725fb27a14a3cc3",
+            "a426a1cca78566016a55d14744329313",
+            "b98c4170b3e2959bf06fa1925906319b",
+            "c4a52f42bd87747024d1eb0f01dabe4a",
+            "cdd511582c313e1e9bb2f9c275b08e4e",
+            "de2d27b39e44b16da5c07147e2b68f4c",
+            "de4639216ce39215368ea5ad5d89fadc",
+            "eb03556384e3eb3a7474224c7d333424",
+            "f01fe5b8d6bee80e3e9f24c17d35bc04",
+            "f69c0fb9ec0366a40858181ca1246790",
+            "f786cb0d63149e6baea6159dca6c8ff4",
+            "fcbcf8990c143f2424b0b0697b695608",
+            "fea55693e20d49589b52c03ce424084e",
+            "ffc9cd9b50fa9c7b13e3e7ba48273dd2",
+            "ffdafaa53b4095071dd661375902b655"
+        ],
+        "sertraline": [
+            "0c534873221caa27589f1874df35d113",
+            "27b02a18bdb4f3f628e263a1c98b8e2b",
+            "63075ee10be54eb9f15891475fdce243",
+            "a5bd81147ed043dba2f4d1c9d7fd698a",
+            "c2406f584435ff859164c35ca44a4e9d",
+            "c3c6de180dec448ee9a2feca21278bff",
+            "eab69f6cefe3e076af00d1198774e0ac",
+            "fd10000e4e1c601e41bdfc4d27ea1bab",
+            "fffd9d74406c49969b9c99b2fd451345"
+        ],
+        "sitagliptin": [
+            "38985161",
+            "39179458",
+            "39219710",
+            "39404734",
+            "39797494",
+            "39797937"
+        ],
+        "vitamin b12": [
+            "38760187",
+            "39093543",
+            "39812686",
+            "39833730"
+        ],
+        "vitamin b6": [
+            "0b5b6cfa70c85e00ca0a33097036253b",
+            "0fb3f70f6444add97afd11595d640f0f",
+            "1c68ee778bd0142b6fc9286da2ce8d0a",
+            "24e94ebf12d6f5a38801dd9ca13fc7f0",
+            "2d4f8981b7d7024f8292e6b0137256f0",
+            "3469872d01e98ed6fc1e156b6db44c47",
+            "3f9d6ad4aa8fb6480b5f2b0ff3f45374",
+            "62e9181de3be293e5c43cc840cd2470f",
+            "7aea895e7c9bcbf0f678ce97aec89647",
+            "84597b61cdbd5d0bd5e4439f118d39d6",
+            "85e2f5ced805ff72c0e2278ff5dd5cde",
+            "90e1bf28307b8cc3aef6f3fd5e238006",
+            "931a1ad1e8649eb5ce1372a526383a9e",
+            "9990e528f73ed2f6949acba81fc78a66",
+            "a7b52327488682f7d36dbd04284a8565",
+            "c0bb57fdc4d7e8476c57eab7ac109075",
+            "d672c75db6d4b90d184ab4d661c839ad",
+            "eee9eec631cc42876c712f1751a07b59"
+        ],
+        "vitamin c": [
+            "39688329",
+            "39702045",
+            "39719338",
+            "39739360",
+            "39744336"
+        ]
+    },
+    "glucose": {
+        "amlodipine": [
+            "39881316"
+        ],
+        "escitalopram": [
+            "32e09909ff50b3a11cacf90b1ca848a9"
+        ],
+        "exenatide": [
+            "279aca38b01bb3b8d60a5633e8ef30d7",
+            "3c3fd23672a9acaf721202b791b6f6ed",
+            "40425387927c7851f65b10a8fc65989d",
+            "45d81553a85786a553fec7b39c3d93fa",
+            "4e3cf313bc77fda00b210387f9c55114",
+            "6280dc4d64334c8b915703ce3dd1043d",
+            "63da418e34163ec66dffed55ea401e3b",
+            "6566bd4e8213658ec06eac6ab2f35d56",
+            "7f57b21585edbc0df33f0d09ce12d7ff",
+            "bc3865a3e9b57951ec2fc3f7236f8dc5",
+            "d89218094ee15e32d2dc9e75e644a432",
+            "db05144c2617c7909ee4b8f298b9a427",
+            "e393a95ee187273b744aa90ddce7349e",
+            "f4e5ae3a6aa7afafa0ef3d6f21645f58",
+            "f9c5ca2d9c528d5ce5099054ff8b6740"
+        ],
+        "ibuprofen": [
+            "13f509c9dac066131512b82d1b1f7f3c"
+        ],
+        "imcivree": [
+            "782b70e3597c98565c27d5ebdcc3b4a3"
+        ],
+        "losartan": [
+            "19e60b98b906e22cbca957a064f7d049",
+            "4f8cd1b7cda79f88ee3652c930cc3dc5"
+        ],
+        "metformin": [
+            "09814f18fc34186ffda0143e0cb3f841",
+            "0ac16b2b0e1f8cf4688903a32b135b23",
+            "33c262427d7636e90a9ca5e35d9f8d9d",
+            "353f84161c0d158f0fd2aaffba0b05f5",
+            "3dd0408a19e47018794025f658732821",
+            "49e5e8077b3d6f263f4e60d6a82c5600",
+            "4bdc5f417112035b7df0630e53d01d55",
+            "5b580f383b4a9339336b9bb54bc9d2eb",
+            "690bf282a48ff2a0a851655576e14043",
+            "9676f9c1b9a8809f941b49e08ffc8890",
+            "b30f5c2b97af80fe1c46f40e9e3e2f7b",
+            "c35597813b4f2f9cacc3376054cf1601",
+            "d78804578145b5d7a7892fdf3a4baba8",
+            "eb67ccd33b9b06f55acc86851735cbdc"
+        ],
+        "ozempic": [
+            "39820580",
+            "39820580.0",
+            "39873334",
+            "39873334.0",
+            "39892787",
+            "39892787.0",
+            "6b5888786693e08c35906de1f3a84d0d",
+            "8628c2e0e7dd6ddf793e7fce78d166fd",
+            "9445553aeef888bec68784bb8dad1a6e",
+            "9d76ac392e9433fb1c1d87e5fc3e2b47",
+            "b8f57e9fa4f103cbecb84c8abcba5c7b"
+        ],
+        "rifaximin": [
+            "68005b2ad7a5d319d4bfab97234cb8f8"
+        ],
+        "sertraline": [
+            "32e09909ff50b3a11cacf90b1ca848a9"
+        ],
+        "sitagliptin": [
+            "39264502",
+            "39636567",
+            "39792745"
+        ]
+    },
+    "hypertension": {
+        "amlodipine": [
+            "39426836",
+            "39551851",
+            "39731708",
+            "39881316"
+        ],
+        "inosine pranobex": [
+            "aaa8c3d0cedfdec22e120e4501f252e1"
+        ],
+        "losartan": [
+            "3a0902828b4d72b08986605351ec9271",
+            "505788e8cf7112642f7a392995d6373a",
+            "5f9ce6c91d5296462a94f5c7628c1d37",
+            "63dfae9c8a6dfae84ab56ae7fbbcc2ac",
+            "7ba7cec085cbc43d95f6f6f4cda9cc2b",
+            "96d9108f1bbde7aec8d5c083ed5f3695",
+            "9f0184760f3dc11ecfac5d854743e1f2"
+        ],
+        "metformin": [
+            "7ea36e833c301d8220f199abec1e3a73",
+            "9676f9c1b9a8809f941b49e08ffc8890"
+        ],
+        "ozempic": [
+            "74bd92c1905264ca875eb57966d938da",
+            "95cbf854129b1495975785865ca4960f"
+        ],
+        "vitamin b12": [
+            "38532145"
+        ]
+    },
+    "palpitations": {
+        "amlodipine": [
+            "39845792"
+        ],
+        "losartan": [
+            "cd43f145e5ff29116418b3b4b4e93079"
+        ],
+        "vitamin b6": [
+            "64837cb210154c3c5dde872a3be3cbff"
+        ],
+        "vitamin c": [
+            "39845792"
+        ]
+    },
+    "adverse reactions": {
+        "amlodipine": [
+            "39845792"
+        ],
+        "analgin": [
+            "6d0c8c2694921b3371a332ebbbd692ef"
+        ],
+        "escitalopram": [
+            "d61918a7eb5a0c28e7c724d66e75a85c"
+        ],
+        "metformin": [
+            "09814f18fc34186ffda0143e0cb3f841",
+            "8337f48a474f1cc1f4cfb87b66d5ad77"
+        ],
+        "vitamin b6": [
+            "64837cb210154c3c5dde872a3be3cbff",
+            "e7b782746556ac332732661553ff8313"
+        ],
+        "vitamin c": [
+            "39845792"
+        ]
+    },
+    "jaundice": {
+        "amlodipine": [
+            "39845792"
+        ],
+        "vitamin b6": [
+            "64837cb210154c3c5dde872a3be3cbff"
+        ],
+        "vitamin c": [
+            "39845792"
+        ]
+    },
+    "vigilance adverse reaction": {
+        "amlodipine": [
+            "39834827"
+        ]
+    },
+    "mild-to-moderate hypertension": {
+        "amlodipine": [
+            "39731708"
+        ]
+    },
+    "grade 2 hypertension": {
+        "amlodipine": [
+            "39731708"
+        ]
+    },
+    "diarrhea": {
+        "amlodipine": [
+            "39551851"
+        ],
+        "codeine": [
+            "47be14d025f22ddfb2ee9fa6abb8d55e"
+        ],
+        "exenatide": [
+            "21fefd815838ea9f7d865fd429ca8283",
+            "5d21ff4064042e3009259b3ac85e273a",
+            "6137f0c6c1187bb701d860e740f1cb1a",
+            "6280dc4d64334c8b915703ce3dd1043d",
+            "d87c2decd97b31f3aee8fbc6602213a4"
+        ],
+        "imcivree": [
+            "a1115a47c59b79dd20c924178fc20322"
+        ],
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a"
+        ],
+        "metformin": [
+            "1a0a1aad69df7d3dafe59e4a2975350a",
+            "818a1140655fc0241e7d6c47855b2f20"
+        ],
+        "ozempic": [
+            "08c8b7ef80c3fe4c20741a66fc4c8aba",
+            "39892787",
+            "39892787.0",
+            "8628c2e0e7dd6ddf793e7fce78d166fd",
+            "9d76ac392e9433fb1c1d87e5fc3e2b47",
+            "b2bc471bd88e67e145d85f5ddc517d47"
+        ],
+        "paracetamol": [
+            "38986791"
+        ],
+        "rifaximin": [
+            "4d62130c2bc879c6e05398ec714196ca",
+            "8d1bb8f64ad4cbc3cc6c2c9a1ba8dccc",
+            "a2f7a83f96fbe76fdeb60ab3e5233727",
+            "f03c54a5e178c921dd7becf158c5f170"
+        ],
+        "sertraline": [
+            "cf195d1dcd8b9710a22a0624b20932cc",
+            "e8a47374ded337d27106553557703b64"
+        ],
+        "vitamin b12": [
+            "38532145"
+        ],
+        "vitamin b6": [
+            "d653a029164679496481b7879016f4da",
+            "db7e83cb553771a6e9a26233f5724513"
+        ]
+    },
+    "dizziness": {
+        "amlodipine": [
+            "39551851"
+        ],
+        "escitalopram": [
+            "412a893347facc5f0c5831aa62cc5c99"
+        ],
+        "exenatide": [
+            "f66bc2e813735a624c103d353eca1dae"
+        ],
+        "losartan": [
+            "8991a05a2aca92a40d443e909392cfa9",
+            "e10ad85d7680acc11b3ab43eecebf3fa"
+        ],
+        "ozempic": [
+            "f66bc2e813735a624c103d353eca1dae"
+        ],
+        "paracetamol": [
+            "39256291"
+        ],
+        "sertraline": [
+            "412a893347facc5f0c5831aa62cc5c99",
+            "cf195d1dcd8b9710a22a0624b20932cc",
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "headache": {
+        "amlodipine": [
+            "39551851"
+        ],
+        "escitalopram": [
+            "bde0261ca20ddba4f165eca20fb64632"
+        ],
+        "ibuprofen": [
+            "1cf8a01826626ebe7ffa001fbd4285f6",
+            "83a34072c95802d7795c1534039c2f09"
+        ],
+        "losartan": [
+            "c253fad37731d4bfafce05646bc731d5",
+            "e10ad85d7680acc11b3ab43eecebf3fa",
+            "fb13e6b7635d72c7fa748d588c15579a"
+        ],
+        "metformin": [
+            "322f9b982d416eb136d8b886557f504a",
+            "8d25860876a441da13d4fc49cb5cc591"
+        ],
+        "ozempic": [
+            "39901452",
+            "39901452.0",
+            "9753823818d287472479c95dda9f54f8"
+        ],
+        "paracetamol": [
+            "38986791",
+            "39776117"
+        ],
+        "sertraline": [
+            "221a8a49c7ed181963686a33dd4aa93b",
+            "e59f446add24d5b8a3de847e25c24049",
+            "e8a47374ded337d27106553557703b64"
+        ],
+        "vitamin b6": [
+            "5bfafb303a230caa80a0cded0d612979"
+        ]
+    },
+    "insomnia": {
+        "amlodipine": [
+            "39551851"
+        ],
+        "escitalopram": [
+            "0291e9651c4da7f36b818fb1724054cc",
+            "412a893347facc5f0c5831aa62cc5c99",
+            "5cedc9dfadc3d8303bd5248c8c5fda9e",
+            "f2a7a4136879e0e5226b28917690eff9"
+        ],
+        "exenatide": [
+            "87452dc1c59e26388e37ff91ae1c9702"
+        ],
+        "sertraline": [
+            "412a893347facc5f0c5831aa62cc5c99",
+            "5cedc9dfadc3d8303bd5248c8c5fda9e"
+        ]
+    },
+    "nausea": {
+        "amlodipine": [
+            "39551851"
+        ],
+        "analgin": [
+            "3330fbeec63a3dcd0b46665ea52491c1",
+            "451502436c9260174b343c1458dc5d01",
+            "a00cfc5b6ce822237fc02332cfabb670",
+            "fb406d0be640c712e567b6e2497475aa"
+        ],
+        "codeine": [
+            "47be14d025f22ddfb2ee9fa6abb8d55e"
+        ],
+        "escitalopram": [
+            "24f68212331aaad041a1a32c406aecd4",
+            "412a893347facc5f0c5831aa62cc5c99",
+            "7f9a6191f7cc706adf98a4a1bd347ed0",
+            "dfbc41a85354fe121ca87fd0e5af8151",
+            "f34c367089509c62ee03cb601d923129"
+        ],
+        "exenatide": [
+            "143c67d7fa01821901287ef3a5f3c72a",
+            "21fefd815838ea9f7d865fd429ca8283",
+            "279aca38b01bb3b8d60a5633e8ef30d7",
+            "2a4968483a99f45fcb4bd335e6d62a0b",
+            "392fdc4fac5f49377ad47ec3251b437b",
+            "393744c35f0e9d3652ee966ca5a52cee",
+            "3b7fba0c4d7d400029edb5e2d77a9866",
+            "6137f0c6c1187bb701d860e740f1cb1a",
+            "6280dc4d64334c8b915703ce3dd1043d",
+            "6566bd4e8213658ec06eac6ab2f35d56",
+            "810faa543719a355a93d9672be4d422e",
+            "d87c2decd97b31f3aee8fbc6602213a4",
+            "dcf43cf1bae6f1890004cf9c17fa2026"
+        ],
+        "imcivree": [
+            "a1115a47c59b79dd20c924178fc20322"
+        ],
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a",
+            "725b8e54a2cc4b8e37c11953ef67bc4d",
+            "cd43f145e5ff29116418b3b4b4e93079"
+        ],
+        "metformin": [
+            "664eaf8713b5058299c42c2f9a8ee9b3",
+            "f715037dbdcf5d774b6094cf7e22f6c2"
+        ],
+        "ozempic": [
+            "08c8b7ef80c3fe4c20741a66fc4c8aba",
+            "10d6bb5b0ab4833e694f244af23edaaa",
+            "39892787",
+            "39892787.0",
+            "8628c2e0e7dd6ddf793e7fce78d166fd",
+            "9d76ac392e9433fb1c1d87e5fc3e2b47",
+            "b2bc471bd88e67e145d85f5ddc517d47",
+            "f715037dbdcf5d774b6094cf7e22f6c2"
+        ],
+        "paracetamol": [
+            "38973007",
+            "38986791",
+            "39256291",
+            "39501393"
+        ],
+        "rifaximin": [
+            "4d62130c2bc879c6e05398ec714196ca"
+        ],
+        "sertraline": [
+            "412a893347facc5f0c5831aa62cc5c99",
+            "7f9a6191f7cc706adf98a4a1bd347ed0",
+            "cf195d1dcd8b9710a22a0624b20932cc",
+            "cf9b767e1abecd74c12bfd57931fd81b",
+            "e59f446add24d5b8a3de847e25c24049"
+        ],
+        "vitamin b6": [
+            "db7e83cb553771a6e9a26233f5724513"
+        ]
+    },
+    "rash": {
+        "amlodipine": [
+            "39551851"
+        ],
+        "analgin": [
+            "496158d6561535ac93c186872cb61672"
+        ],
+        "losartan": [
+            "36e535933cac8e12fa795d52de672de3",
+            "6b7c9e4e14cbe9357aff497390310a1f"
+        ]
+    },
+    "vomiting": {
+        "amlodipine": [
+            "39551851"
+        ],
+        "analgin": [
+            "8e6c9dd5bca54d12a4a9d1d4ade0f4ef",
+            "a00cfc5b6ce822237fc02332cfabb670",
+            "fa4149ae55b25690a3294e132d2084df",
+            "fb406d0be640c712e567b6e2497475aa"
+        ],
+        "escitalopram": [
+            "24f68212331aaad041a1a32c406aecd4"
+        ],
+        "exenatide": [
+            "21fefd815838ea9f7d865fd429ca8283",
+            "2a4968483a99f45fcb4bd335e6d62a0b",
+            "392fdc4fac5f49377ad47ec3251b437b",
+            "393744c35f0e9d3652ee966ca5a52cee",
+            "3b7fba0c4d7d400029edb5e2d77a9866",
+            "6137f0c6c1187bb701d860e740f1cb1a",
+            "6280dc4d64334c8b915703ce3dd1043d",
+            "6566bd4e8213658ec06eac6ab2f35d56",
+            "87452dc1c59e26388e37ff91ae1c9702",
+            "d87c2decd97b31f3aee8fbc6602213a4",
+            "dcf43cf1bae6f1890004cf9c17fa2026"
+        ],
+        "imcivree": [
+            "a1115a47c59b79dd20c924178fc20322"
+        ],
+        "losartan": [
+            "725b8e54a2cc4b8e37c11953ef67bc4d"
+        ],
+        "ozempic": [
+            "08c8b7ef80c3fe4c20741a66fc4c8aba",
+            "39892787",
+            "39892787.0",
+            "8628c2e0e7dd6ddf793e7fce78d166fd",
+            "9d76ac392e9433fb1c1d87e5fc3e2b47",
+            "b2bc471bd88e67e145d85f5ddc517d47"
+        ],
+        "paracetamol": [
+            "38973007",
+            "39501393"
+        ],
+        "vitamin b6": [
+            "4d4f1bbdd8ee65f1c9d007fd8f5ba0ed",
+            "a3eb6ddd72fe0f191ab817957b570296",
+            "db7e83cb553771a6e9a26233f5724513"
+        ]
+    },
+    "grade 1 hypertension": {
+        "amlodipine": [
+            "39551851"
+        ]
+    },
+    "itching": {
+        "amlodipine": [
+            "39551851"
+        ]
+    },
+    "drug-induced hyponatraemia": {
+        "amlodipine": [
+            "39419657"
+        ]
+    },
+    "edema": {
+        "analgin": [
+            "70dd6319878c24899a44c90688b47f1c"
+        ]
+    },
+    "ear edema": {
+        "analgin": [
+            "70dd6319878c24899a44c90688b47f1c"
+        ]
+    },
+    "fever": {
+        "analgin": [
+            "33824e9f2954cb6ef889ba47ce2e65bf",
+            "8c692a765434b6e357c960a3557ad089",
+            "fa4149ae55b25690a3294e132d2084df"
+        ],
+        "ibuprofen": [
+            "ba472f7801b61c946cb034f308b33c82"
+        ],
+        "inosine pranobex": [
+            "aaa8c3d0cedfdec22e120e4501f252e1"
+        ],
+        "losartan": [
+            "6b7c9e4e14cbe9357aff497390310a1f"
+        ],
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "pain": {
+        "analgin": [
+            "04741019bc5884de3bc27c1261997063",
+            "07ec739182b559d5d884b6528ee34789",
+            "0f66b3fb76fe72bf78da608399d39852",
+            "1f79b06e022d201e6f90b6d9967fc2bc",
+            "3330fbeec63a3dcd0b46665ea52491c1",
+            "33824e9f2954cb6ef889ba47ce2e65bf",
+            "3b74af3dacd9eb2e1a93dea053164bd7",
+            "451502436c9260174b343c1458dc5d01",
+            "5744682ef8700a782043837c18d5726c",
+            "783231b09a7c8e0194fdc9d6b0867586",
+            "79ca150e333de8f893100653a76aea11",
+            "a00cfc5b6ce822237fc02332cfabb670",
+            "a3fc380d81020168c5947acaaab25ce6",
+            "ce0c5dea0337cfb20a25eec9ad7cbea6",
+            "fa5ff37336d9ebcd4d39d68a818475b7",
+            "fb406d0be640c712e567b6e2497475aa"
+        ],
+        "codeine": [
+            "06bbbfd57c44522b86d1fa63e1d76bff",
+            "35f9846eb8a071a4cfbe4a6002e257ac",
+            "47be14d025f22ddfb2ee9fa6abb8d55e",
+            "6fd4b6d737956e2d9674bf28cd372514",
+            "9b422160ffcd2a0c6c2fb592eee0a421",
+            "a63da0844e35fbb98664b6b0af61aac3",
+            "af89d11ea6dee5eda5b4733e8a1fc4f7",
+            "c26fce3de26c30ca6c81b27c8abd70cf"
+        ],
+        "escitalopram": [
+            "32e09909ff50b3a11cacf90b1ca848a9",
+            "bde0261ca20ddba4f165eca20fb64632",
+            "d376ef0934f811a95349a1539999d703"
+        ],
+        "exenatide": [
+            "6137f0c6c1187bb701d860e740f1cb1a",
+            "d87c2decd97b31f3aee8fbc6602213a4",
+            "f66bc2e813735a624c103d353eca1dae",
+            "f9c5ca2d9c528d5ce5099054ff8b6740"
+        ],
+        "ibuprofen": [
+            "0df577e2f76452c7ba4027fd298561c2",
+            "1cf8a01826626ebe7ffa001fbd4285f6",
+            "20c4e33a34db116452576c0941fb7707",
+            "25967473ce5ff4fdaadb433d1effccd2",
+            "38943454",
+            "38980239",
+            "39892302",
+            "86d508d73bd17f3cb36a00255de18b4e",
+            "b6e5f410285dfd04b88336958822e0d0",
+            "ba472f7801b61c946cb034f308b33c82",
+            "c0a2296502304be4d8a2cedfcbb81a67",
+            "c26fce3de26c30ca6c81b27c8abd70cf",
+            "c9df3714115a8ac59a89b045be8d6c5a",
+            "f87efcb8acdde0e215c85f65ac1c6e32"
+        ],
+        "inosine pranobex": [
+            "aaa8c3d0cedfdec22e120e4501f252e1"
+        ],
+        "losartan": [
+            "c1b4ed8fa16f5175f6d5f3c57012b53b",
+            "c253fad37731d4bfafce05646bc731d5",
+            "fb13e6b7635d72c7fa748d588c15579a"
+        ],
+        "ozempic": [
+            "08c8b7ef80c3fe4c20741a66fc4c8aba",
+            "9d76ac392e9433fb1c1d87e5fc3e2b47",
+            "f66bc2e813735a624c103d353eca1dae"
+        ],
+        "paracetamol": [
+            "38730453",
+            "38813682",
+            "38854259",
+            "38888719",
+            "38943454",
+            "38973007",
+            "38994752",
+            "39140262",
+            "39161087",
+            "39222216",
+            "39256291",
+            "39347494",
+            "39501393",
+            "39542691",
+            "39741759",
+            "39764906",
+            "39776117",
+            "39780778",
+            "39892302",
+            "39950358"
+        ],
+        "radium chloride": [
+            "25f011238e9095ada0f31b37ddec5255",
+            "b48106b617eb2533474fc3a23dedcc49"
+        ],
+        "rifaximin": [
+            "014fc9396ddb33d7ae9ec047903c6fbf",
+            "9330b64fd64d25c548dadf30a517581a"
+        ],
+        "sertraline": [
+            "32e09909ff50b3a11cacf90b1ca848a9",
+            "e59f446add24d5b8a3de847e25c24049",
+            "e8a47374ded337d27106553557703b64"
+        ],
+        "vitamin b12": [
+            "38842764"
+        ],
+        "vitamin b6": [
+            "a7cc16fa83ca70c7f846df93766564e3",
+            "d89e0cda3fd49a1b05af3cf00409bbd0"
+        ]
+    },
+    "neutropenia": {
+        "analgin": [
+            "33824e9f2954cb6ef889ba47ce2e65bf"
+        ],
+        "losartan": [
+            "6b7c9e4e14cbe9357aff497390310a1f"
+        ]
+    },
+    "infection complication": {
+        "analgin": [
+            "33824e9f2954cb6ef889ba47ce2e65bf"
+        ]
+    },
+    "infection": {
+        "analgin": [
+            "33824e9f2954cb6ef889ba47ce2e65bf"
+        ],
+        "losartan": [
+            "b861de0ac893e0aafa454f03dcea4d19",
+            "df548252751d525f73dff0ecda0465d6"
+        ],
+        "metformin": [
+            "6ed4f87ec6c08515263c8ab98d421931"
+        ]
+    },
+    "depression": {
+        "analgin": [
+            "3330fbeec63a3dcd0b46665ea52491c1",
+            "783231b09a7c8e0194fdc9d6b0867586"
+        ],
+        "escitalopram": [
+            "0291e9651c4da7f36b818fb1724054cc",
+            "0a5aefbb3ac76b42af2b4836042a628e",
+            "0f5076de9323554649651019beb9cad0",
+            "22184910299ecdc1c79393b67789c629",
+            "2b9d5661d60c8636cb34dc9e7da22ee4",
+            "310a36ca567224f8b376cc6f4c5a7dba",
+            "32e09909ff50b3a11cacf90b1ca848a9",
+            "39c77bc37c8db861612d5a0873ca147e",
+            "412a893347facc5f0c5831aa62cc5c99",
+            "5cedc9dfadc3d8303bd5248c8c5fda9e",
+            "7f9a6191f7cc706adf98a4a1bd347ed0",
+            "834e01a9f77418b1b907b8805c5951b3",
+            "95eb423a87ba77c2631da8d55fea5256",
+            "9ad9a7617013119dd92b87363c20ca65",
+            "a4b964c24ec969a885f4e372db5b6d42",
+            "af451cbd418f498325a4f6ac2d709d4e",
+            "d09cd0455746c240ba240233a2090c10",
+            "d61918a7eb5a0c28e7c724d66e75a85c",
+            "dfbc41a85354fe121ca87fd0e5af8151",
+            "f2a7a4136879e0e5226b28917690eff9",
+            "f34c367089509c62ee03cb601d923129",
+            "fa5e616cc92b351fea1085e2c27e7222"
+        ],
+        "ethylmethylhydroxypyridine succinate": [
+            "4582607fe7eb719fb3caf8de705161a6",
+            "4ac80824dd3e9ba7738bf3545d3751d3"
+        ],
+        "exenatide": [
+            "6016f2e9a9818f5c2f3dbeee39a7d7ec"
+        ],
+        "losartan": [
+            "8cba65e9b38e8d388bbf455d2bdb3db5"
+        ],
+        "metformin": [
+            "ec81ab4cfae1bdc6689407cf67aa2522"
+        ],
+        "ozempic": [
+            "95cbf854129b1495975785865ca4960f"
+        ],
+        "sertraline": [
+            "0746605937cce58da7a62b92bee163b1",
+            "221a8a49c7ed181963686a33dd4aa93b",
+            "32e09909ff50b3a11cacf90b1ca848a9",
+            "412a893347facc5f0c5831aa62cc5c99",
+            "4df1cf39195d5264ef28e76fa259d973",
+            "52bc2c1b2e5bf2606fc38310fd13a929",
+            "5cedc9dfadc3d8303bd5248c8c5fda9e",
+            "7f9a6191f7cc706adf98a4a1bd347ed0",
+            "9ad9a7617013119dd92b87363c20ca65",
+            "9ce33d3529b1798a19f1c8595edc6636",
+            "9efb8dc241a8bc2d741aaa9f4241fd2d",
+            "a1ccdab8702a3dc78610d11b970a795b",
+            "e035f7595a699c063decd4f057df68c5",
+            "e59f446add24d5b8a3de847e25c24049"
+        ],
+        "vitamin b6": [
+            "7fb28f9894b794d55d9ffbf110e68def"
+        ]
+    },
+    "respiratory depression": {
+        "analgin": [
+            "3330fbeec63a3dcd0b46665ea52491c1",
+            "783231b09a7c8e0194fdc9d6b0867586"
+        ]
+    },
+    "hepatotoxicity": {
+        "analgin": [
+            "6780cd75c9adff0a0a384ce20c8bf581",
+            "bb74cc9a4239bc36bd39022d47951594"
+        ],
+        "ibuprofen": [
+            "421bc1d27e9c3add6ed39ee3e76b4aed"
+        ],
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a"
+        ],
+        "paracetamol": [
+            "39222216"
+        ],
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ],
+        "vitamin b6": [
+            "db7e83cb553771a6e9a26233f5724513"
+        ]
+    },
+    "nephrotoxicity": {
+        "analgin": [
+            "6780cd75c9adff0a0a384ce20c8bf581"
+        ],
+        "vitamin b6": [
+            "db7e83cb553771a6e9a26233f5724513"
+        ]
+    },
+    "bleeding": {
+        "analgin": [
+            "6780cd75c9adff0a0a384ce20c8bf581"
+        ],
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a"
+        ],
+        "sertraline": [
+            "01b7793081e5a4fbdb1e3ec557227822"
+        ]
+    },
+    "hypotension": {
+        "analgin": [
+            "04741019bc5884de3bc27c1261997063"
+        ],
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a",
+            "8b74541af8da0a2eec1cac5a5c1927b6",
+            "96d9108f1bbde7aec8d5c083ed5f3695",
+            "c1b4ed8fa16f5175f6d5f3c57012b53b",
+            "e5870b8e0bf385a74eb5232a7d3d26c1"
+        ]
+    },
+    "lower back pain": {
+        "analgin": [
+            "04741019bc5884de3bc27c1261997063"
+        ]
+    },
+    "chills": {
+        "analgin": [
+            "04741019bc5884de3bc27c1261997063"
+        ]
+    },
+    "allergic reactions/anaphylaxis": {
+        "analgin": [
+            "0f66b3fb76fe72bf78da608399d39852"
+        ]
+    },
+    "side effects": {
+        "analgin": [
+            "0f66b3fb76fe72bf78da608399d39852",
+            "3b74af3dacd9eb2e1a93dea053164bd7",
+            "5744682ef8700a782043837c18d5726c",
+            "79ca150e333de8f893100653a76aea11"
+        ],
+        "codeine": [
+            "35f9846eb8a071a4cfbe4a6002e257ac"
+        ],
+        "escitalopram": [
+            "0a5aefbb3ac76b42af2b4836042a628e",
+            "24f68212331aaad041a1a32c406aecd4",
+            "6221c044de0561eb6c55ec581c454a03",
+            "97a8070010cf25316c45da6dc3a9b1c2",
+            "f2a7a4136879e0e5226b28917690eff9"
+        ],
+        "ethylmethylhydroxypyridine succinate": [
+            "45a813e046e7b9bb22149f032f904eb4"
+        ],
+        "exenatide": [
+            "5d21ff4064042e3009259b3ac85e273a",
+            "bc3865a3e9b57951ec2fc3f7236f8dc5",
+            "f66bc2e813735a624c103d353eca1dae"
+        ],
+        "ibuprofen": [
+            "25967473ce5ff4fdaadb433d1effccd2",
+            "4ca066151e36a9ef4365b4761eb75c40"
+        ],
+        "inosine pranobex": [
+            "7c1a9839ecc4a42307510cc87e8fd442"
+        ],
+        "losartan": [
+            "0ecd4bef01043f47ad82e7fc7fdba957",
+            "19e60b98b906e22cbca957a064f7d049",
+            "363e3acb9c78e99383fb0bc95ab0070c",
+            "4ffc1b3da757cea78c4d9531005dabf6",
+            "505788e8cf7112642f7a392995d6373a",
+            "6b7c9e4e14cbe9357aff497390310a1f",
+            "8991a05a2aca92a40d443e909392cfa9",
+            "95024c8a8efd37e21e0aa04981c6da88",
+            "a2703dd45aca6dfeb9e7f43ff0125500",
+            "c1b4ed8fa16f5175f6d5f3c57012b53b",
+            "c253fad37731d4bfafce05646bc731d5",
+            "e10ad85d7680acc11b3ab43eecebf3fa",
+            "ea7785a0910ba431d665f5de63ca01ff"
+        ],
+        "metformin": [
+            "406bb66a6c83d71f93aafa4d59dd8fad",
+            "6ed4f87ec6c08515263c8ab98d421931",
+            "9f0dc5f38f9f369d000eb7564c0f2595"
+        ],
+        "ozempic": [
+            "10d6bb5b0ab4833e694f244af23edaaa",
+            "6b5888786693e08c35906de1f3a84d0d",
+            "73bc0ab9127742ff775085bdfdbb6630",
+            "74bd92c1905264ca875eb57966d938da",
+            "f66bc2e813735a624c103d353eca1dae",
+            "nan"
+        ],
+        "paracetamol": [
+            "38973007",
+            "38985100",
+            "38986791",
+            "39140262",
+            "39542691",
+            "39776117"
+        ],
+        "rifaximin": [
+            "51f7a38aa0a80a040ddeb1662c295e92",
+            "acdd741667f975dcfa1669ed40de0c4f"
+        ],
+        "sertraline": [
+            "01b7793081e5a4fbdb1e3ec557227822",
+            "221a8a49c7ed181963686a33dd4aa93b",
+            "4df1cf39195d5264ef28e76fa259d973",
+            "564df2680eb55ee4133d1e28cbdbc2ea",
+            "97a8070010cf25316c45da6dc3a9b1c2",
+            "a963c7b683086137b6f36499f10f46c7",
+            "dda372aae2bfbc25b13629a97d21ace1",
+            "e035f7595a699c063decd4f057df68c5",
+            "e59f446add24d5b8a3de847e25c24049",
+            "e8a47374ded337d27106553557703b64"
+        ],
+        "vitamin b12": [
+            "38451666",
+            "39582666"
+        ],
+        "vitamin b6": [
+            "196653406328c36682bcef4cc4de049a",
+            "9c613db0bc18ec01b8dd4134bbaabbc4"
+        ]
+    },
+    "nausea scores": {
+        "analgin": [
+            "451502436c9260174b343c1458dc5d01"
+        ]
+    },
+    "gastrointestinal bleeding": {
+        "analgin": [
+            "bb74cc9a4239bc36bd39022d47951594"
+        ]
+    },
+    "anaphylaxis": {
+        "analgin": [
+            "bb74cc9a4239bc36bd39022d47951594"
+        ]
+    },
+    "pruritus": {
+        "analgin": [
+            "3330fbeec63a3dcd0b46665ea52491c1",
+            "e23aa5f501837ecd6f5ffe4a6376377c"
+        ],
+        "losartan": [
+            "725b8e54a2cc4b8e37c11953ef67bc4d"
+        ],
+        "paracetamol": [
+            "39501393"
+        ]
+    },
+    "swelling": {
+        "analgin": [
+            "e23aa5f501837ecd6f5ffe4a6376377c"
+        ],
+        "ibuprofen": [
+            "39683414",
+            "7e0764eb85a26448a41544fc8a7d2eb9"
+        ],
+        "losartan": [
+            "41c08098a758237dd91ecb5ad3c50cff"
+        ]
+    },
+    "high fever": {
+        "analgin": [
+            "8c692a765434b6e357c960a3557ad089"
+        ]
+    },
+    "fever group": {
+        "analgin": [
+            "8c692a765434b6e357c960a3557ad089"
+        ]
+    },
+    "postoperative vomiting": {
+        "analgin": [
+            "8e6c9dd5bca54d12a4a9d1d4ade0f4ef"
+        ]
+    },
+    "fever-associated symptoms": {
+        "analgin": [
+            "fa4149ae55b25690a3294e132d2084df"
+        ]
+    },
+    "transient urticaria": {
+        "analgin": [
+            "fa4149ae55b25690a3294e132d2084df"
+        ]
+    },
+    "urticaria": {
+        "analgin": [
+            "496158d6561535ac93c186872cb61672"
+        ]
+    },
+    "hallucinations": {
+        "analgin": [
+            "3330fbeec63a3dcd0b46665ea52491c1"
+        ],
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "hematuria": {
+        "analgin": [
+            "07ec739182b559d5d884b6528ee34789"
+        ]
+    },
+    "constipation": {
+        "codeine": [
+            "35f9846eb8a071a4cfbe4a6002e257ac",
+            "a63da0844e35fbb98664b6b0af61aac3"
+        ],
+        "exenatide": [
+            "6137f0c6c1187bb701d860e740f1cb1a",
+            "d87c2decd97b31f3aee8fbc6602213a4"
+        ],
+        "losartan": [
+            "226e4ca0ae536cd9a45ac77731e75a62",
+            "725b8e54a2cc4b8e37c11953ef67bc4d"
+        ],
+        "metformin": [
+            "758133236cde21ead3624ef6be5a9b20",
+            "fa535dc0f7db921e8a4cf42cdd602c8d"
+        ],
+        "ozempic": [
+            "10d6bb5b0ab4833e694f244af23edaaa",
+            "b2bc471bd88e67e145d85f5ddc517d47"
+        ],
+        "paracetamol": [
+            "39501393",
+            "39542691"
+        ],
+        "rifaximin": [
+            "9330b64fd64d25c548dadf30a517581a",
+            "b3caac7907ddb0491bfa3ecb9755dfdd",
+            "e6ed9941f039e402eb8c4d27894ae7b9"
+        ]
+    },
+    "side effect": {
+        "codeine": [
+            "a63da0844e35fbb98664b6b0af61aac3"
+        ],
+        "escitalopram": [
+            "310a36ca567224f8b376cc6f4c5a7dba",
+            "bde0261ca20ddba4f165eca20fb64632",
+            "f2a7a4136879e0e5226b28917690eff9"
+        ],
+        "losartan": [
+            "226e4ca0ae536cd9a45ac77731e75a62",
+            "31b10436efada662b971fbad295f1a11",
+            "4ab524bc30b086598d31feccddd264d8",
+            "725b8e54a2cc4b8e37c11953ef67bc4d",
+            "bd37ceafceb308bc6044d91d36f93bc1"
+        ],
+        "paracetamol": [
+            "38986791",
+            "39891519"
+        ],
+        "sertraline": [
+            "221a8a49c7ed181963686a33dd4aa93b"
+        ]
+    },
+    "side effect profile": {
+        "codeine": [
+            "c26fce3de26c30ca6c81b27c8abd70cf"
+        ],
+        "ibuprofen": [
+            "38943454",
+            "c26fce3de26c30ca6c81b27c8abd70cf"
+        ],
+        "nurofen": [
+            "f7861896b07c0f0c289753b7a8dd3d10"
+        ],
+        "ozempic": [
+            "74bd92c1905264ca875eb57966d938da"
+        ],
+        "paracetamol": [
+            "38943454"
+        ]
+    },
+    "coughing": {
+        "codeine": [
+            "6fd4b6d737956e2d9674bf28cd372514"
+        ],
+        "paracetamol": [
+            "38888719"
+        ]
+    },
+    "abdominal pain": {
+        "codeine": [
+            "47be14d025f22ddfb2ee9fa6abb8d55e"
+        ],
+        "exenatide": [
+            "6137f0c6c1187bb701d860e740f1cb1a",
+            "f9c5ca2d9c528d5ce5099054ff8b6740"
+        ],
+        "ozempic": [
+            "9d76ac392e9433fb1c1d87e5fc3e2b47"
+        ],
+        "rifaximin": [
+            "014fc9396ddb33d7ae9ec047903c6fbf",
+            "9330b64fd64d25c548dadf30a517581a"
+        ]
+    },
+    "irritability": {
+        "escitalopram": [
+            "5cedc9dfadc3d8303bd5248c8c5fda9e"
+        ],
+        "sertraline": [
+            "5cedc9dfadc3d8303bd5248c8c5fda9e"
+        ]
+    },
+    "hamilton depression scale": {
+        "escitalopram": [
+            "39c77bc37c8db861612d5a0873ca147e",
+            "d61918a7eb5a0c28e7c724d66e75a85c",
+            "f34c367089509c62ee03cb601d923129"
+        ]
+    },
+    "hamilton anxiety scale": {
+        "escitalopram": [
+            "f34c367089509c62ee03cb601d923129"
+        ]
+    },
+    "hamilton depression rating scale": {
+        "escitalopram": [
+            "2b9d5661d60c8636cb34dc9e7da22ee4",
+            "310a36ca567224f8b376cc6f4c5a7dba",
+            "d09cd0455746c240ba240233a2090c10",
+            "fa5e616cc92b351fea1085e2c27e7222"
+        ],
+        "sertraline": [
+            "4df1cf39195d5264ef28e76fa259d973",
+            "9ce33d3529b1798a19f1c8595edc6636",
+            "e035f7595a699c063decd4f057df68c5"
+        ]
+    },
+    "hamilton anxiety rating scale": {
+        "escitalopram": [
+            "310a36ca567224f8b376cc6f4c5a7dba",
+            "95eb423a87ba77c2631da8d55fea5256",
+            "d09cd0455746c240ba240233a2090c10"
+        ]
+    },
+    "side effect scale": {
+        "escitalopram": [
+            "39c77bc37c8db861612d5a0873ca147e",
+            "6221c044de0561eb6c55ec581c454a03",
+            "d09cd0455746c240ba240233a2090c10"
+        ]
+    },
+    "beck depression inventory scale": {
+        "escitalopram": [
+            "95eb423a87ba77c2631da8d55fea5256"
+        ]
+    },
+    "uku-side effect scale": {
+        "escitalopram": [
+            "95eb423a87ba77c2631da8d55fea5256"
+        ]
+    },
+    "mild cognitive impairment": {
+        "escitalopram": [
+            "13ac72722f54d20e34684f96cfdd5a34"
+        ],
+        "ozempic": [
+            "97518bc3a392c33a6e06942a5714e2e3"
+        ]
+    },
+    "seizure": {
+        "escitalopram": [
+            "2b9d5661d60c8636cb34dc9e7da22ee4",
+            "8e5f9abc784b6040f0d224658c95700a"
+        ],
+        "ibuprofen": [
+            "66d303798b25bae9c4dab63b6b4e9145"
+        ],
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a"
+        ],
+        "sertraline": [
+            "8e5f9abc784b6040f0d224658c95700a"
+        ],
+        "vitamin b6": [
+            "4d4f1bbdd8ee65f1c9d007fd8f5ba0ed",
+            "d653a029164679496481b7879016f4da"
+        ]
+    },
+    "tremor": {
+        "escitalopram": [
+            "8e5f9abc784b6040f0d224658c95700a"
+        ],
+        "losartan": [
+            "cd43f145e5ff29116418b3b4b4e93079"
+        ],
+        "metformin": [
+            "968640b8aa59ab18d044be65269d0c82"
+        ],
+        "sertraline": [
+            "8e5f9abc784b6040f0d224658c95700a"
+        ]
+    },
+    "weight gain": {
+        "escitalopram": [
+            "8e5f9abc784b6040f0d224658c95700a",
+            "c39c002419c33a54a4e0bf866694757f",
+            "f2a7a4136879e0e5226b28917690eff9"
+        ],
+        "exenatide": [
+            "ea28c1660c7cff7e0a300182c916fdfc"
+        ],
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a"
+        ],
+        "metformin": [
+            "7ea36e833c301d8220f199abec1e3a73"
+        ],
+        "sertraline": [
+            "8e5f9abc784b6040f0d224658c95700a",
+            "c39c002419c33a54a4e0bf866694757f"
+        ]
+    },
+    "drug-induced liver injury": {
+        "escitalopram": [
+            "8e5f9abc784b6040f0d224658c95700a"
+        ],
+        "sertraline": [
+            "8e5f9abc784b6040f0d224658c95700a"
+        ]
+    },
+    "side effect rating scale": {
+        "escitalopram": [
+            "1050b99056e1ce6a3d1cb88e7d188e56"
+        ]
+    },
+    "hamilton depression": {
+        "escitalopram": [
+            "834e01a9f77418b1b907b8805c5951b3"
+        ]
+    },
+    "hamilton anxiety (hama) scales": {
+        "escitalopram": [
+            "834e01a9f77418b1b907b8805c5951b3"
+        ]
+    },
+    "treatment-related side effects": {
+        "escitalopram": [
+            "0a7891646aa5a90b0de4d94706d2f04e"
+        ],
+        "paracetamol": [
+            "39161087"
+        ]
+    },
+    "montgomery-åsberg depression rating scale": {
+        "escitalopram": [
+            "22184910299ecdc1c79393b67789c629",
+            "412a893347facc5f0c5831aa62cc5c99",
+            "af451cbd418f498325a4f6ac2d709d4e",
+            "fa5e616cc92b351fea1085e2c27e7222"
+        ],
+        "sertraline": [
+            "412a893347facc5f0c5831aa62cc5c99"
+        ]
+    },
+    "depression rating scales": {
+        "escitalopram": [
+            "412a893347facc5f0c5831aa62cc5c99"
+        ],
+        "sertraline": [
+            "412a893347facc5f0c5831aa62cc5c99"
+        ]
+    },
+    "drowsiness": {
+        "escitalopram": [
+            "0a5aefbb3ac76b42af2b4836042a628e",
+            "412a893347facc5f0c5831aa62cc5c99"
+        ],
+        "sertraline": [
+            "412a893347facc5f0c5831aa62cc5c99"
+        ]
+    },
+    "blurred vision": {
+        "escitalopram": [
+            "412a893347facc5f0c5831aa62cc5c99"
+        ],
+        "sertraline": [
+            "412a893347facc5f0c5831aa62cc5c99"
+        ]
+    },
+    "undesirable effects": {
+        "escitalopram": [
+            "412a893347facc5f0c5831aa62cc5c99"
+        ],
+        "sertraline": [
+            "412a893347facc5f0c5831aa62cc5c99"
+        ]
+    },
+    "beck's depression inventory": {
+        "escitalopram": [
+            "310a36ca567224f8b376cc6f4c5a7dba"
+        ]
+    },
+    "fatigue": {
+        "escitalopram": [
+            "7f9a6191f7cc706adf98a4a1bd347ed0"
+        ],
+        "metformin": [
+            "1a0a1aad69df7d3dafe59e4a2975350a"
+        ],
+        "sertraline": [
+            "7f9a6191f7cc706adf98a4a1bd347ed0",
+            "cf9b767e1abecd74c12bfd57931fd81b",
+            "e8a47374ded337d27106553557703b64"
+        ],
+        "vitamin b6": [
+            "7fb28f9894b794d55d9ffbf110e68def"
+        ]
+    },
+    "child/adolescent anxiety multimodal study": {
+        "escitalopram": [
+            "c39c002419c33a54a4e0bf866694757f"
+        ],
+        "sertraline": [
+            "c39c002419c33a54a4e0bf866694757f"
+        ]
+    },
+    "bipolar depression": {
+        "escitalopram": [
+            "32e09909ff50b3a11cacf90b1ca848a9"
+        ],
+        "sertraline": [
+            "32e09909ff50b3a11cacf90b1ca848a9"
+        ]
+    },
+    "total cholesterol (tc)/triglycerides/weight gain": {
+        "escitalopram": [
+            "32e09909ff50b3a11cacf90b1ca848a9"
+        ],
+        "sertraline": [
+            "32e09909ff50b3a11cacf90b1ca848a9"
+        ]
+    },
+    "cancer-related depression": {
+        "escitalopram": [
+            "dfbc41a85354fe121ca87fd0e5af8151"
+        ]
+    },
+    "treatment-resistant depression": {
+        "escitalopram": [
+            "dfbc41a85354fe121ca87fd0e5af8151"
+        ]
+    },
+    "treatment-resistant unipolar depression": {
+        "escitalopram": [
+            "dfbc41a85354fe121ca87fd0e5af8151"
+        ]
+    },
+    "headaches": {
+        "escitalopram": [
+            "dfbc41a85354fe121ca87fd0e5af8151",
+            "f2a7a4136879e0e5226b28917690eff9"
+        ],
+        "ibuprofen": [
+            "b6e5f410285dfd04b88336958822e0d0"
+        ]
+    },
+    "depression study": {
+        "escitalopram": [
+            "f2a7a4136879e0e5226b28917690eff9"
+        ]
+    },
+    "insomnia prs": {
+        "escitalopram": [
+            "f2a7a4136879e0e5226b28917690eff9"
+        ]
+    },
+    "toronto side effects scale": {
+        "escitalopram": [
+            "0a5aefbb3ac76b42af2b4836042a628e"
+        ]
+    },
+    "anxious depression": {
+        "escitalopram": [
+            "0a5aefbb3ac76b42af2b4836042a628e"
+        ]
+    },
+    "national institutes of health stroke scale": {
+        "escitalopram": [
+            "d61918a7eb5a0c28e7c724d66e75a85c"
+        ]
+    },
+    "edinburgh-scandinavian stroke scale": {
+        "escitalopram": [
+            "d61918a7eb5a0c28e7c724d66e75a85c"
+        ]
+    },
+    "angioedema'": {
+        "escitalopram": [
+            "28ce3832d502cda262ef8cb05cb71235"
+        ]
+    },
+    "beck anxiety scale": {
+        "ethylmethylhydroxypyridine succinate": [
+            "fa9c891be84243f8fe913dd85c0dd73b"
+        ]
+    },
+    "lipid peroxidation": {
+        "ethylmethylhydroxypyridine succinate": [
+            "461d23eee15e844286cdbe16e3ccd408"
+        ]
+    },
+    "reactive oxygen species": {
+        "ethylmethylhydroxypyridine succinate": [
+            "461d23eee15e844286cdbe16e3ccd408"
+        ],
+        "vitamin c": [
+            "39963096"
+        ]
+    },
+    "dysgeusia": {
+        "exenatide": [
+            "9c54fcf0aa756d53fb089cbc7f300bc9"
+        ],
+        "ozempic": [
+            "39936458",
+            "39936458.0",
+            "9c54fcf0aa756d53fb089cbc7f300bc9"
+        ]
+    },
+    "tinnitus": {
+        "exenatide": [
+            "9c54fcf0aa756d53fb089cbc7f300bc9"
+        ],
+        "ozempic": [
+            "39936458",
+            "39936458.0",
+            "9c54fcf0aa756d53fb089cbc7f300bc9"
+        ]
+    },
+    "vertigo": {
+        "exenatide": [
+            "f66bc2e813735a624c103d353eca1dae"
+        ],
+        "ozempic": [
+            "f66bc2e813735a624c103d353eca1dae"
+        ]
+    },
+    "weight loss": {
+        "exenatide": [
+            "2a4968483a99f45fcb4bd335e6d62a0b",
+            "810faa543719a355a93d9672be4d422e",
+            "f630f16e1c199d3efa2f084ab562101a"
+        ],
+        "imcivree": [
+            "782b70e3597c98565c27d5ebdcc3b4a3"
+        ],
+        "metformin": [
+            "1a0a1aad69df7d3dafe59e4a2975350a"
+        ],
+        "ozempic": [
+            "10d6bb5b0ab4833e694f244af23edaaa",
+            "39901452",
+            "39901452.0",
+            "73bc0ab9127742ff775085bdfdbb6630",
+            "74bd92c1905264ca875eb57966d938da",
+            "9753823818d287472479c95dda9f54f8",
+            "d271cca67ff0ab12f2734cb7eaacfea4"
+        ],
+        "vitamin b12": [
+            "38714632"
+        ]
+    },
+    "insulin resistance": {
+        "exenatide": [
+            "143c67d7fa01821901287ef3a5f3c72a",
+            "f6a9e44220b1a88c6bbc49fce1f40595"
+        ],
+        "imcivree": [
+            "affe83cd109c63345ef716abd9418730"
+        ],
+        "losartan": [
+            "9966ee71be66d904721f34cac717300f"
+        ],
+        "metformin": [
+            "5b580f383b4a9339336b9bb54bc9d2eb",
+            "89adda2ee05d7b3353c3cb509d3f7e8d",
+            "9676f9c1b9a8809f941b49e08ffc8890",
+            "c35597813b4f2f9cacc3376054cf1601",
+            "eb67ccd33b9b06f55acc86851735cbdc",
+            "ec81ab4cfae1bdc6689407cf67aa2522",
+            "f6a9e44220b1a88c6bbc49fce1f40595"
+        ]
+    },
+    "gi bleeding": {
+        "exenatide": [
+            "6137f0c6c1187bb701d860e740f1cb1a"
+        ]
+    },
+    "general medical condition-insomnia type": {
+        "exenatide": [
+            "87452dc1c59e26388e37ff91ae1c9702"
+        ]
+    },
+    "self-induced vomiting": {
+        "exenatide": [
+            "87452dc1c59e26388e37ff91ae1c9702"
+        ]
+    },
+    "hyperglycemia": {
+        "exenatide": [
+            "dcf43cf1bae6f1890004cf9c17fa2026"
+        ]
+    },
+    "hypoglycemia": {
+        "exenatide": [
+            "0511829b39867c8d97323de72e29fcb7",
+            "117bbeda0e5d232b9151c8de2fa2020b",
+            "21fefd815838ea9f7d865fd429ca8283",
+            "6280dc4d64334c8b915703ce3dd1043d",
+            "7418e2a4f89c8d6e8651e32e1bb62daf",
+            "810faa543719a355a93d9672be4d422e",
+            "bac10ecb553fa0cec912f4347f9278e4",
+            "dcf43cf1bae6f1890004cf9c17fa2026",
+            "e393a95ee187273b744aa90ddce7349e",
+            "f1340ec800660f49c9885b90fec86093"
+        ],
+        "metformin": [
+            "3dd0408a19e47018794025f658732821",
+            "4bdc5f417112035b7df0630e53d01d55",
+            "7ea36e833c301d8220f199abec1e3a73",
+            "d78804578145b5d7a7892fdf3a4baba8"
+        ],
+        "ozempic": [
+            "6b5888786693e08c35906de1f3a84d0d"
+        ],
+        "sitagliptin": [
+            "39636567",
+            "39792745"
+        ]
+    },
+    "acute ischemic stroke": {
+        "exenatide": [
+            "dcf43cf1bae6f1890004cf9c17fa2026"
+        ]
+    },
+    "stroke": {
+        "exenatide": [
+            "d89218094ee15e32d2dc9e75e644a432",
+            "dcf43cf1bae6f1890004cf9c17fa2026"
+        ]
+    },
+    "national institutes of health stroke scale score": {
+        "exenatide": [
+            "dcf43cf1bae6f1890004cf9c17fa2026"
+        ]
+    },
+    "national institutes of health stroke scale scores": {
+        "exenatide": [
+            "dcf43cf1bae6f1890004cf9c17fa2026"
+        ]
+    },
+    "poststroke": {
+        "exenatide": [
+            "dcf43cf1bae6f1890004cf9c17fa2026"
+        ]
+    },
+    "lower diarrhea rate": {
+        "exenatide": [
+            "5d21ff4064042e3009259b3ac85e273a"
+        ]
+    },
+    "non-fatal stroke": {
+        "exenatide": [
+            "3c3fd23672a9acaf721202b791b6f6ed"
+        ]
+    },
+    "gastroesophageal reflux disease": {
+        "exenatide": [
+            "d87c2decd97b31f3aee8fbc6602213a4"
+        ]
+    },
+    "abdominal pain upper": {
+        "exenatide": [
+            "d87c2decd97b31f3aee8fbc6602213a4"
+        ]
+    },
+    "dyspepsia": {
+        "exenatide": [
+            "392fdc4fac5f49377ad47ec3251b437b"
+        ],
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a"
+        ]
+    },
+    "hypoglycaemia": {
+        "exenatide": [
+            "23d7d1f78898931f0dba78f3d3423bac",
+            "279aca38b01bb3b8d60a5633e8ef30d7",
+            "45d81553a85786a553fec7b39c3d93fa",
+            "a7b16d37a1ffaffe4d153d9a81be40cf"
+        ],
+        "metformin": [
+            "49e5e8077b3d6f263f4e60d6a82c5600",
+            "65659117a2f1f7bb95be7a3211781c68",
+            "857738540f8faa044a3963ff0d7c6de7",
+            "af6f6f15d777cbbeebe1d730bbfea5e1",
+            "fa535dc0f7db921e8a4cf42cdd602c8d"
+        ],
+        "ozempic": [
+            "39820580",
+            "39820580.0",
+            "39848268",
+            "39848268.0",
+            "b8f57e9fa4f103cbecb84c8abcba5c7b",
+            "ee8ff066438f6c99a51ad93b0be033e6"
+        ]
+    },
+    "per heart failure": {
+        "exenatide": [
+            "a7b16d37a1ffaffe4d153d9a81be40cf"
+        ]
+    },
+    "heart failure": {
+        "exenatide": [
+            "a7b16d37a1ffaffe4d153d9a81be40cf"
+        ],
+        "losartan": [
+            "9f0184760f3dc11ecfac5d854743e1f2"
+        ],
+        "metformin": [
+            "8337f48a474f1cc1f4cfb87b66d5ad77"
+        ]
+    },
+    "genital infections": {
+        "exenatide": [
+            "279aca38b01bb3b8d60a5633e8ef30d7"
+        ]
+    },
+    "arthritis": {
+        "ibuprofen": [
+            "2f9e6d1efd8bdf4f5c2b06af6eaaed4d",
+            "39789705"
+        ]
+    },
+    "fetal nephrotoxicity": {
+        "ibuprofen": [
+            "39714827",
+            "d2685d906e8a110f87a58c96b5abe696"
+        ]
+    },
+    "seizures": {
+        "ibuprofen": [
+            "3cc110b41f8d2e5941a6b8cff8913e2c",
+            "66d303798b25bae9c4dab63b6b4e9145"
+        ],
+        "paracetamol": [
+            "38857015"
+        ],
+        "vitamin b6": [
+            "4d4f1bbdd8ee65f1c9d007fd8f5ba0ed",
+            "d653a029164679496481b7879016f4da"
+        ]
+    },
+    "thrombocytopenia": {
+        "ibuprofen": [
+            "421bc1d27e9c3add6ed39ee3e76b4aed"
+        ],
+        "metformin": [
+            "1a0a1aad69df7d3dafe59e4a2975350a"
+        ],
+        "vitamin b6": [
+            "db7e83cb553771a6e9a26233f5724513"
+        ]
+    },
+    "acute headache": {
+        "ibuprofen": [
+            "1cf8a01826626ebe7ffa001fbd4285f6",
+            "83a34072c95802d7795c1534039c2f09"
+        ]
+    },
+    "myocardial infarction": {
+        "ibuprofen": [
+            "66d303798b25bae9c4dab63b6b4e9145"
+        ],
+        "metformin": [
+            "8337f48a474f1cc1f4cfb87b66d5ad77"
+        ]
+    },
+    "sore throats": {
+        "ibuprofen": [
+            "4ca066151e36a9ef4365b4761eb75c40"
+        ]
+    },
+    "headache society headache registry": {
+        "ibuprofen": [
+            "83a34072c95802d7795c1534039c2f09"
+        ]
+    },
+    "earache": {
+        "ibuprofen": [
+            "b6e5f410285dfd04b88336958822e0d0"
+        ]
+    },
+    "musculoskeletal pain": {
+        "ibuprofen": [
+            "b6e5f410285dfd04b88336958822e0d0"
+        ]
+    },
+    "cough": {
+        "inosine pranobex": [
+            "aaa8c3d0cedfdec22e120e4501f252e1"
+        ]
+    },
+    "chest pain": {
+        "inosine pranobex": [
+            "aaa8c3d0cedfdec22e120e4501f252e1"
+        ]
+    },
+    "bacterial superinfection": {
+        "inosine pranobex": [
+            "aaa8c3d0cedfdec22e120e4501f252e1"
+        ]
+    },
+    "chronic viral infections": {
+        "losartan": [
+            "c1b4ed8fa16f5175f6d5f3c57012b53b"
+        ]
+    },
+    "hypersensitivity": {
+        "losartan": [
+            "c1b4ed8fa16f5175f6d5f3c57012b53b"
+        ]
+    },
+    "hypersensitivity reactions": {
+        "losartan": [
+            "c1b4ed8fa16f5175f6d5f3c57012b53b"
+        ]
+    },
+    "proteinuria": {
+        "losartan": [
+            "95024c8a8efd37e21e0aa04981c6da88",
+            "9e19225ce38b7bbfc082a39455b99de9",
+            "aeacd47e488a3ed6588fe970dc6f8682"
+        ]
+    },
+    "mild essential hypertension": {
+        "losartan": [
+            "7ba7cec085cbc43d95f6f6f4cda9cc2b"
+        ]
+    },
+    "total hypertension": {
+        "losartan": [
+            "7ba7cec085cbc43d95f6f6f4cda9cc2b"
+        ]
+    },
+    "oxidative stress": {
+        "losartan": [
+            "a03fd64e9f4898b3031f023dec8f551d"
+        ]
+    },
+    "oedema": {
+        "losartan": [
+            "6f7f77c3fa74bb86f8f0f143876cc063"
+        ]
+    },
+    "proteinuria disappearance rate": {
+        "losartan": [
+            "95024c8a8efd37e21e0aa04981c6da88"
+        ]
+    },
+    "nonalcoholic steatohepatitis": {
+        "losartan": [
+            "9966ee71be66d904721f34cac717300f"
+        ]
+    },
+    "stage 2 hypertension": {
+        "losartan": [
+            "3a0902828b4d72b08986605351ec9271"
+        ]
+    },
+    "back pain": {
+        "losartan": [
+            "c253fad37731d4bfafce05646bc731d5",
+            "fb13e6b7635d72c7fa748d588c15579a"
+        ]
+    },
+    "angioedema": {
+        "losartan": [
+            "9f0184760f3dc11ecfac5d854743e1f2"
+        ],
+        "sitagliptin": [
+            "39773243"
+        ]
+    },
+    "cardiac arrhythmias": {
+        "losartan": [
+            "4ab524bc30b086598d31feccddd264d8"
+        ]
+    },
+    "serious adverse reactions": {
+        "losartan": [
+            "4ab524bc30b086598d31feccddd264d8"
+        ]
+    },
+    "urinary tract infections": {
+        "losartan": [
+            "fb13e6b7635d72c7fa748d588c15579a"
+        ],
+        "metformin": [
+            "d78804578145b5d7a7892fdf3a4baba8"
+        ]
+    },
+    "photosensitivity": {
+        "losartan": [
+            "6b7c9e4e14cbe9357aff497390310a1f"
+        ]
+    },
+    "skin rash": {
+        "losartan": [
+            "6b7c9e4e14cbe9357aff497390310a1f"
+        ]
+    },
+    "gram-positive bacterial infections": {
+        "losartan": [
+            "d45a959ec9f3d93750f9fd1696da6639"
+        ]
+    },
+    "systolic hypertension": {
+        "losartan": [
+            "63dfae9c8a6dfae84ab56ae7fbbcc2ac"
+        ]
+    },
+    "sars-cov-2 infection": {
+        "losartan": [
+            "2c6a8e5c25b13e1cf643526ee9d0c3e3"
+        ],
+        "vitamin b6": [
+            "7fb28f9894b794d55d9ffbf110e68def"
+        ]
+    },
+    "gastric bleeding": {
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a"
+        ]
+    },
+    "orthostatic hypotension": {
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a"
+        ]
+    },
+    "sweating": {
+        "losartan": [
+            "505788e8cf7112642f7a392995d6373a"
+        ]
+    },
+    "somnolence": {
+        "losartan": [
+            "8991a05a2aca92a40d443e909392cfa9",
+            "e10ad85d7680acc11b3ab43eecebf3fa"
+        ],
+        "sertraline": [
+            "cf195d1dcd8b9710a22a0624b20932cc",
+            "cf9b767e1abecd74c12bfd57931fd81b"
+        ]
+    },
+    "drug-induced nasal septum": {
+        "losartan": [
+            "31b10436efada662b971fbad295f1a11"
+        ]
+    },
+    "dizziness/light-headedness": {
+        "losartan": [
+            "8991a05a2aca92a40d443e909392cfa9"
+        ]
+    },
+    "somnolence/drowsiness": {
+        "losartan": [
+            "8991a05a2aca92a40d443e909392cfa9"
+        ]
+    },
+    "weaknesses": {
+        "losartan": [
+            "8991a05a2aca92a40d443e909392cfa9"
+        ]
+    },
+    "opioid‐induced constipation": {
+        "losartan": [
+            "226e4ca0ae536cd9a45ac77731e75a62"
+        ]
+    },
+    "eosinophilia": {
+        "losartan": [
+            "c57b640559db9aec7b72e3a27c9ec79b"
+        ]
+    },
+    "glucose dysregulation": {
+        "metformin": [
+            "7ea36e833c301d8220f199abec1e3a73"
+        ],
+        "ozempic": [
+            "39892787",
+            "39892787.0",
+            "5779191a16361d14d7d4c6c74a5f4b86",
+            "8628c2e0e7dd6ddf793e7fce78d166fd"
+        ]
+    },
+    "gestational hypertension": {
+        "metformin": [
+            "7ea36e833c301d8220f199abec1e3a73"
+        ]
+    },
+    "blood sugar": {
+        "metformin": [
+            "89adda2ee05d7b3353c3cb509d3f7e8d"
+        ]
+    },
+    "papilledema": {
+        "metformin": [
+            "322f9b982d416eb136d8b886557f504a",
+            "8d25860876a441da13d4fc49cb5cc591"
+        ]
+    },
+    "anemia": {
+        "metformin": [
+            "1a0a1aad69df7d3dafe59e4a2975350a"
+        ],
+        "rifaximin": [
+            "a0baa4eb49e2e1d715b928184514d1ed"
+        ],
+        "vitamin b6": [
+            "db7e83cb553771a6e9a26233f5724513"
+        ]
+    },
+    "upper respiratory tract infection": {
+        "metformin": [
+            "fa535dc0f7db921e8a4cf42cdd602c8d"
+        ]
+    },
+    "urinary tract infection": {
+        "metformin": [
+            "65659117a2f1f7bb95be7a3211781c68",
+            "fa535dc0f7db921e8a4cf42cdd602c8d"
+        ]
+    },
+    "genital tract infection": {
+        "metformin": [
+            "fa535dc0f7db921e8a4cf42cdd602c8d"
+        ]
+    },
+    "hypoglycemia-led": {
+        "metformin": [
+            "4bdc5f417112035b7df0630e53d01d55"
+        ],
+        "sitagliptin": [
+            "39636567"
+        ]
+    },
+    "mean body weight loss": {
+        "metformin": [
+            "f715037dbdcf5d774b6094cf7e22f6c2"
+        ],
+        "ozempic": [
+            "f715037dbdcf5d774b6094cf7e22f6c2"
+        ]
+    },
+    "average body weight loss": {
+        "metformin": [
+            "f715037dbdcf5d774b6094cf7e22f6c2"
+        ],
+        "ozempic": [
+            "f715037dbdcf5d774b6094cf7e22f6c2"
+        ]
+    },
+    "arrhythmia": {
+        "metformin": [
+            "fc16523dccc7f4c8b38759617fe7f0ea"
+        ],
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "ventricular arrhythmia": {
+        "metformin": [
+            "fc16523dccc7f4c8b38759617fe7f0ea"
+        ],
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "hearing loss": {
+        "metformin": [
+            "3d5b097e7c89387896a603ec99d30538"
+        ]
+    },
+    "switching": {
+        "metformin": [
+            "af6f6f15d777cbbeebe1d730bbfea5e1"
+        ],
+        "ozempic": [
+            "39861190",
+            "39861190.0",
+            "c812d99ff2b3e67a21eb6a8cdbd9947a",
+            "e65b979dc60a91cf89355897ade0910e"
+        ]
+    },
+    "ischemic stroke": {
+        "metformin": [
+            "8337f48a474f1cc1f4cfb87b66d5ad77"
+        ]
+    },
+    "genital infection": {
+        "metformin": [
+            "65659117a2f1f7bb95be7a3211781c68"
+        ]
+    },
+    "coinfection": {
+        "metformin": [
+            "353f84161c0d158f0fd2aaffba0b05f5"
+        ]
+    },
+    "adverse reaction": {
+        "ozempic": [
+            "39901452",
+            "39901452.0",
+            "9753823818d287472479c95dda9f54f8"
+        ]
+    },
+    "weight loss population": {
+        "ozempic": [
+            "39901452",
+            "39901452.0",
+            "9753823818d287472479c95dda9f54f8"
+        ]
+    },
+    "cognitive impairment": {
+        "ozempic": [
+            "39820580",
+            "39820580.0",
+            "b8f57e9fa4f103cbecb84c8abcba5c7b"
+        ]
+    },
+    "drug-induced": {
+        "ozempic": [
+            "nan"
+        ]
+    },
+    "osteoarthritis": {
+        "ozempic": [
+            "95cbf854129b1495975785865ca4960f"
+        ],
+        "paracetamol": [
+            "38985100"
+        ]
+    },
+    "gastrointestinal side effects": {
+        "ozempic": [
+            "08ac2df688cb5501a85c37960deba530"
+        ],
+        "vitamin b6": [
+            "db7e83cb553771a6e9a26233f5724513"
+        ]
+    },
+    "nonfatal myocardial infarction": {
+        "ozempic": [
+            "5779191a16361d14d7d4c6c74a5f4b86"
+        ]
+    },
+    "nonfatal stroke": {
+        "ozempic": [
+            "5779191a16361d14d7d4c6c74a5f4b86"
+        ]
+    },
+    "hemorrhagic diarrhea": {
+        "ozempic": [
+            "08c8b7ef80c3fe4c20741a66fc4c8aba"
+        ]
+    },
+    "toothache": {
+        "paracetamol": [
+            "39776117"
+        ]
+    },
+    "sore throat": {
+        "paracetamol": [
+            "39347494"
+        ]
+    },
+    "acute sore throat": {
+        "paracetamol": [
+            "39347494"
+        ]
+    },
+    "viral sore throat": {
+        "paracetamol": [
+            "39347494"
+        ]
+    },
+    "deep vein thrombosis": {
+        "paracetamol": [
+            "39084654"
+        ]
+    },
+    "knee osteoarthritis": {
+        "paracetamol": [
+            "38985100"
+        ]
+    },
+    "western ontario and mcmaster universities osteoarthritis index": {
+        "paracetamol": [
+            "38985100"
+        ]
+    },
+    "knee arthritis": {
+        "paracetamol": [
+            "38985100"
+        ]
+    },
+    "i-iii osteoarthritis": {
+        "paracetamol": [
+            "38985100"
+        ]
+    },
+    "infection prevention": {
+        "rifaximin": [
+            "e08f39aa3b6c7a592851c6852a737699"
+        ]
+    },
+    "functional dyspepsia": {
+        "rifaximin": [
+            "4d62130c2bc879c6e05398ec714196ca",
+            "68005b2ad7a5d319d4bfab97234cb8f8"
+        ]
+    },
+    "flatulence": {
+        "rifaximin": [
+            "68005b2ad7a5d319d4bfab97234cb8f8"
+        ]
+    },
+    "escherichia coli-related infections": {
+        "rifaximin": [
+            "a2f7a83f96fbe76fdeb60ab3e5233727"
+        ]
+    },
+    "bacterial infections": {
+        "rifaximin": [
+            "148be1f6e11d61296f24fe179f873a72"
+        ]
+    },
+    "hepatitis c cirrhosis": {
+        "rifaximin": [
+            "8fbbe5aa0c0dfa2dd9adb442aaab4304"
+        ]
+    },
+    "antidiarrheals": {
+        "rifaximin": [
+            "2960329ccc51e5a93083747d3f0c4737"
+        ]
+    },
+    "h. pylori infection": {
+        "rifaximin": [
+            "4d62130c2bc879c6e05398ec714196ca"
+        ]
+    },
+    "non-investigated dyspepsia": {
+        "rifaximin": [
+            "4d62130c2bc879c6e05398ec714196ca"
+        ]
+    },
+    "mean abdominal pain": {
+        "rifaximin": [
+            "014fc9396ddb33d7ae9ec047903c6fbf"
+        ]
+    },
+    "bloating scores": {
+        "rifaximin": [
+            "014fc9396ddb33d7ae9ec047903c6fbf"
+        ]
+    },
+    "acute diarrhea": {
+        "rifaximin": [
+            "f03c54a5e178c921dd7becf158c5f170"
+        ]
+    },
+    "escherichia coli infections": {
+        "rifaximin": [
+            "f03c54a5e178c921dd7becf158c5f170"
+        ]
+    },
+    "infection-related": {
+        "rifaximin": [
+            "cb1e8ccb6ed1ff175c13c6eda7eb59bc"
+        ]
+    },
+    "infection-associated aes": {
+        "rifaximin": [
+            "509fcd8a59c797f2baf527cbea71a274"
+        ]
+    },
+    "infections": {
+        "rifaximin": [
+            "10a7873d734b9c805a58bafcf48ce4ab"
+        ]
+    },
+    "beck depression inventory-ii": {
+        "sertraline": [
+            "a1ccdab8702a3dc78610d11b970a795b"
+        ]
+    },
+    "bradycardia": {
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "tachycardia": {
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "ventricular tachycardia": {
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "arthralgia": {
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "ataxia": {
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "dry eyes": {
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "auditory hallucinations": {
+        "sertraline": [
+            "e8a47374ded337d27106553557703b64"
+        ]
+    },
+    "pruritus relief": {
+        "sertraline": [
+            "cf195d1dcd8b9710a22a0624b20932cc"
+        ]
+    },
+    "generalised anxiety disorder assessment": {
+        "sertraline": [
+            "9efb8dc241a8bc2d741aaa9f4241fd2d"
+        ]
+    },
+    "social anxiety": {
+        "sertraline": [
+            "9efb8dc241a8bc2d741aaa9f4241fd2d"
+        ]
+    },
+    "psychotic depression": {
+        "sertraline": [
+            "0746605937cce58da7a62b92bee163b1"
+        ]
+    },
+    "bloating": {
+        "vitamin b12": [
+            "38892699"
+        ],
+        "vitamin b6": [
+            "a605debc007dc9c906252d5db200ee8d"
+        ]
+    },
+    "total body weight loss": {
+        "vitamin b12": [
+            "38532145"
+        ]
+    },
+    "body weight loss": {
+        "vitamin b12": [
+            "38532145"
+        ]
+    },
+    "iron deficiency anemia": {
+        "vitamin b12": [
+            "38532145"
+        ]
+    },
+    "vomiting group": {
+        "vitamin b6": [
+            "a3eb6ddd72fe0f191ab817957b570296"
+        ]
+    },
+    "transient diarrhea": {
+        "vitamin b6": [
+            "d653a029164679496481b7879016f4da"
+        ]
+    },
+    "ache": {
+        "vitamin b6": [
+            "827c2407ec732f6d8705419e523630e4"
+        ]
+    },
+    "first-episode psychosis": {
+        "vitamin b6": [
+            "39843a7ce45f07154adcee098d94b11e"
+        ]
+    },
+    "psychosis": {
+        "vitamin b6": [
+            "39843a7ce45f07154adcee098d94b11e"
+        ]
+    },
+    "leukopenia": {
+        "vitamin b6": [
+            "db7e83cb553771a6e9a26233f5724513"
+        ]
+    },
+    "adverse side effects": {
+        "vitamin c": [
+            "39823357",
+            "39960783"
+        ]
+    },
+    "covid-19 infections": {
+        "vitamin c": [
+            "39925527"
+        ]
+    },
+    "viral infections": {
+        "vitamin c": [
+            "39925527"
+        ]
+    }
+}
