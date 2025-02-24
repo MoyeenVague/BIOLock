@@ -1,0 +1,102 @@
+[
+  {
+    "pub_date": "2025-Jan",
+    "title": "Does cytochrome 2D6 genotype affect the analgesic efficacy of codeine after ambulatory surgery? Prospective trial in 987 adults.",
+    "methods": "A total of 987 patients scheduled for ambulatory surgery were included in the analyses. Operation types or anaesthesia methods were not limited in the study protocol. All study patients received a fixed dose of paracetamol (1000 mg) and codeine (60 mg) orally for premedication. A blood sample was drawn to identify the genotype of CYP2D6. At home, the first-line analgesic was paracetamol-codeine combination of 1-2 tablets at 1-3 times per day. Data on the efficacy and side effects of codeine were collected on the day of surgery and the following two postoperative days.",
+    "results": "Of the studied patients, 37 (3.7%) were poor CYP2D6 metabolisers, 264 (27%) were intermediate, 623 (63%) were normal and 63 (6.4%) were ultrarapid metabolisers. Activity scores ranged from 0 to 4. CYP2D6 genotype was not associated in a statistically significant manner with postoperative pain, opioid consumption or the adverse effects of codeine, except for constipation at home. Poor CYP2D6 metabolisers reported significantly less severe constipation compared with normal metabolisers (p = .009, OR 0.40, 95% Cl 0.20-0.80).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "35f9846eb8a071a4cfbe4a6002e257ac",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025",
+    "title": "Comparative Efficacy and Safety of Anesthetic and Sedative Regimens for Endoscopic Retrograde Cholangiopancreatography: A Network Meta-Analysis.",
+    "methods": "A systematic search was conducted across PubMed, Web of Science, Scopus, and Embase to identify randomized controlled trials (RCTs) published until March 2024. Primary outcomes included procedure time, patient satisfaction, oxygen saturation (SpO2), incidence of SpO2 below 90%, and adverse events. The analysis was performed using R software, analyzing continuous outcomes with mean differences and dichotomous outcomes with risk ratios.",
+    "results": "42 RCTs were included. Combination therapies such as remifentanil plus tramadol and propofol plus midazolam plus pethidine demonstrated significantly shorter procedure times. Propofol plus oxycodone yielded higher patient satisfaction. Oxygenation results indicated that propofol plus fentanyl, oxycodone, and ketamine improved SpO2. Propofol plus oxycodone (RR <0.01), dexmedetomidine plus fentanyl (RR <0.01), propofol plus nalbuphine (RR = 0.01), Mg sulfate plus propofol (RR = 0.01), and propofol plus fentanyl (RR = 0.02) showed a significant lower rate of patients with SpO2 below 90% compared to propofol. Midazolam plus pethidine plus dexmedetomidine (RR = 0.01), propofol plus oxycodone (RR = 0.09), and dexmedetomidine plus fentanyl (RR = 0.2) exhibited lower rates of adverse events compared to propofol.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "4d935720556b449d942742768c94b251",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Assessment of feasibility of opioid-free anesthesia combined with preoperative thoracic paravertebral block and postoperative intravenous patient-controlled analgesia oxycodone with non-opioid analgesics in the perioperative anesthetic management for video-assisted thoracic surgery.",
+    "methods": null,
+    "results": "Patients in the intervention group showed significantly lower pain levels at 20 and 24 hours post-procedure ( P = 0.015, P = 0.021, respectively) compared to the control group. Notably, oxycodone consumption at 24 hours was significantly higher in the control group ( p < 0.0001). No serious adverse events were observed during the study period.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9b422160ffcd2a0c6c2fb592eee0a421",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Nov",
+    "title": "Health-Related Quality of Life in Chronic Pain Treated With Tapentadol Versus Oxycodone/Naloxone and Its Determinants: A Real-World, Single-Center Retrospective Cohort Study in Spain.",
+    "methods": "A cross-sectional study was conducted in 135 CNCP outpatients with usual prescribing (TAP: n = 58, OXN: n = 77) at a tertiary-care Spanish Hospital to compare health-related quality-of-life (HRQoL) records. Health utility was derived from the EQ-5D-3L. Regression models were performed to search for other HRQoL determinants. Pain intensity, relief, analgesic prescription, adverse events, inpatient stays, emergency department visits, and change to painkiller prescriptions were registered from electronic records.",
+    "results": "Health utility (0.43 ± 0.24 scores, from -0.654 to 1) was similar for both opioids, although TAP showed a significantly low daily opioid dose requirement, neuromodulators use, and constipation side effect compared with OXN. After multivariable adjustment, the significant predictors of impaired HRQoL were pain intensity (β = -0.227, 95% CI -0-035 to -0.005), number of adverse events (β = -0.201, 95% CI -0.024 to -0.004), and opioid daily dose (β = -0.175, 95% CI -0.097 to -0.012). Male sex (β = -0.044) and pain relief (β = 0.158) should be taken into account for future studies.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a63da0844e35fbb98664b6b0af61aac3",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Nov",
+    "title": "Patient Satisfaction with Nonopioid Postoperative Analgesia in Head and Neck Surgery: A Prospective Randomized Trial.",
+    "methods": "Adult patients undergoing outpatient head and neck surgery were randomly assigned to 1 of 3 analgesic regimens. First- and second-line medications were the following by group (1) Hydrocodone-acetaminophen with ibuprofen, (2) ibuprofen with hydrocodone-acetaminophen, and (3) ibuprofen with acetaminophen. Preoperative counseling was provided to patients regarding expected pain and proper medication use. Postoperative questionnaires were administered to assess satisfaction.",
+    "results": "One hundred three patients were enrolled in the study (mean age, 56.5 years; women, 75 [73%]). The mean satisfaction score with the pain regimen assigned was similar between the 3 groups (scale 0-10, [7.7, 8.3, 8.5, P = .46]). A similar percentage of patients in each group reported that surgery was more painful than anticipated (25%, 32%, 26%, P = .978), and a similar percentage of patients reported willingness to utilize the same analgesic regimen following future surgeries (75%, 83%, 76%, P = .682). Additional questions evaluating the side effect profile, maximum and minimum pain scores, and difficulty of recovery were not statistically different between the 3 groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c26fce3de26c30ca6c81b27c8abd70cf",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Aug",
+    "title": "Analgesic Effectiveness of Truncal Plane Blocks in Patients Undergoing the Nuss Procedure: A Randomized Controlled Trial.",
+    "methods": "The enrolled patients in our study were allocated to either receive combined nerve blocks with ropivacaine (NB group) or saline (CON group). The primary outcome of this study was postoperative pain at 2, 4, 8, 16, 24, 36, and 48 h during rest and movement (coughing). Secondary outcomes included intraoperative dosage of remifentanil, the time to extubation and the length of stay in the post-anesthesia care unit (PACU), the total acetaminophen and codeine tablet consumption, time to first bowel movement, time to first flatus, opioid-related adverse events, and the length of hospital stay.",
+    "results": "Patients in the NB group had significantly lower Numerical Rating Scale (NRS) pain scores compared with the CON group. The NB group required significantly less postoperative acetaminophen consumption and lower dosages of perioperative sufentanyl and remifentanil compared with the CON group. The length of stay in the PACU and time to extubation were significantly increased in the CON group compared with the NE group. Time to first bowel movement and time to first flatus were earlier in the NB group. But there were no significant differences between the groups in terms of the length of hospital stay and codeine tablet consumption.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "6fd4b6d737956e2d9674bf28cd372514",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Sep",
+    "title": "Oxycodone or Higher Dose of Levodopa for the Treatment of Parkinsonian Central Pain: OXYDOPA Trial.",
+    "methods": "OXYDOPA was a randomized, double-blind, double-dummy, placebo-controlled, multicenter parallel-group trial run at 15 centers within the French NS-Park network. PD patients with PCP (≥30 on the Visual Analogue Scale [VAS]) were randomly assigned to receive oxycodone-PR (up to 40 mg/day), levodopa/benserazide (up to 200 mg/day) or matching placebo three times a day (tid) for 8 weeks at a stable dose, in add-on to their current dopaminergic therapy. The primary endpoint was the change in average pain intensity over the previous week rated on VAS from baseline to week-10 based on modified intention-to-treat analyses.",
+    "results": "Between May 2016 and August 2020, 66 patients were randomized to oxycodone-PR (n = 23), levodopa/benserazide (n = 20) or placebo (n = 23). The mean change in pain intensity was -17 ± 18.5 on oxycodone-PR, -8.3 ± 11.1 on levodopa/benserazide, and -14.3 ± 18.9 in the placebo groups. The absolute difference versus placebo was -1.54 (97.5% confidence interval [CI], -17.0 to 13.90; P = 0.8) on oxycodone-PR and +7.79 (97.5% CI, -4.99 to 20.58; P = 0.2) on levodopa/benserazide. Similar proportions of patients in each group experienced all-cause adverse events. Those leading to study discontinuation were most frequently observed with oxycodone-PR (39%) than levodopa/benserazide (5%) or placebo (15%).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "af89d11ea6dee5eda5b4733e8a1fc4f7",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Physiologically based pharmacokinetic modeling to predict the pharmacokinetics of codeine in different CYP2D6 phenotypes.",
+    "methods": "An initial PBPK modeling of codeine in healthy adults was established using PK-Sim® software and subsequently extrapolated to CYP2D6 phenotype-related PBPK modeling based on the turnover frequency (Kcat) of CYP2D6 for different phenotype populations (UM, EM, IM, and PM). The mean fold error (MFE) and geometric mean fold error (GMFE) methods were used to compare the differences between the predicted and observed values of the pharmacokinetic parameters to evaluate the accuracy of PBPK modeling. The validated models were then used to support dose safety for different CYP2D6 phenotypes.",
+    "results": "The developed and validated CYP2D6 phenotype-related PBPK model successfully predicted codeine and morphine dispositions in different CYP2D6 phenotypes. Compared with EMs, the predicted AUC0-∞ value of morphine was 98.6% lower in PMs, 60.84% lower in IMs, and 73.43% higher in UMs. Morphine plasma exposure in IMs administered 80 mg of codeine was roughly comparable to that in EMs administered 30 mg of codeine. CYP2D6 UMs may start dose titration to achieve an optimal individual regimen and avoid a single dose of over 20 mg. Codeine should not be used in PMs for pain relief, considering its insufficient efficacy.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "06bbbfd57c44522b86d1fa63e1d76bff",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Apr-05",
+    "title": "Comparative safety of tramadol and other opioids following total hip and knee arthroplasty.",
+    "methods": "This retrospective cohort included Medicare Fee-for-Service beneficiaries ≥ 65 years with elective THA/TKA between January 1, 2010 and September 30, 2015, 12 months of continuous Parts A and B enrollment, 6 months of continuous Part D enrollment, and no opioid use in the 6 months prior to THA/TKA. Participants initiated single-opioid therapy with tramadol, oxycodone, or hydrocodone within 7 days of discharge from THA/TKA hospitalization, regardless of concurrently administered nonopioid analgesics. Outcomes of interest included all-cause hospitalizations or emergency department visits (serious adverse events (SAEs)) and a composite of 10 surgical- and opioid-related SAEs within 90-days of THA/TKA. The intention-to-treat (ITT) and per-protocol (PP) hazard ratios (HRs) for tramadol versus other opioids were estimated using inverse-probability-of-treatment-weighted pooled logistic regression models.",
+    "results": "The study population included 2,697 tramadol, 11,407 oxycodone, and 14,665 hydrocodone initiators. Compared to oxycodone, tramadol increased the rate of all-cause SAEs in ITT analyses only (ITT HR 1.19, 95%CLs, 1.02, 1.41; PP HR 1.05, 95%CLs, 0.86, 1.29). Rates of composite SAEs were not significant across comparisons. Compared to hydrocodone, tramadol increased the rate of all-cause SAEs in the ITT and PP analyses (ITT HR 1.40, 95%CLs, 1.10, 1.76; PP HR 1.34, 95%CLs, 1.03, 1.75), but rates of composite SAEs were not significant across comparisons.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "eb3aa19dc3228ffecaa98cedbc9a0fdb",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Apr",
+    "title": "Pharmacological prevention and treatment of opioid-induced constipation in cancer patients: A systematic review and meta-analysis.",
+    "methods": "A systematic search in PubMed, Embase, Web of Science and the Cochrane Library was completed from inception up to 22 October 2022. Randomized and non-randomized studies were systematically selected. Bowel function and adverse drug events were assessed.",
+    "results": "Twenty trials (prevention: five RCTs and three cohort studies; treatment: ten RCTs and two comparative cohort studies) were included in the review. Regarding the prevention of OIC, three RCTs compared laxatives with other laxatives, finding no clear differences in effectivity of the laxatives used. One cohort study showed a significant benefit of magnesium oxide compared with no laxative. One RCT found a significant benefit for the PAMORA naldemedine compared with magnesium oxide. Preventive use of oxycodone/naloxone did not show a significant difference in two out of three other studies compared to oxycodone or fentanyl. A meta-analysis was not possible. Regarding the treatment of OIC, two RCTs compared laxatives, of which one RCT found that polyethylene glycol was significantly more effective than sennosides. Seven studies compared an opioid antagonist (naloxone, methylnaltrexone or naldemedine) with placebo and three studies compared different dosages of opioid antagonists. These studies with opioid antagonists were used for the meta-analysis. Oxycodone/naloxone showed a significant improvement in Bowel Function Index compared to oxycodone with laxatives (MD -13.68; 95 % CI -18.38 to -8.98; I2 = 58 %). Adverse drug event rates were similar amongst both groups, except for nausea in favour of oxycodone/naloxone (RR 0.51; 95 % CI 0.31-0.83; I2 = 0 %). Naldemedine (NAL) and methylnaltrexone (MNTX) demonstrated significantly higher response rates compared to placebo (NAL: RR 2.07, 95 % CI 1.64-2.61, I2 = 0 %; MNTX: RR 3.83, 95 % CI 2.81-5.22, I2 = 0 %). With regard to adverse events, abdominal pain was more present in treatment with methylnaltrexone and diarrhea was significantly more present in treatment with naldemedine. Different dosages of methylnaltrexone were not significantly different with regard to both efficacy and adverse drug event rates.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "47be14d025f22ddfb2ee9fa6abb8d55e",
+    "query_date": "22_02_2025"
+  }
+]

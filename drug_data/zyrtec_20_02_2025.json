@@ -1,0 +1,1426 @@
+[
+  {
+    "pub_date": "2024-Dec-18",
+    "title": "Data mining in FAERS: association of newer-generation H1-antihistamines with nervous system disorders.",
+    "methods": "Disproportionality analysis was used to identify the suspected drug neurological adverse events associated with H1-antihistamines of interest via the Food and Drug Administration Adverse Event Reporting System. The proportional reporting ratio (PRR), χ2 (chi-square) and the reporting odds ratio (ROR) with 95% confidence interval (CI) were used to estimate the association.",
+    "results": "AE reports of 43,815 cases from 2017 to 2021 were extracted from FAERS. The H1-antihistamines included in our study were associated with various neurological adverse events that could be classified into 12 aspects, containing 42 preferred terms. The majority of adverse event reports were concentrated at somnolence: cetirizine [N = 1342, ROR (95%CI) = 11.8 (11.2-12.5), PRR = 10.8, χ2 = 11755.4], levocetirizine [N = 1276, ROR(95%CI) = 28.5 (26.7-30.3), PRR = 22.7, χ2 = 26218.4], loratadine[N = 516, ROR(95%CI) = 4.6 (4.2-5.0), PRR = 4.4, χ2 = 1378.1], desloratadine [N = 33, ROR(95%CI) = 6.1 (4.3-8.6), PRR = 5.8, χ2 = 131.9], fexofenadine [N = 498, ROR(95%CI) = 5.0 (4.6-5.5), PRR = 4.8, χ2 = 1519.0].",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39696617",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2024-Nov",
+    "title": "Efficacy and Safety of Montelukast+Levocetirizine Combination Therapy Compared to Montelukast Monotherapy for Allergic Rhinitis in Children.",
+    "methods": "One hundred seventy-six children aged 6 to 14 years with perennial AR symptoms were recruited. One hundred forty-seven subjects were randomized into 1 of 2 groups: the mont+levo group (fixed-dose combination of montelukast [5 mg] + levocetirizine [5 mg]) or the mont group (montelukast single agent [5 mg]). Study subjects took the treatment every evening for 4 weeks and recorded their daytime nasal symptom score (DNSS) and nighttime nasal symptom score (NNSS) in a diary every day. Adverse events (AEs) were also recorded, and patients were surveyed as to their overall satisfaction with the therapeutic product they received.",
+    "results": "When DNSS and NNSS were assessed individually, daytime nasal congestion symptom scores decreased more in the mont+levo group during the 4-week treatment period than in the mont group (P = 0.0341). The daytime rhinorrhea symptom scores also decreased more in the mont+levo group (P = 0.0469). The nighttime nasal congestion score (severity when awake) decreased more in the mont+levo group than in the mont group (P = 0.0381). Study subjects in the mont+levo group experienced a greater improvement in quality of life than subjects in the mont group (P < 0.0001).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39622689",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2024-Sep",
+    "title": "High-risks drug adverse events associated with Cetirizine and Loratadine for the treatment of allergic diseases: A retrospective pharmacovigilance study based on the FDA adverse event reporting system database.",
+    "methods": "ADE reports related to Cetirizine and Loratadine obtained from the FDA adverse event reporting system (FAERS) database were analyzed using disproportionality analysis and Bayesian analysis to evaluate and compare the ADE signals of both drugs.",
+    "results": "A total of 28,051 and 28,073 ADE reports were retrieved from the FAERS database related to Cetirizine and Loratadine, respectively, with both drugs showing a predominance of middle-aged females. Specifically, Loratadine was associated with respiratory symptoms, mainly nasal symptoms such as rhinorrhea (n = 326, ROR 6.75), sneezing (n = 251, ROR 15.24), and nasal congestion (n = 185, ROR 4.25), while Cetirizine did not show this association. Notably, both drugs exhibited strong signals for somnolence in the nervous and psychiatric systems, especially Cetirizine (Cetirizine, n = 2556, ROR 10.52 vs. Loratadine, n = 1200, ROR 7.76). Additionally, Cetirizine itself showed strong signals for attention disturbance (n = 233, ROR 3.3), while Loratadine was associated with nervousness (n = 145, ROR 3.3). Further exploration revealed more severe adverse reactions closely associated with Cetirizine, including hallucinations, aggression, and abnormal behavior. Importantly, Cetirizine was significantly associated with the occurrence of pericarditis (n = 138, ROR 8.13), potentially leading to serious adverse consequences.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39257032",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "Comparative study of efficacy and safety of cetirizine and bilastine in patients of chronic spontaneous urticaria: Open-label, randomized, parallel-group study.",
+    "methods": null,
+    "results": "Bilastine and cetirizine offer a significant reduction in MTSS, mean number of wheals, and mean pruritus scale at baseline to 1, 3, and 6 weeks. The mean difference in MTSS was significantly more in bilastine. Cetirizine showed a significant increase in VAS score for sedation as compared to bilastine. Both the drugs were well tolerated and safe. Adverse events like headache, gastric irritation, dryness of mouth, and sedation were more reported in cetirizine group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "38025284",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2023-Aug",
+    "title": "Comparative Safety Profiles of Individual Second-Generation H1-Antihistamines for the Treatment of Chronic Urticaria: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.",
+    "methods": "With limited English publications, electronic databases and gray literature were searched for randomized clinical trials from inception, with searches last updated on January 20, 2023. Relevant safety outcomes included treatment unacceptability (all-cause discontinuation), tolerability (discontinuation due to any adverse events), adverse events, serious adverse events, central nervous system (CNS) side effects, and anticholinergic side effects. Regarding the network estimates, the probability of being associated with the highest adverse outcome risk was estimated for each treatment comparison.",
+    "results": "Fifty-one randomized clinical trials with 14 individual sgAHs and different dosing regimens, involving 7502 participants, were included. On the basis of the findings from network meta-analyses, variations in sgAH treatment comparisons were observed regarding the unacceptability of treatment, tolerability, adverse events, and CNS side effects. There were no statistically significant differences between the results of sgAH treatment for serious adverse events and those for anticholinergic side effects. On the basis of the ranking of safety profiles, emedastine 4 mg, mizolastine 10 mg, and cetirizine 10 mg were the top 3 ranked treatments with unfavorable safety profiles associated with CNS side effects and any adverse events.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "37088368",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "The efficacy of topical prostaglandin analogs for hair loss: A systematic review and meta-analysis.",
+    "methods": "We searched PubMed, Embase, and Cochrane Library databases comprehensively. Data were pooled using Review Manager 5.4.1, and subgroup analyses were performed if necessary.",
+    "results": "There were six randomized controlled trials included in this meta-analysis. All studies compared prostaglandin analogs with placebo, and one trial consisted of two sets of data. The results showed that prostaglandin analogs could significantly improve the hair length and density (p < 0.001). As far as adverse events are concerned, there was no significant difference between the experimental group and the control group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "36999072",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2023-Mar",
+    "title": "Efficacy and Safety of Up-dosed Second-generation Antihistamines in Uncontrolled Chronic Spontaneous Urticaria: A Review.",
+    "methods": "We conducted a comprehensive search of the literature across multiple databases (PubMed, EMBASE, MEDLINE and Google scholar) using the keywords (alone and in combination) and MeSH items as well as non-MeSH terms such as \"chronic spontaneous urticaria\", \"chronic idiopathic urticaria\", AND \"updosing\", \"second-generation anti-histamines\", \"cetirizine\", \"fexofenadine\", \"levocetirizine\", \"desloratadine\", \"ebastine\", \"bilastine\", and \"rupatadine\".",
+    "results": "Our review suggests bilastine, fexofenadine, levocetirizine, and cetirizine are recommended for up-dosing in non-responsive patients with CSU (Grade A recommendation), while desloratadine and ebastine can be recommended (Grade B recommendation). Among those with Grade A recommendation, bilastine and levocetirizine may be up-dosed safely to four times, while fexofenadine has been studied at three times the conventional dose. None of the drugs showed any dose-dependent increase of adverse effects; however, cetirizine up-dosing may increase the risk of dose-related sedation. There were no reports of systemic complications, including cardiotoxicity, at higher than licensed doses of these drugs. Only cetirizine and rupatadine up-dosing have been documented to be effective and safe in children, while there is lack of data on geriatric patients and pregnant or lactating females.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "36950042",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2023-May",
+    "title": "Bioequivalence of Levocetirizine Hydrochloride Granules (Kangzhitai) in Healthy Subjects.",
+    "methods": "Twenty eligible healthy male subjects were randomly divided into two groups. Group one received 5 mg of Kangzhitai®, followed by a 10-day wash-out period and 5 mg of Xyzal® on day 11. Group two received the same doses but in a reverse sequence. The subjects fasted for 12 h, and blood samples were collected before (blank) and after administration. The plasma concentration of Kangzhitai® was determined by HPLC-MS-MS. Pharmacokinetic parameters were analyzed using DAS 2.0 software.",
+    "results": "The main pharmacokinetic parameters Cmax, Tmax, T1/2, AUC0-48, and AUC0-∞ of the Xyzal® and Kangzhitai® groups were as follows: (218.4 ± 46.4) μg/L vs. (213.6 ± 39.3) μg/L, (0.73 ± 0.32)/h vs. (0.75±0.3)/h, (9.2 ± 2.0) h vs. (8.9 ± 2.7) h, (1594.0 ± 337.2) μg·h/L vs. (1652.6 ± 383.5) μg·h/L, and (1683.2 ± 338.5) μg·h/L vs. (1753.7 ± 445.4) μg·h/L. The two-one-sided t tests of Cmax, AUC0-48, and AUC0-∞ showed that th and t1 were both higher than one-sided t0.05. The 90% confidence intervals (CI) for AUC0-48 and AUC0-∞ of Kangzhitai® did not exceed 80%-125% of AUC0-48 and AUC0-∞ of Xyzal®. The 90% CI for the Cmax of Kangzhitai® did not exceed 70%-143% of the Cmax of Xyzal®. There was no significant difference in Tmax between the two drugs. The relative bioavailability (F, assessed by AUC0-48) of Kangzhitai® vs. Xyzal® was 104.4±18.5%. No adverse events occurred during the drug administration.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "36947656",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Cetirizine for the treatment of allergic diseases in children: A systematic review and meta-analysis.",
+    "methods": "PubMed, Embase, the Cochrane Library, World Health Organization International Clinical Trials Registry Platform, ClinicalTrials.gov, and the European Union Clinical Trials Register were systematically searched from inception to April 21, 2022. Randomized controlled trials (RCTs) or quasi-RCTs of children with allergic diseases receiving CTZ compared with those receiving placebo or other drugs were included without language limitations. Two investigators independently identified articles, extracted data, conducted meta-analyses, assessed the Cochrane risk of bias of individual studies, and evaluated the evidence certainty using the Grading of Recommendations Assessment, Development, and Evaluation approach; any discrepancies were resolved by consulting with a third investigator. Primary outcomes included scales that evaluated the recovery of allergic conditions in AR, such as the total symptom score (TSS). Secondary outcomes included laboratory test changes, safety (adverse events, AEs), and quality of life (QOL). Data were pooled using the Cochrane Review Manager 5.4, and a fixed-effects model was used if heterogeneity was evaluated as low (I 2 < 50%); otherwise, a random-effects model was adopted.",
+    "results": "A total of 22 studies (5,867 patients) were ultimately included [eight with perennial AR, six with seasonal AR, four with atopic dermatitis (AD), and four with other allergic diseases], most of which had a low or unclear risk of bias. Moderate certainty evidence showed that CTZ was found to benefit allergic symptom control [mean difference (MD) of TSS at 1 week: MD, -0.32 (-0.52, -0.12); at 2 weeks: MD, -0.25 (-0.35, -0.14); at 4 weeks: MD, -4.07 (-4.71, -3.43); at 8 weeks: MD, -4.22 (-4.73, -3.72); at 12 weeks: MD, -5.63 (-6.14, -5.13); all P-values were less than 0.05] and QOL [at 12 weeks: MD, -23.16 (-26.92, -19.39); P < 0.00001] in children with AR. It had similar efficacy compared with other antihistamines (AHs) or montelukast, without showing better control of AD severity in children. Moderate-to-low certainty evidence demonstrated that CTZ was well tolerated and did not increase the risk of severe and overall AEs, cardiotoxicity, damage to the central nervous and digestive systems, or other systems in children, except for the risk of somnolence [risk ratio, 1.62 (1.02, 2.57); P = 0.04, compared with placebo].",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "36090559",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2022-Jul",
+    "title": "Safety of fexofenadine and other second-generation oral antihistamines before and after the removal of the prescription requirement in Italy and other European countries: A real-world evidence study and systematic review.",
+    "methods": "This case-by-case analysis used the US Food and Drug Administration (FDA) adverse event reporting system (FAERS) to extract data of the adverse events (AEs) related to fexofenadine, loratadine and cetirizine in Italy January 2010-June 2020. The year 2016 was taken as the index date (removal of prescription requirement) for evaluation of the reporting trend of AEs of fexofenadine in Italy and make a comparison pre/post-OTC switch. A comparison of AEs with other European countries where fexofenadine is sold OTC in large packs >20 tablets (Belgium, Portugal, Switzerland, Finland, Hungary) was made. The rate at which an AE related to oral antihistamines occurred was estimated by calculation of the reporting rate (number of cases/[defined daily dose/1000 inhabitants per day]) on the basis of IQVIA sales data using the Italian Institute of Statistics database. A systematic review of the literature was also performed.",
+    "results": "There were 3760 reports of AEs with a suspected association with fexofenadine; of these, eight were reported from Italy. There was a slightly increasing trend per year, in line with a general reporting trend of other drugs. In European countries where fexofenadine is available, the impact of OTC switch on AE reporting activity was negligible: from 2016, the reporting rate increased slightly and then normalized at 3.01, an incidence value similar to that recorded before the OTC switch (3.7 in 2015). Of 22 studies included in the systematic review, 18 (82%) positively evaluated the OTC use of oral antihistamines, confirming an acceptable safety/tolerability profile.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "35833202",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2022-Jun",
+    "title": "Improving the Quality of Life in the Management of Allergic Rhinitis: New Perspective on Cetirizine.",
+    "methods": "Systematic literature review of the databases such as PubMed/MEDLINE, Google Scholar, and the Cochrane Central Register of Controlled Trials from 1990 to 2020.",
+    "results": "The symptoms of AR exhibited a circadian variation, with symptoms being worse during the night and early morning. The patients with AR encountered several sleep-related symptoms, including poor sleep quality, daytime somnolence, fatigue, and impaired productivity and QoL. Impaired QoL in AR was related to the disease severity. Administration of cetirizine at bedtime provides effective control of sleep impairment and symptoms of AR, besides improving the QoL. The efficacy of cetirizine has been demonstrated to be superior or comparable to the newer second-generation antihistamines. Cetirizine exhibits a tolerability profile comparable to the newer antihistamines.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "35702846",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2022-Sep",
+    "title": "The Impact of Bilastine on Symptoms of Allergic Rhinitis and Chronic Urticaria: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+    "methods": "We systematically searched the Medline, Scopus, Web of Science, and Cochrane databases for randomized controlled trials (RCTs) evaluating bilastine effects on symptomatic hyper histaminic allergic conditions. We collected data on total symptoms scores (TSS), total nasal symptom scores (TNSS), discomfort associated with these allergic conditions measured by visual analog score (VAS), and quality of life (QOL) for AR and urticaria. Other outcomes such as clinical global impression and safety profiles were reported as well. We pooled the studies in a random effect model using RevMan 5.4 software.",
+    "results": "We included 9 RCTs comprising 3801 participants. The meta-analysis revealed that bilastine was superior to placebo, improving TSS, TNSS, VAS, and QOL in AR or chronic urticaria participants. Moreover, the bilastine was comparable to active antihistamines such as cetirizine, fexofenadine, and loratadine regarding mentioned outcomes. In addition, the novel drug was safe and tolerable with no difference in the incidence of adverse events with a placebo.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "35593100",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2022-Apr",
+    "title": "A randomized double-blind feasibility study comparing cetirizine and diphenhydramine in the prevention of paclitaxel-associated infusion-related reactions: the PREMED-F1 study.",
+    "methods": "This was a single-center randomized prospective feasibility study. Participants were paclitaxel-naive cancer patients scheduled to start paclitaxel chemotherapy. They were randomly assigned to receive either intravenous diphenhydramine 50 mg + oral placebo (control) or intravenous placebo + oral cetirizine 10 mg (intervention) for their first two paclitaxel treatments. The percentage of eligible patients completing a first paclitaxel treatment and the recruitment rate were assessed (feasibility outcomes). Drowsiness was measured at baseline and at selected time points using the Stanford Sleepiness Scale (SSS) (safety outcome). IRR events were also documented (efficacy outcome).",
+    "results": "Among 37 eligible patients, 27 were recruited and randomized (control 13; intervention 14) and 25 completed the study. The recruitment rate was 4.8 participants/month, meeting the primary feasibility target. Drowsiness was the main adverse effect associated with the premedication. The increase in drowsiness compared to baseline (ΔSSS) was greater in the diphenhydramine group compared to the cetirizine group (median ΔSSS 2 (IQR 3.25) vs median ΔSSS 0 (IQR 1), p < 0.01) when measured one hour after the premedication administration. One participant had an IRR and no unexpected serious adverse event occurred.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "34997314",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2021-Nov",
+    "title": "Botulinum toxin for chronic rhinitis: A systematic review and meta-analysis.",
+    "methods": "Systematic searches of MEDLINE, Scopus, and EMBASE databases were performed. Randomized controlled trials (RCTs) that assessed the efficacy of BTX-A in allergic rhinitis and/or nonallergic rhinitis patients, compared with either placebo or active treatment, were included. The outcomes were total nasal symptom (TNSS), disease-specific quality of life (QOL), and adverse events.",
+    "results": "Nine RCTs (340 patients) met the eligibility criteria. Compared with placebo, the ≤ 12-week effects favored BTX-A injection on TNSS (standardized mean difference [SMD] -2.22, 95% confidence interval [CI] -3.27 to -1.17, p < 0.01, four RCTs). Beneficial effects > 12 weeks over placebo (MD -9.69, 95% CI -11.29 to -8.09, p < 0.01, one RCT) were demonstrated up to 24 weeks. However, the benefits were not shown on nasal congestion and individual nasal symptoms. Compared with active comparators (triamcinolone injection, ipratropium bromide, and cetirizine), there was no difference in the < 12-week effect between groups on TNSS. There was no difference between BTX-A and cetirizine on QOL (one RCT). The > 12-week effects on TNSS and individual nasal symptoms favored BTX-A over triamcinolone injection (one RCT). The risk ratio of adverse events favored BTX-A over cetirizine (one RCT).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "33956405",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2021-Oct",
+    "title": "Newer-generation antihistamines and the risk of adverse events in children: A systematic review.",
+    "methods": "We performed a systematic review of randomized controlled trials (RCTs), which included comparisons of safety parameters between an orally administered newer-generation AH and another AH (first- or second-generation), montelukast, or placebo in children aged ≤12 years. We searched MEDLINE and CENTRAL, independently extracted data on study population, interventions, adverse events (AEs), and treatment discontinuations, and assessed the methodologic quality of the included RCTs using the Cochrane's risk of bias tool.",
+    "results": "Forty-five RCTs published between 1989 and 2017 met eligibility criteria. The majority of RCTs included school-aged children with allergic rhinitis and had a follow-up period of up to a month. Four RCTs reported serious AEs in patients receiving a newer-generation AH, but only two patients experienced a possibly drug-related serious AE. The occurrence of AEs, drug-related AEs, and treatment discontinuations due to AEs varied between RCTs. Most AEs reported were of mild intensity. Indirect evidence indicates that cetirizine is more sedating than the other newer-generation AHs.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "33894089",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2021-Jul-26",
+    "title": "Efficacy and Safety of Up-dosing Antihistamines in Chronic Spontaneous Urticaria: A Systematic Review of the Literature.",
+    "methods": null,
+    "results": "We identified 337 articles, of which 14 were included in the final evaluation (fexofenadine, 6; cetirizine, 2; levocetirizine and desloratadine, 1; levocetirizine, 1; rupatadine, 2; ebastine, 1; and bilastine, 1). Only 5 studies were placebo-controlled. The number of patients included ranged from 20 to 439. The observation lapse was ≤16 weeks. High fexofenadine doses produced a significant dosedependent response and controlled urticaria in most patients. Cetirizine, levocetirizine, rupatadine, and bilastine were more effective in up-dosing. The most frequent adverse events were headache and drowsiness.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "33030434",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2020-Oct",
+    "title": "Intravenous Cetirizine Versus Intravenous Diphenhydramine for the Treatment of Acute Urticaria: A Phase III Randomized Controlled Noninferiority Trial.",
+    "methods": "Adult patients presenting to EDs and urgent care centers with acute urticaria requiring an intravenous antihistamine were randomized to either intravenous cetirizine 10 mg or intravenous diphenhydramine 50 mg. The primary endpoint was the 2-hour pruritus score change from baseline, with time spent in treatment center and rate of return to treatment centers as key secondary endpoints. Frequency of sedation and anticholinergic adverse effects were also recorded.",
+    "results": "Among 262 enrolled patients, the 2-hour pruritus score change from baseline for intravenous cetirizine was statistically noninferior to that for intravenous diphenhydramine (-1.6 versus -1.5; 95% confidence interval -0.1 to 0.3), and in favor of cetirizine. Treatment differences also favored cetirizine for mean time spent in treatment center (1.7 versus 2.1 hours; P=.005), return to treatment center (5.5% versus 14.1%; P=.02), lower change from baseline sedation score at 2 hours (0.1 versus 0.5; P=.03), and adverse event rate (3.9% versus 13.3%).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "32653333",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2020-Apr",
+    "title": "\"Efficacy and safety of Liangxue Jiedu decoction for the treatment of progressive psoriasis vulgaris: a multicenter, randomized, controlled study\".",
+    "methods": "In this multicenter, randomized, controlled study, patients with blood-heat type psoriasis were randomly assigned to receive either Chinese herbal medicine (LJD; treatment group) or Western Medicine (cetirizine hydrochloride, vitamin C, and vitamin B complex; control group). Psoriasis Area and Severity Index (PASI) scores were calculated in addition to the number of patients who achieved ≥ 50% or ≥ 75% improvement in PASI score from baseline. The change in symptoms of Chinese medicine (color of rash, burning sensation, itchiness, severity of irritation, and anger) was evaluated and safety was assessed as adverse events and laboratory analysis. t test, independent sample non-parametric test and χ2 test were used to analyze the results.",
+    "results": "A total of 238 participants were included in the study [treatment group, n = 122 (PP analysis 117); control group, n = 116 (PP analysis 104)]. LJD treatment was associated with a significant improvement in skin lesions and symptoms compared with Western Medicine treatment. At the end of the 8-week treatment period, 23.77% (PP analysis 24.79%) of patients in the treatment group had achieved PASI75 and 57.38% (PP analysis 58.97%) had achieved PASI50; the corresponding figures in the control group were 9.48% (9.62%) and 25.00% (25.00%), respectively. The between-group differences were statistically significant (P < 0.05).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "32242395",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2019",
+    "title": "Safety of cetirizine ophthalmic solution 0.24% for the treatment of allergic conjunctivitis in adult and pediatric subjects.",
+    "methods": null,
+    "results": "Bilateral administration of cetirizine ophthalmic solution 0.24% resulted in low systemic exposure in the PK study and was associated with a low incidence of mild adverse events. There were no drug-related severe or serious adverse events. The tolerability scores between the active and vehicle groups were comparable, demonstrating high comfort in the administration of cetirizine ophthalmic solution 0.24%.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "30858690",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2018",
+    "title": "Phase III trials examining the efficacy of cetirizine ophthalmic solution 0.24% compared to vehicle for the treatment of allergic conjunctivitis in the conjunctival allergen challenge model.",
+    "methods": "The single-center (Study 1) and multi-center (Study 2), double-masked, randomized, vehicle-controlled, parallel group, CAC studies were conducted over ~5 weeks and four study visits. The study design only differed in entry criteria: Study 2 required more severe allergic conjunctivitis symptoms. Subjects were screened for an allergen response at Visits 1 and 2 and then randomized at Visit 3. Approximately 100 subjects were randomized in each study. The primary efficacy endpoints were ocular itching and conjunctival redness 15 minutes and 8 hours post-treatment, post-CAC.",
+    "results": "Cetirizine treatment administered 15 minutes or 8 hours prior to CAC resulted in significantly lower ocular itching at all time points post-CAC (P<0.0001) compared to vehicle in both studies. Conjunctival redness measured by the investigator was significantly lower after cetirizine treatment compared to vehicle at 7 minutes post-CAC at both 15 minutes and 8 hours post-treatment in both studies (P<0.05). All secondary endpoints were in favor and confirmatory of cetirizine efficacy with significant improvement in chemosis, eyelid swelling, tearing, ciliary redness, and episcleral redness, as well as nasal symptoms (rhinorrhea, nasal pruritus, ear or palatal pruritus, and nasal congestion) post-CAC. The most robust treatment differences were observed in Study 2 where more severe symptoms were required for study entry (P<0.05). No safety concerns for cetirizine ophthalmic solution 0.24% were identified.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "30587908",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2018-Mar",
+    "title": "Open-label, add-on trial of cetirizine for neuromyelitis optica.",
+    "methods": "Eligible participants met the Wingerchuk 2006 diagnostic criteria or had a single typical episode along with positive NMO immunoglobulin G. After baseline clinical and laboratory assessments, participants began treatment with cetirizine 10 mg orally daily, in addition to their usual disease-modifying therapy for NMO, and continued for 1 year. The primary end point was the annualized relapse rate (ARR) while on the same disease-modifying therapy before starting cetirizine compared with after taking cetirizine. Additional end points included disability (Expanded Disability Status Scale [EDSS]), relapse severity, tolerability, especially with respect to drowsiness measured by the Epworth Sleepiness Scale (ESS), and laboratory parameters.",
+    "results": "The ARR before cetirizine was 0.4 ± 0.80 and after cetirizine was 0.1 ± 0.24 (p = 0.047). There was no statistically significant difference in the EDSS (mean 3.9 ± 2.18 before the start of the study and 3.2 ± 2.31 at the conclusion of the study, p = 0.500). The ESS remained fairly consistent throughout the study (mean 6.5 ± 5.33 at baseline and 6.9 ± 4.50 at month 12, p = 0.740). Laboratory studies were unrevealing.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "30426035",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2017-Dec",
+    "title": "Management of Allergic Rhinitis: A Review for the Community Pharmacist.",
+    "methods": "Clinical trials studying a widely used intranasal corticosteroid, fluticasone propionate, in comparison with second-generation oral antihistamines, cetirizine, loratadine, or montelukast, were selected to support the comparative review of the efficacy and tolerability of these 2 classes of medications. Studies evaluating the combination of fluticasone propionate with an oral antihistamine were also included to review the efficacy and tolerability of combination therapy to treat allergic rhinitis.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "29079387",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2017",
+    "title": "Management of flu-like syndrome with cetirizine in patients with relapsing-remitting multiple sclerosis during therapy with interferon beta: Results of a randomized, cross-over, placebo-controlled pilot study.",
+    "methods": "We conducted a pilot, cross-over, randomized, placebo-controlled, double-blind study to evaluate the efficacy of cetirizine 10 mg added after each IFNβ injection to the standard of care for FLS (acetaminophen or nonsteroidal anti-inflammatory drugs) on FLS in patients with RRMS treated with IFNβ. Patients were randomized to two treatment sequences: 1) 4-week treatment with placebo added to the standard treatment for FLS, followed by 4-week treatment with cetirizine added to the standard of care, and 2) first addition of cetirizine, then of placebo. The primary efficacy endpoint was the mean change of FLS severity [11-point visual analog scale (VAS)] after 4 weeks of treatment within each sequence.",
+    "results": "Forty-five patients (71.1% female, mean age 39.1 years, mean time from RRMS diagnosis 5.8 years) were randomized to treatment sequences 1 and 2. The differences between cetirizine and placebo in the intensity of FLS were not statistically significant: total mean VAS scores at 4 hours from IFNβ injection were 3.57 and 3.42 for cetirizine and placebo, respectively (difference -0.15; 95% confidence interval: from -0.74 to 0.44; p = 0.6029). The two treatments were similar also with regard to other efficacy measures considered and to the safety/tolerability profile.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "28686675",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2017",
+    "title": "Effectiveness and safety of levocetirizine 10 mg versus a combination of levocetirizine 5 mg and montelukast 10 mg in chronic urticaria resistant to levocetirizine 5 mg: A double-blind, randomized, controlled trial.",
+    "methods": "A single-center, double-blind, randomized, active-controlled, parallel group phase IV trial (CTRI/2014/12/005261) was conducted on 120 patients of chronic urticaria of either sex not responding to 5 mg levocetirizine. Patients were randomized into receiving either levocetirizine 10 mg or levocetirizine 5 mg + montelukast 10 mg for 4 weeks. Primary outcome measures were Urticaria Activity Score (UAS) and Urticaria Total Severity Score (TSS). Routine hematological and biochemical tests and treatment-emergent adverse events were monitored for safety.",
+    "results": "Fifty-two patients on levocetirizine 10 mg group and 51 patients on levocetirizine 5 mg + montelukast 10 mg group were analyzed. UAS and TSS reduced significantly in both treatment groups and reduction of score were comparable in between the groups (P = 0.628, P = 0.824, respectively). Among adverse effects, sedation was noted significantly more (P = 0.013) in levocetirizine 10 mg group. Quality of life was significantly improved in levocetirizine 5 mg + montelukast 10 mg group (P = 0.031).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "28656910",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2017-Mar",
+    "title": "Comparative Efficacy and Safety of Ebastine 20 mg, Ebastine 10 mg and Levocetirizine 5 mg in Acute Urticaria.",
+    "methods": null,
+    "results": "The mean age of patients was 32.82 years. The mean UAS 7 score at the end of 4th week was 1.08 with ebastine 20 mg, 1.98 with levocetirizine 5 mg and 3.98 with ebastine 10 mg. In group A, 40 out of 50 patients (i.e., 80%), in Group B 25 out of 50 (i.e., 50%) get UAS7=0 and in Group C, 35 (i.e., 70%) patients who got relieved of symptoms at the end of treatment. When the scores were redefined and categorized under relieved and not relieved, and comparison done between all three groups, then there was a significant difference in the number of patients getting relieved, with p<0.001 (highly significant). Levocetirizine 5 mg had shown more side effects like dryness of mouth and sedation as compare to ebastine irrespective of dosage. The comparison made between the number of patients developing side effects among the groups was highly significant (p<0.001) for all the side effects.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "28511488",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2017-Oct",
+    "title": "A randomized, double-blind, placebo-controlled clinical trial evaluating the role of systemic antihistamine therapy for the reduction of adverse effects associated with topical 5-aminolevulinic acid photodynamic therapy.",
+    "methods": null,
+    "results": "Erythema, edema, crusting, exudation, vesiculation, and erosion were not different between treatment groups. Actinic keratoses were significantly reduced by day 30 in both the antihistamine and placebo groups (P = 0.01 and 0.0009, respectively), with results sustained to day 60 in the antihistamine group and day 180 for the placebo group. However, counts were not different between groups at any time point. Investigator-rated GAIS, subject satisfaction, healing, and tolerability were similar between treatment groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "28489298",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2017-May-01",
+    "title": "Randomized, placebo-controlled study of cetirizine and loratadine in children with seasonal allergic rhinitis.",
+    "methods": "This randomized, double-blind, parallel-group, placebo-controlled study was conducted at 71 U.S. centers during the spring tree and grass pollen season. After a 1-week placebo run-in period, qualified subjects were randomized to once-daily cetirizine 10 mg (n = 231), loratadine 10 mg (n = 221), and placebo (n = 231) for 2 weeks. The primary efficacy end point was change from baseline in the subject's mean reflective total symptom severity complex (TSSC) score over 14 days.",
+    "results": "Children treated with cetirizine experienced significantly greater TSSC score reductions versus children treated with placebo over 14 days (least square mean change, -2.1 versus -1.6; p = 0.006). The differences in TSSC score improvement over 14 days between the cetirizine versus loratadine groups (-2.1 versus -1.8; p = 0.124) and between the loratadine versus placebo groups (-1.8 versus -1.6; p = 0.230) were not statistically significant. Predominant adverse events in the cetirizine, loratadine, and placebo groups were headache (3.5, 3.6, and 3.1%, respectively) and pharyngitis (3.5, 2.7, and 3.5%, respectively). Somnolence was reported in three subjects (1.3%) treated with cetirizine and in none of the other subjects.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "28441993",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2017",
+    "title": "Efficacy and safety of setipiprant in seasonal allergic rhinitis: results from Phase 2 and Phase 3 randomized, double-blind, placebo- and active-referenced studies.",
+    "methods": "A Phase 2 trial and a Phase 3 trial were conducted at seven centers in Texas, USA during the Mountain Cedar pollen season. Both were prospective, randomized, double-blind, placebo- and active-referenced (cetirizine) studies. The Phase 2 trial assessed setipiprant 100-1000 mg b.i.d. and 1000 mg o.d. versus placebo in adult and elderly participants. The Phase 3 trial assessed setipiprant 1000 mg b.i.d. in adolescent, adult, and elderly participants. Efficacy was assessed using daytime nasal symptom scores (DNSS), night-time nasal symptom scores (NNSS) and daytime eye symptom scores (DESS).",
+    "results": "579 participants were randomized in the Phase 2 trial (mean age 41.6-43.4 years); 630 were randomized in the Phase 3 trial (mean age 37.5-40.7 years). A statistically significant, dose-related improvement in mean change from baseline DNSS was observed over 2 weeks with setipiprant 1000 mg b.i.d. versus placebo in the Phase 2 trial (-0.15 [95% CI -0.29, -0.01]; p = 0.030). Setipiprant 1000 mg b.i.d. had no significant effect on this endpoint in the Phase 3 trial (-0.02 [95% CI -0.12, 0.07]; p = 0.652). Total and individual NNSS and DESS symptom scores were significantly improved with setipiprant 1000 mg b.i.d. versus placebo in the Phase 2 but not the Phase 3 trial. Setipiprant showed a favorable safety/tolerability profile.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "28392807",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2016-Sep",
+    "title": "PATIENT/CARERS' RECOLLECTION OF MEDICINES RELATED INFORMATION FROM AN OUT-PATIENT CLINIC APPOINTMENT.",
+    "methods": null,
+    "results": "One hundred participants consented and were included in the study. One hundred and forty-five medicines were prescribed in total. Participants were able to recall the names of 96 (66%) medicines and were aware of the therapeutic indication for 142 (97.9%) medicines. The dose regimen was accurately described for 120 (82.8%) medicines with the duration of treatment known for 132 (91%). Participants mentioned that they had been advised about side effects for 44 (30.3%) medicines. Specific counselling points recommended by the BNFc1, were either omitted or not recalled by participants for the following systemic treatments: cetirizine (1), chlorphenamine (1), desmopressin (2), hydroxyzine (2), itraconazole (1), piroxicam (2), methotrexate (1), stiripentol (1) and topiramate (1).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "27540235",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2016",
+    "title": "Prediction of the Efficacy of Antihistamines in Chronic Spontaneous Urticaria Based on Initial Suppression of the Histamine- Induced Wheal.",
+    "methods": "We performed a multicenter, triple-blind, randomized study. Patients received a daily oral dose of cetirizine, fexofenadine, bilastine, desloratadine, or ebastine over 8 weeks. After 4 weeks, a higher dose of antihistamine was administered to patients who did not experience a clinical response. A histamine skin prick test was carried out at baseline and 24 hours after the first dose of antihistamine. Disease severity (Urticaria Activity Score [UAS]), response to the histamine skin prick test, and impact on the patient's quality of life (Dermatology Life Quality Index [DLQI]) were determined every 2 weeks.",
+    "results": "The study population comprised 150 patients (30 per group) and 30 controls. Twenty-four hours after administration of antihistamine, inhibition of the histamine wheal by >75% was significantly associated with better UAS and DLQI scores. The safety and efficacy of the 5 antihistamines were similar. After updosing, rates of disease control (DLQI score <5) increased from 58.7% to 76.7%.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "27326985",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2016-Jul",
+    "title": "Acupuncture for moderate to severe allergic rhinitis: A non-randomized controlled trial.",
+    "methods": "A non-randomized controlled design was used to compare between the acupuncture group and the medication group. The acupuncture group received 8-week acupuncture therapy, and the medication group received budesonide nasal spray with cetirizine tablets for 8 weeks. The clinical symptoms and signs were analyzed before treatment, at 4 and 8 weeks after the start of treatment, and at 12 weeks after the end of treatment. Furthermore, the clinical efficacy and safety indicators were compared between the two groups.",
+    "results": "A total of 76 participants consisting of 38 in each of the two groups were enrolled. The scores of each clinical symptom and sign, including sneezing, runny nose, stuffy nose, nasal itching, and turbinate edema, and the total scores decreased over time in both groups (all P<0.05); and no difference was found in the scores between the two groups (P>0.05). There was no statistically significant difference in the effective rates of the acupuncture group at 4 and 8 weeks after the start of treatment as well as at 12-week follow-up compared with those of the medication group (83.3% vs. 91.2%, and 94.4 % vs. 85.3%; and 80.6 % vs. 82.4%, all P>0.05). Experimental items including blood routine, urine routine, aspartate transaminase, alanine aminotransferase, urea nitrogen and creatinine were all in the normal reference ranges during the treatment in the acupuncture group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "27048410",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2015-Oct",
+    "title": "H1-antihistamines for chronic spontaneous urticaria: an abridged Cochrane Systematic Review.",
+    "methods": "A systematic search of major databases for randomized controlled trials was conducted.",
+    "results": "We included 73 studies with 9759 participants; 34 studies provided outcome data for 23 comparisons. Compared with placebo, cetirizine 10 mg daily in the short and intermediate term (RR 2.72; 95% confidence interval [CI] 1.51-4.91) led to complete suppression of urticaria. Levocetirizine 20 mg daily was effective for short-term use (RR 20.87; 95% CI 1.37-317.60) as was 5 mg for intermediate-term use (RR 52.88; 95% CI 3.31-843.81). Desloratadine 20 mg was effective for the short term (RR 15.97; 95% CI 1.04-245.04) as was 5 mg in the intermediate term (RR 37.00; 95% CI 2.31-593.70). There was no evidence to suggest difference in adverse event rates between treatments.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "26253363",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2015-Apr",
+    "title": "[Efficacy of acupuncture on moderate and severe allergic rhinitis].",
+    "methods": "Sixty cases of moderate and severe allergic rhinitis were divided into an acupuncture group (30 cases) and a western medicine group (30 cases). In the acupuncture group, the main acupoints included Yingxiang (LI 20), Shangxing (GV 23), Fengchi (GB 20), Quchi (LI 11), Xuehai (SP 10), Feishu (BL 13), Geshu (BL 17), Pishu (BL 20), etc. The supplementary points were selected according to syndrome differentiation. In the western medicine group, budesonide nasal spray and cetirizine tablets were prescribed. All the cases were treated for 8 weeks in the two groups. Separately, before treatment, in 4 weeks and 8 weeks of treatment, the scores of clinical symptoms and physical signs were observed and the clinical efficacy and safety were compared between the two groups.",
+    "results": "In 4 weeks and 8 weeks of treatment, the scores of symptoms such as sneezing, nasal discharge, nasal obstruction, nasal itching, eye itching and turbinate hypertrophy, the score of physical signs and total score were all reduced apparently as compared with those before treatment (all P<0. 05). The differences were not significant between the acupuncture group and the western medicine group (all P>0. 05). The total effective rates were 90. 0% (27/30) and 93. 4% (28/30) in the acupuncture group after 4 and 8 weeks of treatment, and were 76. 6% (23/30) and 80. 0% (24/30) in the western medicine group separately, without significant difference in comparison (all P>0. 05).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "26054141",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2015",
+    "title": "Acyclovir in pityriasis rosea: An observer-blind, randomized controlled trial of effectiveness, safety and tolerability.",
+    "methods": "An observer-blind, randomized (1:1), parallel group, add-on trial was conducted on 24 adult patients with PR. Subjects of both Group A and B received the standard of care in the form of cetirizine 10 mg OD and calamine. Group A in addition received acyclovir 400 mg tablets thrice daily for 7 days. Both groups were followed up for four consecutive weeks for assessment of effectiveness and adverse events.",
+    "results": "Group A complained of significantly fewer new lesions than Group B (P = 0.046). A complete response was obtained in all patients of Group A and 83% patients of Group B at the end of the follow up period. There was significant reduction in both lesional score and pruritus at second week follow-up in Group A and third week follow-up in Group B (P < 0.05). Minor adverse effects were observed in both treatment arms.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "26009712",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2015",
+    "title": "Safety and efficacy of cetirizine versus cetirizine plus ranitidine in chronic urticaria: Double-blind randomized placebo-controlled study.",
+    "methods": "Thirty-two patients with chronic urticaria were included. Group A (16 subjects) treated with cetirizine plus ranitidine and Group B (16 subjects) with cetirizine plus placebo, both for 30 days. Efficacy measures were Urticaria Activity Score (UAS), Chronic Urticaria Quality of Life Questionnaire (CU-Q2oL) and time of symptom remission, safety measures were clinical and laboratory effects.",
+    "results": "Complete remission was obtained in ten patients (62.5%) from Group A and seven patients (44%) from Group B (p = 0.28). The UAS in Group A was 1.53 ± 2.09 versus Group B 2.06 ± 1.34 (p = 0.20). The CU-Q2oL in Group A was 12.93 ± 19.20 versus Group B 12.68 ± 10.30 (p = 0.20). At the end of treatment, 13 patients (81%) from Group A and 14 patients (87.5%) from Group B had some type of adverse effect (p = 1.0).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "25886090",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2015-Oct",
+    "title": "Levocetirizine and rupatadine in chronic idiopathic urticaria.",
+    "methods": "A prospective, open, comparative, randomized study was conducted in 100 patients, of whom 50 were treated with levocetirizine and 50 were treated with rupatadine. Efficacy parameters used were urticarial activity score (UAS) and Dermatology Life Quality Index (DLQI) values. Safety was evaluated by monitoring for adverse drug reactions and by using the critical flicker fusion threshold (CFFT) test and a visual analog scale (VAS) at baseline, and at 2, 4, and 6 weeks.",
+    "results": "The mean UAS decreased to 0.10 in the levocetirizine group and to 0.38 in the rupatadine group. Patients in the levocetirizine group showed a more significant (P < 0.001) improvement, although symptoms improved in both groups. Significant reductions in mean DLQI scores were observed in both groups, but the decrease was statistically significant in the levocetirizine group (P < 0.05). Somnolence was the most common side effect in both groups. Patients in the levocetirizine group showed more psychomotor impairment based on the CFFT test. Findings on the VAS showed sedative effects in both groups (P < 0.05).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "25521304",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2014-Apr",
+    "title": "Beneficial role for supplemental vitamin D3 treatment in chronic urticaria: a randomized study.",
+    "methods": "In a prospective, double-blinded, single-center study, 42 subjects with chronic urticaria were randomized to high (4,000 IU/d) or low (600 IU/d) vitamin D3 supplementation for 12 weeks. All subjects were provided with a standardized triple-drug therapy (cetirizine, ranitidine, and montelukast) and a written action plan. Data on USS scores, medication use, blood for 25-hydroxyvitamin D, and safety measurements were collected.",
+    "results": "Triple-drug therapy decreased total USS scores by 33% in the first week. There was a further significant decrease (40%) in total USS scores in the high, but not low, vitamin D3 treatment group by week 12. Compared with low treatment, the high treatment group demonstrated a trend (P = .052) toward lower total USS scores at week 12, which was driven by significant decreases in body distribution and number of days with hives. Beneficial trends for sleep quality and pruritus scores were observed with high vitamin D3. Serum 25-hydroxyvitamin D levels increased with high vitamin D3 supplementation, but there was no correlation between 25-hydroxyvitamin D levels and USS scores. There was no difference in allergy medication use between groups. No adverse events occurred.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "24507460",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2013-Dec",
+    "title": "Olopatadine versus levocetirizine in chronic urticaria: an observer-blind, randomized, controlled trial of effectiveness and safety.",
+    "methods": "A single center, assessor-blind, randomized (1:1), active-controlled, parallel group, Phase IV trial (CTRI/2011/08/001965) was conducted with 120 adult CU patients of either sex. Subjects received either olopatadine (5 mg b.i.d.) or levocetirizine (5 mg/day) for 9 weeks, continuously for first 4 weeks and then on demand basis for last 5 weeks. Primary outcome measures were urticaria activity score (UAS) and urticaria total severity score (TSS). Routine hematological and biochemical tests and treatment-emergent adverse events were monitored for safety.",
+    "results": "Data from 54 subjects on olopatadine and 51 on levocetirizine were analyzed for effectiveness. UAS and TSS values declined significantly with both drugs over the treatment period but the reduction was greater with olopatadine. Adverse event profiles were comparable with sedation being the commonest complaint.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "23163959",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2012-Feb",
+    "title": "The management of EGFR inhibitor adverse events: a case series and treatment paradigm.",
+    "methods": "A retrospective chart review of all cases referred for the management of cutaneous adverse events after the initiation of EGFR inhibitor therapy between the years of 2006 and 2009 was performed. The study was approved by the institutional review board.",
+    "results": "Four men and 11 women had cutaneous adverse events while receiving erlotinib (mean dose: 112.5 mg) for lung and pancreatic cancer. The most common cutaneous adverse reaction observed was a papulopustular rash in 12 cases (80%). Eczema and xerosis were the only findings in three patients, alopecia in one case, and nail changes in three cases. The treatment modalities prescribed were doxycycline and topical antibiotics for the papulopustular rash; topical high potency steroids, tacrolimus, pimecrolimus, and moisturizers for xerosis and eczema; and cetirizine for the pruritus. The paronychia was treated with warm soaks, topical steroids, and podiatry referral. The majority of patients improved with symptomatic therapy, with the exception of one patient who experienced herpes zoster super infection and Stevens-Johnson syndrome. The patient was hospitalized and required discontinuation of the erlotinib therapy.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "22250636",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": "2012",
+    "title": "The efficacy and tolerability of two novel H(1)/H(3) receptor antagonists in seasonal allergic rhinitis.",
+    "methods": "Two novel H(1)/H(3) dual receptor antagonists were investigated in phase I and II safety and efficacy studies. One molecule (GSK1004723) was designed for intranasal administration as a suspension or solution and the other molecule (GSK835726) for oral administration. In phase I and II studies, both molecules were compared with an active control and/or placebo in randomised studies. In phase II studies, efficacy was assessed in an environmental allergen challenge chamber (ECC). Subjects with seasonal allergic rhinitis were exposed to allergen to induce symptoms. Efficacy and safety was measured over 4, 7 and 20-24 h post-dose. The endpoints included total nasal symptom score and nasal blockage.",
+    "results": "Intranasal suspension of GSK1004723 and oral GSK835726 were well tolerated. Single-dose intranasal suspensions of GSK1004723 (220, 1,100 μg) failed to demonstrate clinically significant attenuation of symptoms of allergic rhinitis induced in the ECC. Single (10, 50, 100 mg) and 3-day repeat (10 mg) dose oral GSK835726 demonstrated clinically significant attenuation of symptoms in the ECC comparable to cetirizine 10 mg. Three-day repeat dosing of the intranasal solution GSK1004723 1,000 μg also demonstrated a statistically significant attenuation of nasal symptoms, but was less than seen with cetirizine and GSK835726 and caused initial nasal discomfort.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "22212854",
+    "query_date": "20_02_2025"
+  },
+  {
+    "pub_date": null,
+    "title": "zyrtec - uppsalareports.org",
+    "methods": null,
+    "results": "Uppsala Reports - Home Home Topics Latest issues Subscribe Write for us About Uppsala Reports The One Health approach aims to uphold human, animal, and environmental health In focus / 20 February 2025 Veterinary pharmacovigilance parts 1 and 2  – New podcast episode In focus / 13 February 2025 Linking Pharmacogenomics and Pharmacovigilance Data to Solve Drug-induced Problems Perspective / 05 February 2025 The Latest Uncovering pregnancy cases in VigiBase To tackle the lack of medicine and vaccine safety data for pregnant people, UMC has developed an algorithm to more easily identify pregnancy-related reports in VigiBase. Research / 21 January 2025 Traversing the social media landscape Social media is prime real estate for healthcare communicators to connect with their audiences. But it is also constantly evolving. How can we navigate this dynamic online terrain? Communications / 14 January 2025 From Nobel prize to PV: How neural networks inspired vigiGroup Machine learning has long been used at UMC. In fact, our vigiGroup method stems from neural networks pioneered by one of this year’s Nobel laureates in Physics. In focus / 05 December 2024 The One Health approach aims to uphold human, animal, and environmental health The One Health approach emphasises how human, animal and environmental health are interlinked and must be prioritised to prevent future global health crises. In focus / 20 February 2025 Veterinary pharmacovigilance parts 1 and 2  – New podcast episode Pharmacovigilance is integral to ensuring medicines and vaccines safety for people, but what about our furry friends? Join us as we take a deep dive into veterinary PV. In focus / 13 February 2025 Linking Pharmacogenomics and Pharmacovigilance Data to Solve Drug-induced Problems Pharmacovigilance has come a long way in helping us link medicines to their side-effects; with the help of pharmacogenomics it can go even further. Perspective / 05 February 2025 Uncovering pregnancy cases in VigiBase To tackle the lack of medicine and vaccine safety data for pregnant people, UMC has developed an algorithm to more easily identify pregnancy-related reports in VigiBase. Research / 21 January 2025 Show More Top Articles Linking Pharmacogenomics and Pharmacovigilance Data to Solve Drug-induced Problems Perspective / 05 February 2025 VigiFlow now free for all WHO programme members WHO programme / 25 November 2024 Traversing the social media landscape Communications / 14 January 2025 From Nobel prize to PV: How neural networks inspired vigiGroup In focus / 05 December 2024 The Latest Media Please accept cookies to view this video Change cookie settings PhPID Explained Video / 17 October 2023 Veterinary pharmacovigilance, Part 2 – New podcast episode Podcast / 13 February 2025 Veterinary pharmacovigilance, Part I – New podcast episode Podcast / 13 February 2025 Pharmacovigilance in older adults – New podcast episode Podcast / 29 October 2024 A guide to reporting disproportionality analyses – new podcast episode Podcast / 07 October 2024 Weeding out duplicates to better detect side-effects – New podcast episode Podcast / 26 August 2024 When medicines change our behaviour – New podcast episode Podcast / 02 May 2024 Catching Black swans – New podcast out now Podcast / 04 March 2024 When drugs damage the liver– New podcast out now Podcast / 05 February 2024 What’s trending in pharmacovigilance? New podcast episode Podcast / 21 December 2023 A week in the name of medicines safety part 2 – New podcast out now Podcast / 14 November 2023 A week in the name of medicines safety part 1 – New podcast out now Podcast / 07 November 2023 The WHO PIDM in Focus - Vaccine Safety Video / 12 October 2023 WHO SEARO – vaccine safety surveillance workshop Video / 12 January 2023 The colour of signals – New podcast episode Podcast / 02 October 2023 Uppsala Reports Long Reads – Empowering patients as partners Podcast / 07 September 2023 Assessing safety in clinical trials - New podcast out now Podcast / 30 June 2023 Reforming pharmacovigilance education – New podcast out now Podcast / 10 May 2023 Unlocking the power of real-world data – New podcast episode Podcast / 31 March 2023 Expanding sources of evidence for better signal detection – New podcast out now Podcast / 23 February 2023 Unmasking data in the COVID-19 vaccine era – new podcast episode Podcast / 31 January 2023 An introduction to IDMP Video / 14 November 2022 #19 Lessons in pandemic pharmacovigilance Podcast / 15 December 2022 #18 The IDMP standards explained Podcast / 03 October 2022 Let's talk about side effects - Amazona breast cancer society Video / 08 March 2022 vigiGroup Explainer – UMC's cluster analysis method Video / 04 February 2022 #17 Why we need vaccine surveillance systems Podcast / 25 August 2022 True Vocations - Putting theory into action at UMC Video / 17 June 2021 WHODrug Koda - Your new coding powerhouse Video / 30 March 2021 WHODrug Global Data Validation Video / 08 June 2020 Going further together Video / 23 May 2018 Uppsala Reports All Rights Reserved Uppsala Monitoring Centre • About Cookies • Privacy policy",
+    "figures_tables": null,
+    "article_id": null,
+    "query_date": "20_02_2025",
+    "source": "uppsalareports.org",
+    "ner_entities": [
+      [
+        "Uppsala Reports",
+        "ENTITY"
+      ],
+      [
+        "Home Home Topics Latest issues",
+        "ENTITY"
+      ],
+      [
+        "Uppsala Reports",
+        "ENTITY"
+      ],
+      [
+        "One Health approach",
+        "ENTITY"
+      ],
+      [
+        "human",
+        "ENTITY"
+      ],
+      [
+        "animal",
+        "ENTITY"
+      ],
+      [
+        "environmental health",
+        "ENTITY"
+      ],
+      [
+        "focus",
+        "ENTITY"
+      ],
+      [
+        "Veterinary",
+        "ENTITY"
+      ],
+      [
+        "pharmacovigilance",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "focus",
+        "ENTITY"
+      ],
+      [
+        "Pharmacovigilance Data",
+        "ENTITY"
+      ],
+      [
+        "Drug-induced",
+        "ENTITY"
+      ],
+      [
+        "Perspective",
+        "ENTITY"
+      ],
+      [
+        "Latest",
+        "ENTITY"
+      ],
+      [
+        "pregnancy",
+        "ENTITY"
+      ],
+      [
+        "cases",
+        "ENTITY"
+      ],
+      [
+        "VigiBase",
+        "ENTITY"
+      ],
+      [
+        "lack",
+        "ENTITY"
+      ],
+      [
+        "medicine",
+        "ENTITY"
+      ],
+      [
+        "vaccine",
+        "ENTITY"
+      ],
+      [
+        "safety",
+        "ENTITY"
+      ],
+      [
+        "data",
+        "ENTITY"
+      ],
+      [
+        "pregnant people",
+        "ENTITY"
+      ],
+      [
+        "UMC",
+        "ENTITY"
+      ],
+      [
+        "algorithm",
+        "ENTITY"
+      ],
+      [
+        "pregnancy-related reports",
+        "ENTITY"
+      ],
+      [
+        "VigiBase",
+        "ENTITY"
+      ],
+      [
+        "Research",
+        "ENTITY"
+      ],
+      [
+        "Traversing",
+        "ENTITY"
+      ],
+      [
+        "social media",
+        "ENTITY"
+      ],
+      [
+        "landscape",
+        "ENTITY"
+      ],
+      [
+        "Social media",
+        "ENTITY"
+      ],
+      [
+        "prime",
+        "ENTITY"
+      ],
+      [
+        "healthcare communicators",
+        "ENTITY"
+      ],
+      [
+        "audiences",
+        "ENTITY"
+      ],
+      [
+        "evolving",
+        "ENTITY"
+      ],
+      [
+        "navigate",
+        "ENTITY"
+      ],
+      [
+        "dynamic online terrain",
+        "ENTITY"
+      ],
+      [
+        "Communications",
+        "ENTITY"
+      ],
+      [
+        "Nobel",
+        "ENTITY"
+      ],
+      [
+        "PV",
+        "ENTITY"
+      ],
+      [
+        "neural networks",
+        "ENTITY"
+      ],
+      [
+        "vigiGroup Machine learning",
+        "ENTITY"
+      ],
+      [
+        "UMC",
+        "ENTITY"
+      ],
+      [
+        "vigiGroup",
+        "ENTITY"
+      ],
+      [
+        "stems",
+        "ENTITY"
+      ],
+      [
+        "neural networks",
+        "ENTITY"
+      ],
+      [
+        "pioneered",
+        "ENTITY"
+      ],
+      [
+        "year",
+        "ENTITY"
+      ],
+      [
+        "laureates",
+        "ENTITY"
+      ],
+      [
+        "Physics",
+        "ENTITY"
+      ],
+      [
+        "One Health approach",
+        "ENTITY"
+      ],
+      [
+        "human",
+        "ENTITY"
+      ],
+      [
+        "animal",
+        "ENTITY"
+      ],
+      [
+        "environmental health",
+        "ENTITY"
+      ],
+      [
+        "One Health approach",
+        "ENTITY"
+      ],
+      [
+        "emphasises",
+        "ENTITY"
+      ],
+      [
+        "human",
+        "ENTITY"
+      ],
+      [
+        "animal",
+        "ENTITY"
+      ],
+      [
+        "environmental health",
+        "ENTITY"
+      ],
+      [
+        "prevent",
+        "ENTITY"
+      ],
+      [
+        "global health crises",
+        "ENTITY"
+      ],
+      [
+        "Veterinary",
+        "ENTITY"
+      ],
+      [
+        "pharmacovigilance",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Pharmacovigilance",
+        "ENTITY"
+      ],
+      [
+        "integral",
+        "ENTITY"
+      ],
+      [
+        "medicines",
+        "ENTITY"
+      ],
+      [
+        "vaccines safety",
+        "ENTITY"
+      ],
+      [
+        "people",
+        "ENTITY"
+      ],
+      [
+        "furry friends",
+        "ENTITY"
+      ],
+      [
+        "deep",
+        "ENTITY"
+      ],
+      [
+        "veterinary",
+        "ENTITY"
+      ],
+      [
+        "PV",
+        "ENTITY"
+      ],
+      [
+        "focus",
+        "ENTITY"
+      ],
+      [
+        "Pharmacovigilance Data",
+        "ENTITY"
+      ],
+      [
+        "Drug-induced",
+        "ENTITY"
+      ],
+      [
+        "Pharmacovigilance",
+        "ENTITY"
+      ],
+      [
+        "medicines",
+        "ENTITY"
+      ],
+      [
+        "side-effects",
+        "ENTITY"
+      ],
+      [
+        "pharmacogenomics",
+        "ENTITY"
+      ],
+      [
+        "Perspective",
+        "ENTITY"
+      ],
+      [
+        "pregnancy",
+        "ENTITY"
+      ],
+      [
+        "cases",
+        "ENTITY"
+      ],
+      [
+        "VigiBase",
+        "ENTITY"
+      ],
+      [
+        "lack",
+        "ENTITY"
+      ],
+      [
+        "medicine",
+        "ENTITY"
+      ],
+      [
+        "vaccine",
+        "ENTITY"
+      ],
+      [
+        "safety",
+        "ENTITY"
+      ],
+      [
+        "data",
+        "ENTITY"
+      ],
+      [
+        "pregnant people",
+        "ENTITY"
+      ],
+      [
+        "UMC",
+        "ENTITY"
+      ],
+      [
+        "algorithm",
+        "ENTITY"
+      ],
+      [
+        "pregnancy-related reports",
+        "ENTITY"
+      ],
+      [
+        "VigiBase",
+        "ENTITY"
+      ],
+      [
+        "Research",
+        "ENTITY"
+      ],
+      [
+        "Pharmacogenomics",
+        "ENTITY"
+      ],
+      [
+        "Pharmacovigilance Data",
+        "ENTITY"
+      ],
+      [
+        "Drug-induced",
+        "ENTITY"
+      ],
+      [
+        "Perspective",
+        "ENTITY"
+      ],
+      [
+        "WHO programme members",
+        "ENTITY"
+      ],
+      [
+        "WHO programme",
+        "ENTITY"
+      ],
+      [
+        "Traversing",
+        "ENTITY"
+      ],
+      [
+        "social media",
+        "ENTITY"
+      ],
+      [
+        "landscape",
+        "ENTITY"
+      ],
+      [
+        "Communications",
+        "ENTITY"
+      ],
+      [
+        "Nobel",
+        "ENTITY"
+      ],
+      [
+        "PV",
+        "ENTITY"
+      ],
+      [
+        "neural networks",
+        "ENTITY"
+      ],
+      [
+        "vigiGroup",
+        "ENTITY"
+      ],
+      [
+        "focus",
+        "ENTITY"
+      ],
+      [
+        "Latest Media",
+        "ENTITY"
+      ],
+      [
+        "accept",
+        "ENTITY"
+      ],
+      [
+        "cookies",
+        "ENTITY"
+      ],
+      [
+        "video",
+        "ENTITY"
+      ],
+      [
+        "PhPID",
+        "ENTITY"
+      ],
+      [
+        "Video",
+        "ENTITY"
+      ],
+      [
+        "Veterinary",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "Veterinary",
+        "ENTITY"
+      ],
+      [
+        "Part I",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "older adults",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "disproportionality",
+        "ENTITY"
+      ],
+      [
+        "analyses",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "duplicates",
+        "ENTITY"
+      ],
+      [
+        "detect",
+        "ENTITY"
+      ],
+      [
+        "side-effects",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "medicines",
+        "ENTITY"
+      ],
+      [
+        "behaviour",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "Catching",
+        "ENTITY"
+      ],
+      [
+        "Black swans",
+        "ENTITY"
+      ],
+      [
+        "New podcast out now",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "drugs",
+        "ENTITY"
+      ],
+      [
+        "damage",
+        "ENTITY"
+      ],
+      [
+        "liver–",
+        "ENTITY"
+      ],
+      [
+        "New podcast out now",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "’s trending",
+        "ENTITY"
+      ],
+      [
+        "pharmacovigilance",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "week",
+        "ENTITY"
+      ],
+      [
+        "medicines",
+        "ENTITY"
+      ],
+      [
+        "safety",
+        "ENTITY"
+      ],
+      [
+        "New podcast out now",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "week",
+        "ENTITY"
+      ],
+      [
+        "medicines",
+        "ENTITY"
+      ],
+      [
+        "safety",
+        "ENTITY"
+      ],
+      [
+        "New podcast out now",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "WHO",
+        "ENTITY"
+      ],
+      [
+        "PIDM",
+        "ENTITY"
+      ],
+      [
+        "Focus",
+        "ENTITY"
+      ],
+      [
+        "Vaccine",
+        "ENTITY"
+      ],
+      [
+        "Safety",
+        "ENTITY"
+      ],
+      [
+        "WHO",
+        "ENTITY"
+      ],
+      [
+        "SEARO",
+        "ENTITY"
+      ],
+      [
+        "vaccine",
+        "ENTITY"
+      ],
+      [
+        "safety",
+        "ENTITY"
+      ],
+      [
+        "surveillance workshop Video",
+        "ENTITY"
+      ],
+      [
+        "colour of",
+        "ENTITY"
+      ],
+      [
+        "signals",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "Uppsala Reports",
+        "ENTITY"
+      ],
+      [
+        "Long Reads –",
+        "ENTITY"
+      ],
+      [
+        "Empowering",
+        "ENTITY"
+      ],
+      [
+        "patients",
+        "ENTITY"
+      ],
+      [
+        "partners",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "Assessing",
+        "ENTITY"
+      ],
+      [
+        "safety",
+        "ENTITY"
+      ],
+      [
+        "clinical trials",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "pharmacovigilance education",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "Unlocking",
+        "ENTITY"
+      ],
+      [
+        "real-world",
+        "ENTITY"
+      ],
+      [
+        "data",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "sources",
+        "ENTITY"
+      ],
+      [
+        "evidence",
+        "ENTITY"
+      ],
+      [
+        "signal detection",
+        "ENTITY"
+      ],
+      [
+        "New",
+        "ENTITY"
+      ],
+      [
+        "podcast out now",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "Unmasking",
+        "ENTITY"
+      ],
+      [
+        "data",
+        "ENTITY"
+      ],
+      [
+        "COVID-19",
+        "ENTITY"
+      ],
+      [
+        "vaccine",
+        "ENTITY"
+      ],
+      [
+        "era",
+        "ENTITY"
+      ],
+      [
+        "podcast episode",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "January",
+        "ENTITY"
+      ],
+      [
+        "IDMP Video",
+        "ENTITY"
+      ],
+      [
+        "Lessons",
+        "ENTITY"
+      ],
+      [
+        "pandemic pharmacovigilance",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "IDMP",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "Let's",
+        "ENTITY"
+      ],
+      [
+        "talk",
+        "ENTITY"
+      ],
+      [
+        "side effects",
+        "ENTITY"
+      ],
+      [
+        "Amazona breast cancer",
+        "ENTITY"
+      ],
+      [
+        "society Video",
+        "ENTITY"
+      ],
+      [
+        "vigiGroup",
+        "ENTITY"
+      ],
+      [
+        "Explainer –",
+        "ENTITY"
+      ],
+      [
+        "UMC's",
+        "ENTITY"
+      ],
+      [
+        "cluster analysis method",
+        "ENTITY"
+      ],
+      [
+        "vaccine",
+        "ENTITY"
+      ],
+      [
+        "surveillance systems",
+        "ENTITY"
+      ],
+      [
+        "Podcast",
+        "ENTITY"
+      ],
+      [
+        "True Vocations",
+        "ENTITY"
+      ],
+      [
+        "Putting theory",
+        "ENTITY"
+      ],
+      [
+        "action",
+        "ENTITY"
+      ],
+      [
+        "UMC Video",
+        "ENTITY"
+      ],
+      [
+        "WHODrug Koda",
+        "ENTITY"
+      ],
+      [
+        "coding powerhouse Video",
+        "ENTITY"
+      ],
+      [
+        "WHODrug Global Data Validation Video",
+        "ENTITY"
+      ],
+      [
+        "Video",
+        "ENTITY"
+      ],
+      [
+        "Uppsala Reports",
+        "ENTITY"
+      ],
+      [
+        "Reserved Uppsala Monitoring Centre",
+        "ENTITY"
+      ],
+      [
+        "Cookies",
+        "ENTITY"
+      ],
+      [
+        "Privacy",
+        "ENTITY"
+      ],
+      [
+        "policy",
+        "ENTITY"
+      ]
+    ]
+  }
+]

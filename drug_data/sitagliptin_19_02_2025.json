@@ -1,0 +1,102 @@
+[
+  {
+    "pub_date": "2025-Jan-11",
+    "title": "Comparative Efficacy and Safety of Oral Semaglutide in Asians and Non-Asians Patients with Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis.",
+    "methods": "All available databases of randomized controlled trials (RCTs) on oral semaglutide in patients with type 2 diabetes mellitus were included. These databases provided detailed patient information, including HbA1c levels, body weight, and adverse events (AEs and serious adverse events [SAEs]).",
+    "results": "Ten randomized controlled trials involving 7817 patients were included: six conducted in European and American populations and four in East Asian populations. In both the Asian and non-Asian patients' subgroups, oral semaglutide 3, 7, and 14 mg was more effective in reducing HbA1c than placebo, and between-subgroups analysis showed that semaglutide 3, 7, and 14 mg was more effective in reducing HbA1c in the Asian patients' subgroup than in the non-Asian patients' subgroup. There were no significant differences between subgroups in the number of patients achieving HbA1c < 5%. Non-Asian patients with type 2 diabetes showed significant weight reduction with 7 mg and 14 mg oral semaglutide, and Asian patients reduced body weight only with 14 mg oral semaglutide. Between-subgroups analysis showed that 7 mg oral semaglutide was more effective for weight reduction in non-Asian patients than in Asian patients. In the analysis of the efficacy of oral semaglutide at weeks 26 and 52 in Asian and non-Asian patients, in Asian patients, the hypoglycemic efficacy of oral semaglutide at 3-, 7-, and 14-mg doses at week 52 was significantly lower than that at week 26. In non-Asian patients, there was no significant difference in the reducing HbA1c efficacy of these doses of oral semaglutide at weeks 26 and 52. The weight-reduction efficacy of all doses of oral semaglutide did not change significantly with treatment duration in either Asian or non-Asian patients. Compared with sitagliptin, oral semaglutide was more effective in HbA1c reduction and weight reduction in both Asian and non-Asian patients. Subgroup analysis showed that compared with sitagliptin, Asian patients received oral semaglutide to achieve greater efficacy (HbA1c and weight reduction) than non-Asian patients. In the analysis of adverse events, oral semaglutide, as compared with placebo, was not associated with serious adverse events in either subgroup. The incidence of other (not including series) adverse events was significantly higher in non-Asian patients receiving 7 mg and 14 mg oral semaglutide.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39797937",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-21",
+    "title": "Drug classes associated with the development of fulminant type 1 diabetes: a retrospective analysis using the FDA adverse event reporting system database.",
+    "methods": "A retrospective analysis of FAERS data from 2013 to 2023 was conducted. Drug names were standardized using text mining tools, and safety signals were evaluated using reporting odds ratio (ROR), proportional reporting ratio (PRR), Bayesian Confidence Propagation Neural Network (BCPNN), and Multi-item Gamma Poisson Shrinker (MGPS).",
+    "results": "A total of 706 FT1DM cases were identified, predominantly in older individuals and males. Nineteen drugs were implicated, including immune checkpoint inhibitors (nivolumab, ipilimumab, pembrolizumab, avelumab, durvalumab, atezolizumab), lenvatinib, eribulin, psychiatric drugs (atomoxetine, carbamazepine, lamotrigine), anti-infectives (sulfamethoxazole, trimethoprim, amoxicillin), and metabolic modulators (dapagliflozin, sitagliptin, hydrochlorothiazide, allopurinol).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39797494",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-10",
+    "title": "Comparative efficacy and safety of sitagliptin or gliclazide combined with metformin in treatment-naive patients with type 2 diabetes: A single-center, prospective, randomized, controlled, noninferiority study with genetic polymorphism analysis.",
+    "methods": "In this single-center, randomized, controlled noninferiority trial, 129 treatment-naive patients with T2DM with glucotoxicity (fasting plasma glucose [FPG] ≥ 200 mg/dL and glycated hemoglobin ≥ 9.0%) were randomized to receive sitagliptin plus metformin (n = 66) or gliclazide plus metformin (n = 63) for 12 weeks. Sitagliptin and gliclazide were given for the first 4 weeks, followed by metformin monotherapy for 8 weeks. Efficacy end points included changes in glycemic control, body weight, and β-cell function at baseline, 4 weeks, and 12 weeks.",
+    "results": "After 12 weeks, mean glycated hemoglobin reductions were 4.03% in the sitagliptin group and 4.13% in the gliclazide group, with a mean difference of -0.097 (95% confidence interval, -0.648 to 0.453), confirming noninferiority. Both groups showed significant FPG reductions at 4 weeks (P < .05). The sitagliptin group achieved faster glycemic targets, greater FPG and body weight reductions, and higher rates of FPG < 6.1 mmol/L (26.2% vs 5.7%; P = .012). No significant differences were observed in β-cell function or hypoglycemia incidence (P > .05). Genetic analysis showed specific single-nucleotide polymorphisms affected drug efficacy: dipeptidyl peptidase-4 rs2909451 TT and rs4664443 GG genotypes showed lower efficacy with sitagliptin, while GLP1R rs3765467 AG and KCNJ11 rs2285676 CC genotypes responded better to sitagliptin.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39792745",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-07",
+    "title": "Interaction between dipeptidyl-peptidase-4 inhibitors and drugs acting on renin angiotensin aldosterone system for the risk of angioedema: a pharmacovigilance assessment using disproportionality and interaction analyses.",
+    "methods": "We conducted a comprehensive pharmacovigilance analysis using the United States Food and Drug Administration Adverse Event Reporting System (USFDA AERS) database. Disproportionality analyses employing both frequentist (Reporting Odds Ratio, Proportional Reporting Ratio) and Bayesian approaches were performed. Drug-drug interactions were assessed using multiplicative drug-drug interaction model. Additionally, we reviewed published case reports of DPP-4i-associated angioedema.",
+    "results": "Analysis of 29,163,222 reports identified 588 cases of DPP-4i-associated angioedema. Significant safety signals were detected for DPP-4i monotherapies, while combinations with RAAS-interfering drugs demonstrated stronger signals through both frequentist and Bayesian analyses. Significant interaction signals were observed for sitagliptin/irbesartan, sitagliptin/valsartan, linagliptin/valsartan and alogliptin/lisinopril combinations. Alogliptin/lisinopril and sitagliptin/irbesartan combinations showed the highest risk profiles. Angioedema occurred predominantly in elderly patients (> 65 years) and females. Sixteen case reports corroborated the findings from the database assessment. Clinical outcomes were comparable between monotherapy and combination therapy groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39773243",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Feb",
+    "title": "Efficacy of Dapagliflozin + Sitagliptin + Metformin Versus Sitagliptin + Metformin in T2DM Inadequately Controlled on Metformin Monotherapy: A Multicentric Randomized Trial.",
+    "methods": "A total of 274 patients with T2DM were randomized (1:1) to either arm X, receiving FDC of dapagliflozin (10 mg) + sitagliptin (100 mg) + metformin hydrochloride XR (1000 mg) (Dapa + Sita + Met) tablets, or arm Y, receiving sitagliptin phosphate (100 mg) + metformin hydrochloride XR (1000 mg) (Sita + Met) tablets, and treated for 16 weeks. The outcome measures included changes in hemoglobin A1c (HbA1c)(%), fasting plasma glucose (FPG), 2-h post-prandial glucose (PPG), weight, and the proportion of patients achieving target HbA1c levels of < 7.0% by week 16 of the study period.",
+    "results": "The reduction in HbA1c at week 16 was significantly higher in arm X than in arm Y [estimated treatment difference (ETD), - 0.65% (95% CI - 0.76 to - 0.53; P < 0.0001)]. Arm X showed a marked decrease in FPG [ETD - 15.42 mg/dl; 95% CI (17.63, 13.22; P < 0.0001)], PPG [ETD - 30.39 mg/dl; 95% CI (35.59, 25.19; P < 0.0001)], and weight [ETD - 1.47 kg; 95% CI (1.59, 1.28; P < 0.0001)] after 16 weeks. In arm X, 54% of patients reached HbA1c < 7.0% compared to 29.9% in arm Y. The incidence of adverse events was comparable [13.14% (arm X) vs 12.4% (arm Y)]. There was no severe hypoglycemia-led treatment discontinuation.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39636567",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec-01",
+    "title": "Association of incretin-based therapies with hepatobiliary disorders among patients with type 2 diabetes: a case series from the FDA adverse event reporting system.",
+    "methods": "Case reports involving incretin therapies and hepatobiliary events from January 2006 to December 2023 were extracted from FAERS. The association between these agents and hepatobiliary adverse events (hAEs) was analyzed using reporting odds ratios and empirical Bayesian geometric means. Descriptive analyses were conducted to characterize the demographic and clinical features of the hAE cases. Additionally, subgroup analyses calculated reporting odds ratios to evaluate the strength of the association between specific incretin drugs and hAEs.",
+    "results": "Among 68,351 case reports associated with incretin-based therapies, 1327 (1.941%) involved hepatobiliary adverse events. DPP-4 inhibitors demonstrated statistically significant associations with multiple hepatobiliary events, like cholelithiasis, chronic cholecystitis, and biliary diseases. In contrast, GLP-1 receptor agonists showed weaker associations, primarily linked to gallbladder and biliary disease risks. Subgroup analyses revealed stronger positive correlations with hepatobiliary events for liraglutide and semaglutide among GLP-1 agonists, and for sitagliptin, linagliptin, and vildagliptin among DPP-4 inhibitors. The pooled reporting odds ratio of 2.85 indicated a positive correlation between these drugs and studied adverse events.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39404734",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Sep-12",
+    "title": "Risk of Suicide, Hair Loss, and Aspiration with GLP1-Receptor Agonists and Other Diabetic Agents: A Real-World Pharmacovigilance Study.",
+    "methods": "We queried four pharmacovigilance databases to compare GLP1-RAs to sodium-glucose transporter 2 inhibitors (SGLT2is) with respect to these adverse events (AE): the FDA Adverse Event Reporting System (FAERS), the Australian Database of Adverse Event Notifications (DAEN), the European Medicines Agency's (EudraVigilance), and the World Health Organization-Vigibase. OpenVigil 2.1 was utilized to perform a disproportionality analysis for GLP1-RAs, SGLT2is, dipeptidyl peptidase 4 inhibitors (DPP4is), sulfonylureas, metformin, and insulin. The following indices were extracted from the FAERS database from Q4/2003 until Q3/2023: relative reporting ratio (RRR), proportional reporting ratio (PRR), reporting odds ratio (ROR), and chi-squared (χ2). A positive signal was detected if PRR > 2 and χ2 > 4 for any drug-event pair.",
+    "results": "No positive signals were observed between GLP1-RAs and either suicide, hair loss, or aspiration risks. Semaglutide [ROR = 0.60 (0.51-0.71)] and liraglutide [ROR = 0.28 (0.23-0.35)] had higher suicidal events than DPP4is and SGLT2is. GLP1-RAs were the most reported class with hair loss [ROR = 0.61 (0.60-0.64)], and semaglutide, liraglutide, and dulaglutide were the three leading medications. GLP1-RAs ranked lower with aspiration events, which were led by sitagliptin and DPP4is as a group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39264502",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "In Vitro and in Silico Analysis of α -Amylase Inhibitory Activity of Ethanolic Extract of Adhatoda vasica Leaves.",
+    "methods": "The extraction of Adhatoda vasica leaves was performed using ethanol via the Soxhlet extraction process. Different concentrations (100 μg/mL to 1000 μg/mL) of ethanolic extract, Acarbose, and Sitagliptin, were prepared and evaluated for α-amylase inhibitory activity using the spectrophotometric method. Molecular docking (AutodockVina 1.2.0) and toxicity profiling (SToPToX web server) studies were performed.",
+    "results": "The ethanolic extract of Adhatoda vasica leaves showed the highest percentage inhibition against α-amylase (56.763 ± 0.0035) at a concentration of 1000 μg/mL. The in-silico study supported this inhibitory activity. Vasicoline (C5) and Quercetin (C9), the active constitute of Adhatoda vasica, showed the best binding energies of -8.3 and -8.0 Kcal/mol, respectively against α-amylase enzyme (PDBID: 4W93). A toxicity study revealed the safety profile of the plant extract.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39219710",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Sep",
+    "title": "Racial Comparison of the Pharmacokinetics and Safety of Fixed-dose Combination of Dapagliflozin/Sitagliptin in Western and Korean Healthy Adults.",
+    "methods": "Two randomized, open-label, two-period, two-treatment, single-dose, single-center, crossover bioequivalence studies conducted on healthy fasted German participants (aged 18-55 years; Western study) and South Korean participants (aged 19-55 years; Korean study) were included. In both studies, pharmacokinetic parameters (maximum [peak] plasma concentration [Cmax], area under the plasma concentration-time curve from zero to the last quantifiable concentration [AUClast], and area under the plasma concentration-time curve from zero to infinity [AUCinf]) were used to assess the bioequivalence of 10 mg dapagliflozin/100 mg sitagliptin FDC (Treatment A) with their ICs (Treatment B) under fasted conditions. Safety and tolerability were assessed throughout the study.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39179458",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Sep",
+    "title": "Efficacy and safety of oral semaglutide vs sitagliptin in a predominantly Chinese population with type 2 diabetes uncontrolled with metformin: PIONEER 12, a double-blind, Phase IIIa, randomised trial.",
+    "methods": "The Peptide Innovation for Early Diabetes Treatment (PIONEER) 12 trial was a randomised, double-dummy, active-controlled, parallel-group, Phase IIIa trial conducted over 26 weeks at 90 sites across the China region (including mainland China, Taiwan and Hong Kong) and five other countries. Adults aged ≥18 years (≥20 years in Taiwan) with a diagnosis of type 2 diabetes, HbA1c between 53 and 91 mmol/mol (inclusive) and treated with a stable daily dose of metformin were eligible for inclusion. Participants were randomised (1:1:1:1) using a web-based randomisation system to either once-daily oral semaglutide (3 mg, 7 mg or 14 mg) or once-daily oral sitagliptin 100 mg. Treatment allocation was masked to both participants and investigators. Randomisation was stratified according to whether participants were from the China region or elsewhere. The primary endpoint was change in HbA1c from baseline to week 26. The confirmatory secondary endpoint was change in body weight (kg) from baseline to week 26. All randomised participants were included in the full analysis set (FAS). All participants exposed to at least one dose of trial product were included in the safety analysis (SAS).",
+    "results": "Of 1839 participants screened, 1441 were randomly assigned to oral semaglutide 3 mg (n=361), 7 mg (n=360), 14 mg (n=361) or sitagliptin 100 mg (n=359) and included in the FAS. A total of 1438 participants were included in the SAS. In total, 75.2% of participants were from the China region. A total of 1372 (95.2%) participants completed the trial and 130 participants prematurely discontinued treatment (8.3%, 8.6% and 15.0% for oral semaglutide 3 mg, 7 mg and 14 mg, respectively; 4.2% for sitagliptin 100 mg). Significantly greater reductions in HbA1c from baseline to week 26 were reported for all doses of oral semaglutide vs sitagliptin 100 mg. For oral semaglutide 3 mg, 7 mg and 14 mg vs sitagliptin 100 mg, the estimated treatment differences (ETDs [95% CI]) were -2 (-4, -1) mmol/mol, -8 (-9, -6) mmol/mol and -11 (-12, -9) mmol/mol, respectively. The corresponding ETDs (95% CI) in percentage points vs sitagliptin 100 mg were -0.2 (-0.3, -0.1), -0.7 (-0.8, -0.6) and -1.0 (-1.1, -0.8), respectively. Reductions in body weight were significantly greater for all doses of oral semaglutide vs sitagliptin 100 mg (ETD [95% CI] -0.9 [-1.4, -0.4] kg, -2.3 [-2.8, -1.8] kg and -3.3 [-3.8, -2.8] kg for 3 mg, 7 mg and 14 mg, respectively). In the subpopulation of participants from the China region (75.2% of trial participants), reductions in HbA1c and body weight from baseline to week 26 were similar to those seen in the overall population. The most frequent adverse events in the semaglutide treatment arms were gastrointestinal, although these were mostly transient and mild/moderate in severity.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "38985161",
+    "query_date": "19_02_2025"
+  }
+]

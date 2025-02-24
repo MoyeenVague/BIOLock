@@ -1,0 +1,102 @@
+[
+  {
+    "pub_date": "2025-Jan-30",
+    "title": "An exploratory study evaluating the 20 medications most commonly associated with suicidal ideation and self-injurious behavior in the FAERS database.",
+    "methods": "The reporting intensity of the High-Level Term \"suicidal ideation or self-injurious behavior\" and its Preferred Terms across distinct categories was assessed using the Reporting Odds Ratio (ROR) and Proportional Reporting Ratio (PRR).",
+    "results": "We identified the top 20 drugs with the highest reporting frequencies, spanning sedative-hypnotics, antidepressants, antipsychotics, antiepileptics, antihypertensives, antipyretic/analgesic drugs, and antihyperglycemic drugs. Ranking these medications according to ROR, the top five medications with ROR values related to suicidal ideation or self-injurious were alprazolam, zolpidem, amphetamine, quetiapine, and fluoxetine. Further analysis showed that suicide-related adverse events were more frequently reported in females. Antiepileptics had the highest frequency of reported adverse events in the 51-55 year age group, compared to 16-20 years for antidepressants and 46-50 years for sedative-hypnotics.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39885564",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-29",
+    "title": "Initial treatment with a single capsule containing half-dose quadruple therapy vs standard-dose dual therapy in hypertensive patients (QUADUAL): a randomized, blinded, crossover trial.",
+    "methods": "A randomized blinded crossover trial was conducted to compare the efficacy and safety of low-dose quadruple antihypertensives (irbesartan 75 mg + metoprolol 23.75 mg + amlodipine 2.5 mg + indapamide 1.25 mg) with standard-dose dual antihypertensives (irbesartan 150 mg + amlodipine 5 mg), both in a single pill, in the initial treatment of patients with mild to moderate hypertension. Patients were randomly assigned in a 1:1 ratio to two crossover sequences. Each sequence received four-weeks of either half-dose quadruple antihypertensives or standard-dose dual antihypertensives, followed by a two-week washout and crossover for four-weeks. Participants and researchers were blinded. The main outcomes were the reduction of blood pressure and safety outcomes. Analyses were per intention to treat.",
+    "results": "A total of 90 eligible participants were randomized between July 13, 2022, and April 20, 2023. The mean age was 43.88 years (SD 10.31), and 25.6% were women. The mean baseline 24-h blood pressure was 145.59/93.84 mm Hg. Compared to the standard-dose dual treatment, the half-dose quadruple treatment resulted in a further reduction in mean 24-h blood pressure by 4.72/4.17 mm Hg (P < 0.001 for both systolic and diastolic blood pressure), mean daytime blood pressure by 5.52/4.73 mm Hg (P < 0.001 for both), mean nighttime blood pressure by 2.37/2.25 mm Hg (P = 0.034 and 0.014, respectively), and mean office blood pressure by 2.91/1.73 mm Hg (P < 0.001 and 0.014, respectively). Apart from significant increases of fasting blood glucose (P = 0.029) and blood uric acid (P < 0.001) in the half-dose quadruple group, no other adverse events or changes in laboratory values differed significantly between the two treatments.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39881316",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Safety of combined drug use in patients with cardiovascular and cerebrovascular diseases: an analysis based on the spontaneous reporting database of adverse drug reactions in Hubei Province.",
+    "methods": "We analyzed adverse drug reaction data received by the Hubei Adverse Drug Reaction Center from the first quarter of 2014 to the fourth quarter of 2022. The safety of combined drugs for cardiovascular and cerebrovascular diseases in different people was assessed using the association rule method and Ω shrinkage measurement.",
+    "results": "A total of 53,038 reports were included in this study, revealing 9 signals of adverse reactions caused by combination drugs. The strongest signal found in this study was jaundice caused by the combination of amlodipine and atorvastatin (Ω 0.025:3.08, lift: 1116.69, conviction: 1.75). Additionally, the combination of aspirin with other drugs was associated with hemorrhaging in various organs. Female patients showed a cold signal when taking vitamin C and vitamin B6 together compared to male patients (Ω 0.025:0.89, lift: 7.15, conviction: 1.12). Patients under 60 years old had a palpitations signal when combining eritrea bei sha Tanzania and felodipine (Ω 0.025:0.41, lift: 14.65, conviction: 3.8), and an erythema signal when combining nifedipine (Ω 0.025:0.23, lift: 8.17, conviction: 1.077).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39845792",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Drug-induced urinary retention: a real-world pharmacovigilance study using FDA and Canada vigilance databases.",
+    "methods": "This study leveraged data from the FDA Adverse Event Reporting System (FAERS) and the Canadian Vigilance Adverse Reaction (CVAR) database to explore adverse events (AEs) related to UR from 2004 to Q1 2024. The top 50 drugs were analyzed for annual reporting trends using linear regression. Disproportionality analysis using the reporting odds ratio (ROR) method, with P-values adjusted via Bonferroni correction, identified significant signals, which were then validated against drug labels and re-evaluated using the CVAR database. Time-to-onset analysis was also performed.",
+    "results": "From 2004 to Q1 2024, FAERS recorded 17,785,793 AEs, with 16,183 (0.09%) identified as UR cases. The median age among these cases was 65 years, with males comprising 53.4%. There were significant annual increases in UR reports associated with antineoplastic agents (0.19% per year) and antidiabetic drugs (0.09% per year), while reports linked to bronchodilators decreased (-0.53% per year). Disproportionality analysis revealed significant signals for 34 drugs (68%), with the highest RORs observed in Fesoterodine, Mirabegron, and Solifenacin. Initial signal detection identified potential new UR signals for Abiraterone, Valacyclovir, Fluoxetine, Empagliflozin, Clopidogrel, and Amlodipine, with CVAR confirming signals for Abiraterone, Fluoxetine, and Empagliflozin. The median time to onset of UR was 29 days, with over half of the cases occurring within 30 days of initiating medication.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39834827",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-20",
+    "title": "The antihypertensive efficacy of a quadruple single-pill combination in patients with resistant hypertension: study protocol for a randomized, open-label, crossover trial.",
+    "methods": "A randomized crossover clinical trial will be conducted to compare the efficacy and safety of compound reserpine and triamterene tablets treatment regimen (two tablets of olmesartan/amlodipine (OA) + one tablet of compound reserpine and triamterene tablets) with those of a standard treatment regimen (two tablets of OA + indapamide 2.5 mg + spironolactone 20 mg) in patients with RH. Forty patients will be recruited and randomly assigned in a 1:1 ratio to 2 crossover groups. The two groups will receive different combination therapies for 6 weeks and will then switch to the other combination therapy for 6 weeks, with a 4-week wash-out. The primary outcome will be the reduction in average 24-h systolic blood pressure after 6 weeks of intervention between the two groups.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39833947",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025",
+    "title": "Pharmacokinetics and Bioequivalence of Two Fixed-Dose Combination Tablets of Valsartan/Amlodipine (80/5 Mg) in Healthy Chinese Subjects.",
+    "methods": "The research was conducted under both fasting and fed studies and employed a single-center, randomized, open-label, single-dose, three-period design with partial-repeat and crossover elements. A total of 71 healthy Chinese adult participants were included under fasting (n = 36) and fed (n = 35) conditions. The subjects were orally administered valsartan/amlodipine tablets (80/5 mg) per cycle either as the test (T) or reference (R) formulation. The washout period was 14 days. Plasma concentrations of valsartan and amlodipine were determined using ultrahigh-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS), and the noncompartmental analysis method was used for estimating the pharmacokinetic parameters.",
+    "results": "Under fasting conditions, the within-subject standard deviations (Swr) of maximum plasma concentration (Cmax), area under the concentration-time curve from time 0 to the time of the last-measurable plasma concentration (AUC0-t), and area under the concentration-time curve from time 0 extrapolated to infinity (AUC0-∞) for valsartan were calculated to be ≥0.294 and evaluated by the reference-scaled average bioequivalence (RSABE) method. The point estimates of the geometric mean ratios (GMRs) of Cmax, AUC0-t, and AUC0-∞ for valsartan were 1.0805, 1.0991, and 1.1015 respectively, and the critical bounds were all less than 0. The Swr of Cmax, AUC0-t, and AUC0-∞ for amlodipine were all <0.294, and the 90% confidence intervals (CIs) of the GMRs fell within the bioequivalence range, as evaluated by the average bioequivalence (ABE) method. Under the fed condition, the Swr of Cmax, AUC0-t, and AUC0-∞ were all <0.294 for both valsartan and amlodipine; the ABE method was therefore employed for the evaluation of bioequivalence, and the 90% CIs of the GMRs fell within the bioequivalence range. All the observed adverse events were mild and transient.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39781445",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Feb",
+    "title": "Simplified Approach to Managing Newly Diagnosed Patients with Mild-to-Moderate Hypertension in Routine Clinical Practice.",
+    "methods": "Treatment-naïve participants aged 18-65 years with mild-to-moderate hypertension, whose physicians decided to initiate the perindopril/amlodipine SPC, were recruited from Canadian clinical practice from October 2017 to February 2019. Participants were followed at 3- (M3) and 6-month (M6) visits after treatment initiation. The recommended starting dose of 3.5 mg/2.5 mg once daily was up-titrated, at the discretion of the treating physician, if blood pressure (BP) remained above target at subsequent visits. The primary endpoint was change in mean office systolic BP (SBP) and diastolic BP (DBP) at M6.",
+    "results": "The full analysis set included 1179 participants with a mean age of 51.5 ± 8.7 years; 61% were male. Mean SBP/DBP at baseline was 153.4 ± 11.5/94.8 ± 7.7 mmHg. Treatment was initiated at 3.5 mg/2.5 mg in 76.0% participants. Over the 6-month treatment period, significant (P < 0.001) decreases from baseline were observed for SBP (- 22.9 ± 14.5 mmHg) and DBP (- 13.4 ± 9.1 mmHg), with 70.2% of participants achieving their BP target. Across all perindopril/amlodipine SPC dose groups, 61.4% of participants achieved BP targets at M3; mean SBP was reduced by 20.8 ± 14.7 mmHg and DBP by 11.7 ± 9.2 mmHg (both P < 0.001). Analysis by baseline subgroup revealed significant BP reductions across age groups, sex, hypertension grades, and diabetes status. Participants with Grade 2 hypertension had a significantly greater decrease than those with Grade 1 (P < 0.001). Treatment with the SPC was well tolerated, and in the 6.1% with treatment-related adverse events, the majority were mild to moderate. High (99%) self-reported adherence (< 20 missed doses) in the 49.4% with available data and high physician satisfaction with treatment (82%) were reported.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39731708",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Nov-18",
+    "title": "Efficacy and Safety of Yangxue Qingnao Pills Combined with Amlodipine in Treatment of Hypertensive Patients with Blood Deficiency and Gan-Yang Hyperactivity: A Multicenter, Randomized Controlled Trial.",
+    "methods": "This is a multicenter, randomized, double-blind, and placebo-controlled study. Adult patients with grade 1 hypertension of blood deficiency and Gan (Liver)-yang hyperactivity syndrome were randomly divided into the treatment or the control groups at a 1:1 ratio. The treatment group received YXQNP and amlodipine besylate, while the control group received YXQNP's placebo and amlodipine besylate. The treatment duration lasted for 180 days. Outcomes assessed included changes in blood pressure, Chinese medicine (CM) syndrome scores, symptoms and target organ functions before and after treatment in both groups. Additionally, adverse events, such as nausea, vomiting, rash, itching, and diarrhea, were recorded in both groups.",
+    "results": "A total of 662 subjects were enrolled, of whom 608 (91.8%) completed the trial (306 in the treatment and 302 in the control groups). After 180 days of treatment, the standard deviations and coefficients of variation of systolic and diastolic blood pressure levels were lower in the treatment group compared with the control group. The improvement rates of dizziness, headache, insomnia, and waist soreness were significantly higher in the treatment group compared with the control group (P<0.05). After 30 days of treatment, the overall therapeutic effects on CM clinical syndromes were significantly increased in the treatment group as compared with the control group (P<0.05). After 180 days of treatment, brachial-ankle pulse wave velocity, ankle brachial index and albumin-to-creatinine ratio were improved in both groups, with no statistically significant differences (P>0.05). No serious treatment-related adverse events occurred during the study period.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39551851",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Oct-19",
+    "title": "Efficacy and safety of a novel low-dose triple single-pill combination of telmisartan, amlodipine and indapamide, compared with dual combinations for treatment of hypertension: a randomised, double-blind, active-controlled, international clinical trial.",
+    "methods": "In this international, randomised, double-blind, active-controlled trial, we enrolled adults with hypertension receiving between zero and three antihypertensive drugs, with a screening systolic blood pressure (SBP) ranging from 140-179 mm Hg (on no drugs) to 110-150 mm Hg (on three drugs). Participants were recruited from Australia, the Czech Republic, New Zealand, Poland, Sri Lanka, the UK, and the USA. In a 4-week active run-in, existing medications were switched to GMRx2 half dose (telmisartan 20 mg, amlodipine 2·5 mg, and indapamide 1·25 mg). Participants were then randomly allocated (2:1:1:1) to continued GMRx2 half dose or to each possible dual combination of components at half doses (telmisartan 20 mg with amlodipine 2·5 mg, telmisartan 20 mg with indapamide 1·25 mg, or amlodipine 2·5 mg with indapamide 1·25 mg). At week 6, doses were doubled in all groups, unless there was a clinical contraindication. The primary efficacy outcome was mean change in home SBP from baseline to week 12, and the primary safety outcome was withdrawal of treatment due to an adverse event from baseline to week 12. Secondary efficacy outcomes included differences in clinic and home blood pressure levels and control rates. This study is registered with ClinicalTrials.gov, NCT04518293, and is completed.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39426836",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec-27",
+    "title": "Drug-induced hyponatraemia and possible related signals: Analysis of 659 cases reported to the Spanish Pharmacovigilance System and disproportionality analysis.",
+    "methods": null,
+    "results": "Six hundred and fifty-nine cases of suspected drug-induced hyponatraemia were found (0.6% of the total database). Over the 5 years period studied, there was a 57% increase in the number of hyponatraemia reports in Spain. Most of the reported cases were serious (93%). Patients were most often women (63.7%) and elderly (71.9%). The time to onset ranged from 1 to 7030 days (median, 79 days) and approximately 70% of the total occurred within the first year of treatment. Five hundred and forty-six patients (82.9%) showed complete recovery after the withdrawal of the suspected medicine. Diuretics (reported in 57.7% of the cases), antidepressants (in 25%), drugs acting on renin angiotensin system (in 24%) and antiepileptics (in 20.2%) were the most frequent involved drugs. Disproportionate reporting has been found for almost all the substances most frequently reported, higher for amiloride and oxcarbazepine. Regarding new safety signals, the Reporting Odds Ratio (ROR) (95% CI) was found to be statistically significant for valsartan [7.7 (5.1-11.5)], olmesartan [7.3 (4.7-11.1)], amlodipine [3.4 (2.1-5.4)], pregabalin [2.5 (1.4-4.5)], irbesartan [18.6 (9.6-35.9)], paliperidone [2.7 (1.3-5.7)], ritonavir [2.4 (1.1-5.5)], atosiban [29.7 (8.6-102.2)], melphalan [9.7 (3.5-26.8)] and clozapine [4.4 (1.6-11.8)]. These active ingredients do not include this reaction on their SPC and comply with the EMA criteria for a safety signals.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39419657",
+    "query_date": "19_02_2025"
+  }
+]

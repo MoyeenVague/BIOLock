@@ -1,0 +1,22 @@
+[
+  {
+    "pub_date": "2018",
+    "title": "223Ra-chloride therapy in men with hormone-refractory prostate cancer and skeletal metastases: Real-world experience.",
+    "methods": "A total of 83 patients with metastatic CRPC were treated with 223Ra at 3 Italian centers between August 2013 and August 2016. 223Ra-chloride (55 kBq/kg) was administered every 4 weeks for a total of 6 cycles. Primary endpoints were OS and progression-free survival (PFS). Secondary endpoints included toxicity, pain evaluation using numeric rating scale (NRS), symptomatic skeletal-related events and biomarkers response.",
+    "results": "Patients had a median age of 75 (range 53-89) years. The majority of men showed a Gleason score of 7, 8, or 9. Forty-one patients completed 6 treatment cycles; 33 stopped treatment before completing 6 cycles. Nine were still receiving therapy at the time of data collection. At the end of therapy, NRS pain scores significantly improved ( p < .000001). OS was a mean of 10.1 months, while median OS had not been attained. According to Kaplan-Meier estimation, OS and PFS were 17.5 and 7.7 months, respectively. There was a significant correlation between OS and PFS with the number of 223Ra cycles; patients receiving all 6 cycles experienced the major benefit from the therapy. 223Ra was well-tolerated.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "b48106b617eb2533474fc3a23dedcc49",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2013-Mar",
+    "title": "Two-year survival follow-up of the randomized, double-blind, placebo-controlled phase II study of radium-223 chloride in patients with castration-resistant prostate cancer and bone metastases.",
+    "methods": "Patients with CRPC and bone pain were randomized 1:1 to receive 4 injections of radium-223 (50 kBq/kg [n = 33]) or placebo (n = 31) after external-beam radiotherapy; each injection was given every 4 weeks. Endpoints for this report were 24-month OS, long-term safety, and treatment-related adverse events (AEs) occurring in the 12- to 24-month period.",
+    "results": "After 24 months, 10 (30%) patients were alive in the radium-223 group compared with 4 patients (13%) in the placebo group. Patients who received at least 1 dose of study medication had a median OS of 65 weeks in the radium-223 group vs. 46 weeks in the placebo group (log-rank P = .056). The hazard ratio (HR) for OS, adjusted for baseline covariates, was 0.476 (95% confidence interval [CI], 0.258-0.877; Cox regression P = .017). The most frequent cause of death for both arms was disease progression. There were no reports of treatment-related AEs or long-term hematologic toxicity during the 12- to 24-month follow-up.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "25f011238e9095ada0f31b37ddec5255",
+    "query_date": "22_02_2025"
+  }
+]

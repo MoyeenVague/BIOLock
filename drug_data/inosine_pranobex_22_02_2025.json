@@ -1,0 +1,42 @@
+[
+  {
+    "pub_date": "2020",
+    "title": "Data from the first wave of Covid-19 from the Central Military Hospital, Prague, Czech Republic.",
+    "methods": null,
+    "results": "Eleven (20.8%) patients had a mild course of the disease, 16 (30.2%) patients had a moderate course, 22 (41.5%) patients had a severe course, and four (7.5%) patients had a critical course. The study patients presented with the following clinical symptoms: fever in 88.5% of cases, cough in 84.6% of cases, difficulty breathing in 77.4% of cases, diarrhoea in 23.1% of cases, chest pain in 17.3% of cases, and anosmia in 11.5% of cases. The average length of hospital stay was eight days. The most common complication was a bacterial superinfection, reported in 17 (32.1%) study patients. The overall case fatality rate for Covid-19 in our study was 5.7%. The average age of the study cohort was 57 years, and patients with a severe course of the disease were of older average age than those with a less severe course of the disease (p &lt; 0.05). The predominant comorbidities were hypertension and diabetes mellitus. The analysis of the baseline laboratory data showed significant differences between the groups of patients differing in severity of the course of Covid-19 in CRP, procalcitonin, and d-dimers but not in lymphocyte count. High resolution computed tomography (HRCT) scan of the lungs was performed in 22 patients, and 21 of them had typical findings for Covid-19. The average MuLBSTA score for Covid-19 pneumonia severity in our study cohort was 11.5 points and was not associated with the severity of the course of the disease. Serology tests were performed in 43 study patients, with 29 (67.4%) of them turning out positive in the first test and other five (11.6%) testing positive when retested. Hydroxychloroquine (HCQ) was given experimentally as monotherapy or in combination with azithromycin (AZI) to 24 (45.3%) patients. Two patients on HCQ therapy also received inosinum pranobexum (isoprinosine) for severe lymphopenia, one patient received convalescent plasma, six patients were given AZI alone, and one patient was treated with inosinum pranobexum alone. Altogether 37.7% of study patients were prescribed other antibiotics for confirmed or suspected bacterial superinfection. Standard clinical and pharmaceutical care was provided to patients with particular focus on the safety of off-label drug use. HCQ was with drawn in three patients due to a prolonged corrected QT interval (QTc).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "aaa8c3d0cedfdec22e120e4501f252e1",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2019-May",
+    "title": "Maintaining Concentration of Ribavirin in Cerebrospinal Fluid by a New Dosage Method; 3 Cases of Subacute Sclerosing Panencephalitis Treated Using a Subcutaneous Continuous Infusion Pump.",
+    "methods": "Three patients with new-onset SSPE were treated with RBV using a subcutaneous continuous infusion pump. On days 3-10 after the start of RBV infusion, CSFs were obtained by lumbar tap, and the concentration of RBV in the CSF was measured using high-performance liquid chromatography.",
+    "results": "RBV concentration increased in a dose-dependent manner in all 3 patients, and the target concentration could be generally maintained without any severe side effects. We observed that the clinical symptoms were temporarily relieved in each case. In the 2 cases for whom treatment is continuing, the patients remain in stage III, while the patient who discontinued the therapy progressed to stage IV.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "7c1a9839ecc4a42307510cc87e8fd442",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2016-Nov-07",
+    "title": "Inosine pranobex is safe and effective for the treatment of subjects with confirmed acute respiratory viral infections: analysis and subgroup analysis from a Phase 4, randomised, placebo-controlled, double-blind study.",
+    "methods": "A total of 463 subjects were randomly assigned to receive inosine pranobex (n = 231) or placebo (n = 232) in this Phase 4, randomised, double-blind, multicentre study. The primary efficacy endpoint was time to resolution of all influenza-like symptoms present at baseline to none. Safety was evaluated through analysis of adverse events, vital signs, and physical examinations.",
+    "results": "The difference in time to resolution of all influenza-like symptoms between treatment groups was not statistically significant but showed a faster improvement in subjects in the inosine pranobex group versus those in the placebo group - Hazard Ratio = 1.175; (95 % CI: 0.806-1.714). P-value = 0.324. In the subgroup analysis for subjects less than 50 years of age, statistically significant differences in time to resolution of influenza-like symptoms that favoured the inosine pranobex group over the placebo group were observed in those without related ongoing disease and those who were non-obese (BMI <30 kg/m2). The differences between the inosine pranobex and placebo groups in subjects at least 50 years of age without related ongoing disease and in subjects less than 50 years of age who were obese (BMI ≥30 kg/m2) were not statistically significant. Inosine pranobex was generally well tolerated, and no deaths were reported.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "55e4be1f25d4198588b822ed8de63d5b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "1992-Oct",
+    "title": "Acyclovir vs isoprinosine (immunovir) for suppression of recurrent genital herpes simplex infection.",
+    "methods": null,
+    "results": "During treatment, acyclovir recipients showed significant differences (p < 0.05) when compared with isoprinosine recipients in terms of a lower proportion reporting recurrences (31% vs 96%), a reduced mean number of reported recurrences per patient (0.6 vs 3.6), a shorter mean duration of breakthrough lesions (6.4 days vs 8.2 days), and a longer mean time (standard error) to first recurrence (143.7 (9.1) days vs 40.5 (5.4) days. The mean time to first recurrence after treatment cessation did not differ between the two groups. As compared with placebo recipients, isoprinosine treated patients had an increased recurrence frequency (3.6 vs 2.5) during treatment, and a shorter time to first recurrence after treatment cessation. All treatments were well tolerated without serious adverse events or toxicity.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "fe860b7e58312dcb4eac617c33f38903",
+    "query_date": "22_02_2025"
+  }
+]

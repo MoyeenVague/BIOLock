@@ -1,0 +1,332 @@
+[
+  {
+    "pub_date": "2025-Feb-04",
+    "title": "A scientific approach to hemorrhage risk assessment of SSRIs/SNRIs utilizing the FAERS database.",
+    "methods": "Ten-year data on the main SSRIs/SNRIs were extracted from the FAERS database for the period spanning from 2014 to 2023. Reporting odds ratio (ROR) and proportional reporting ratio (PRR) were employed to quantify the signals. Finally, a comparative analysis was conducted between demographic data, outcomes, and inherent associations among the medications and the signals.",
+    "results": "Approximately 3.86% of all patients who experienced adverse effects with SSRIs/SNRIs were found to have hemorrhage-related AEs (HrAEs). The majority of these patients were female and aged sixty years or older. The primary outcomes for patients experiencing HrAEs included initial or prolonged hospitalization, mortality, life-threatening conditions, and other complications. After conducting an analysis using ROR and PRR methods, we obtained several positive signals for HrAE (p-HrAEs). Gastrointestinal and nervous system disorders were identified as the predominant p-HrAEs. Sertraline demonstrated the most pronounced signals for gastrointestinal disorders, particularly upper gastrointestinal hemorrhage. Correlations have been observed between the use of citalopram, escitalopram, paroxetine, venlafaxine and cerebral/cerebellar hematoma in terms of nervous system. However, duloxetine did not result in any signals in these two systems.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "27b02a18bdb4f3f628e263a1c98b8e2b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-22",
+    "title": "Effect of combination therapy of methylfolate with antidepressants in patients with depressive disorder.",
+    "methods": "In an open-label clinical trial, forty-four patients with depressive disorder (6A70, 6A71, and 6A72 according to ICD-11) received an evidence-based antidepressant therapy (either escitalopram 10-20 mg, sertraline 50-100 mg, fluoxetine 20-40 mg, duloxetine 30-60 mg, mirtazapine 15-30 mg, venlafaxine 75-150 mg, trazodone 50-100 mg, amitriptyline 25-75 mg, or clomipramine 25-75 mg orally daily for 4 weeks). The experimental group, Group B was additionally given a dose of methylfolate 800 µg daily for four weeks. The psychometric testing of depression was achieved through administration of Patient Health Questionnaire-9 (PHQ-9) on days 0, 14, and 28, to find the improvement in the depressive score on day 28, the remission rate on day 28, and decrease in the time lag on day 14. Adverse effects were analyzed by self-assessment questionnaire to observe the tolerability. The paired sample t-test and the independent sample t-test were applied for analysis by using SPSS v27.0. The p-value ≤ 0.05 was considered statistically significant.",
+    "results": "On day 28, patients on low dose methylfolate and antidepressant combination therapy showed a 40.33% improvement in depression symptoms, compared to 26.43% in patients on antidepressant monotherapy (p-value < 0.05). This treatment strategy had no effect on the time-lag of outcomes on day 14 and the remission rate on day 28 was not found statistically significant. Only one patient reported insomnia, while another mentioned irritability.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "5cedc9dfadc3d8303bd5248c8c5fda9e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan",
+    "title": "Safety and efficacy of early augmentation with Transcranial Direct Current Stimulation (tDCS) in adolescents with Major Depressive Disorder: A randomized controlled trial.",
+    "methods": "Adolescents with MDD aged 10-18 years were enrolled in the study and allocated to active or sham groups as per randomization. Sertraline was given in the range of 25-50 mg to each participant. After baseline assessments, 10 sessions of tDCS were given with 2 mA current for 20 minutes, keeping anode at left DLPFC and cathode at right DLPFC. Side effects were assessed and rating scales were reapplied at 2 weeks and then 6 weeks. Results were analyzed.",
+    "results": "A total of 32 patients were analysed (15-active, 17-sham). At 2 weeks, the BDI and BAI scores of the true group were significantly lower than the sham group, and the reduction in the scores of the former was statistically greater. This significance did not persist at 6 weeks, and the reduction in the scores of the two groups was significantly different from baseline to 2-weeks and 6-weeks. Response and remission rates were higher in the active group at 6 weeks. Adverse effects were comparable.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "564df2680eb55ee4133d1e28cbdbc2ea",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec-23",
+    "title": "Risk of congenital anomalies associated with psychotropic medications: a review of neonatal reports in the FDA adverse event reporting System (FAERS).",
+    "methods": "Spontaneously reported cases of congenital anomalies in newborns (under 28 days old) were extracted from the FAERS database, covering January 2004 to June 2023. Four signal detection methods-Reporting Odds Ratio (ROR), Medicines and Healthcare products Regulatory Agency (MHRA), Bayesian Confidence Propagation Neural Network (BCPNN), and Multi-item Gamma Poisson Shrinker (MGPS)-were employed to identify signals associated with neonatal deformities caused by specific drugs, ensuring signal stability and reliability.",
+    "results": "The FAERS database contains 21,605 reports involving neonates, with 6,208 cases reporting congenital anomalies. Of these, 6,164 cases (99.29%) attributed the adverse events to drugs. The top ten psychotropic drugs associated with neonatal congenital anomalies were venlafaxine, quetiapine, olanzapine, sertraline, citalopram, mirtazapine, duloxetine, paroxetine, aripiprazole, and fluoxetine. Different drug classes showed varying risks of congenital anomalies, with higher signal frequencies observed for cardiac, nervous system, respiratory-thoracic-mediastinal, and musculoskeletal-connective tissue disorders.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "0c534873221caa27589f1874df35d113",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec-18",
+    "title": "Brexpiprazole and Sertraline Combination Treatment in Posttraumatic Stress Disorder: A Phase 3 Randomized Clinical Trial.",
+    "methods": null,
+    "results": "A total of 1327 individuals were assessed for eligibility. After 878 screen failures, 416 participants (mean [SD] age, 37.4 [11.9] years; 310 female [74.5%]) were randomized. Completion rates were 137 of 214 participants (64.0%) for brexpiprazole + sertraline and 113 of 202 participants (55.9%) for sertraline + placebo. At week 10, brexpiprazole + sertraline demonstrated statistically significant greater improvement in CAPS-5 total score (mean [SD] at randomization, 38.4 [7.2]; LS mean [SE] change, -19.2 [1.2]; n = 148) than sertraline + placebo (randomization, 38.7 [7.8]; change, -13.6 [1.2]; n = 134), with LS mean difference, -5.59 (95% CI, -8.79 to -2.38; P < .001). All key secondary and other efficacy end points were also met. Treatment-emergent adverse events with incidence of 5% or greater for brexpiprazole + sertraline (and corresponding incidences for sertraline + placebo) were nausea (25 of 205 [12.2%] and 23 of 196 [11.7%]), fatigue (14 of 205 [6.8%] and 8 of 196 [4.1%]), weight increase (12 of 205 [5.9%] and 3 of 196 [1.5%]), and somnolence (11 of 205 [5.4%] and 5 of 196 [2.6%]). Discontinuation rates due to adverse events were 8 of 205 participants (3.9%) for brexpiprazole + sertraline and 20 of 196 participants (10.2%) for sertraline + placebo.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "cf9b767e1abecd74c12bfd57931fd81b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec-17",
+    "title": "Cutaneous toxicity induced by antidepressants and second-generation antipsychotics in the United States food and drug administration adverse event reporting system.",
+    "methods": null,
+    "results": "Comparing ACDRs to other ADRs, each AD (fluoxetine (ROR025 = 1.49), fluvoxamine (ROR025 = 1.14), paroxetine (ROR025 = 1.49), escitalopram (ROR025 = 1.79), sertraline (ROR025 = 1.44), venlafaxine (ROR025 = 1.46) and duloxetine (ROR025 = 1.69)) showed significantly more cases. There was no association between SGA and cutaneous toxicity. The spectrum displayed strong signals in duloxetine-induced genital ulceration (IC025 = 2.75) and amisulpride-induced conjunctivitis (IC025 = 2.56).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c2406f584435ff859164c35ca44a4e9d",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec",
+    "title": "Safety and efficacy of sertraline in depression among adults undergoing dialysis: a systematic review and meta-analysis.",
+    "methods": "Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, the authors conducted a comprehensive search of databases, including PubMed, Cochrane Library, and Science Direct, up to 20 June 2024. The authors included randomized controlled trials (RCTs) that compared sertraline with placebo in dialysis patients with depression. Two researchers independently performed data extraction and risk of bias assessment. Statistical analysis was conducted using ReviewManager 5.4.1, employing a random effects model.",
+    "results": "Four RCTs involving 468 participants were included. Sertraline significantly reduced depressive symptoms, as measured by the Quick Inventory of Depressive Symptomatology (QIDS) and Beck Depression Inventory-II (BDI-II) scores, at 6 and 12 weeks compared to placebo. Improvements in kidney disease-specific quality of life (KDQOL-36) scores were also noted. However, sertraline was associated with a higher risk of adverse events compared to placebo.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a1ccdab8702a3dc78610d11b970a795b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec-05",
+    "title": "Real-world effects of antidepressants for depressive disorder in primary care: population-based cohort study.",
+    "methods": null,
+    "results": "A total of 673 177 depressed people were studied: females 57.1%, mean age 42.8 (s.d. 17.7) years, mean baseline PHQ-9 17.1 (s.d. 5.0) (moderately severe depression). At 2 months, antidepressant acceptability was 61.4%, tolerability 94.4%, safety 54.5%, PHQ-9 decreased to 12.3 (s.d. 6.5). At 12 months, acceptability was 12.3%, tolerability 87.5%, safety 28.8%, PHQ-9 12.9 (s.d. 6.8). In the short and long term, tricyclics, mirtazapine and trazodone were worse than fluoxetine for most outcomes; citalopram had better acceptability than fluoxetine (aOR 0.95; 99% CI 0.92, 0.97), sertraline had lower tolerability (aOR 1.12; 99% CI 1.06, 1.18), and both citalopram and sertraline had lower safety (aOR 1.17 and 1.25, respectively). In the long term, citalopram had better acceptability (aOR 0.78; 99% CI 0.76, 0.81) and effectiveness (aOR 1.12 for both response and remission), but worse tolerability (aOR 1.09; 99% CI 1.06, 1.13) and safety (aOR 1.12; 99% CI 1.08, 1.16). Observational and randomised data were similar for citalopram and sertraline, while there was some difference for drugs less prescribed in the real world.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "52bc2c1b2e5bf2606fc38310fd13a929",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec-04",
+    "title": "Differentiating Depressive Symptoms From Side Effects in Individuals With Major Depressive Disorder With Postpartum Onset.",
+    "methods": "A secondary analysis of data from a randomized controlled trial was conducted. The original 8-week trial included 62 participants and assessed the efficacy of sertraline versus estradiol transdermal patches and their respective placebos for MDD with postpartum onset. The SIGH-ADS scale was used to assess depression severity and the Asberg scale was used to evaluate treatment emergent side effects, defined as an increase of ≥2 from baseline measures. Correlation analyses were performed between total scale scores. The scales were compared to establish symptoms, which overlapped across scales versus symptoms, which were unique to each scale.",
+    "results": "Positive correlations were observed between the SIGH-ADS and Asberg scales and across the 8-week trial in all 3 treatment groups (correlation coefficient range 0.468-0.712). Headache was the most frequent treatment emergent side effect (10 occurrences). Fourteen symptoms were found to overlap between the 2 scales.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "221a8a49c7ed181963686a33dd4aa93b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Green rush and red warnings: Retrospective chart review of adverse events of interactions between cannabinoids and psychotropic drugs.",
+    "methods": null,
+    "results": "Cannabinoids were involved in 8% of adverse events associated with the concomitant use of psychotropic drugs and other preparations. We identified 20 reports in which side effects presented a causal relationship with the use of psychotropic drugs and cannabinoids. Preparations containing 18% or more tetrahydrocannabinol (THC), presented significant side effects with the following antidepressants: mianserine (restless legs syndrome, urogenital pain, ventricular tachycardia), mirtazapine (pancreatitis, hyperhidrosis, arthralgia), quetiapine (myocarditis, renal failure, bradycardia, sialorrhea), haloperidol (ventricular arrhythmia, prolonged QTc), aripiprazole (prolonged QTc), ventricular tachycardia) and cariprazine (stomach pain, hepatotoxicity), sertraline (ataxia, hyperactivity, coma, hallucinations, anxiety, agitation, tachycardia, panic attacks, disorientation, headache, dizziness, blurry vision, severe emesis, xerostomia, dry eyes), trazodone (disorientation, memory impairment, sedation), fluvoxamine (tachycardia, tachypnoea, dysarthria, auditory hallucinations). Two out of 20 reports (10%) analyzed in our study was related with the simultaneous use of cannabidiol (CBD) oil and sertraline. Concomitant use of those substances was associated with the adverse events in form of diarrhea, emesis, fever and severe fatigue.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "e8a47374ded337d27106553557703b64",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Aug",
+    "title": "Off-label higher doses of serotonin reuptake inhibitors in the treatment of obsessive-compulsive disorder: Safety and tolerability.",
+    "methods": "A retrospective longitudinal study was performed on 105 randomly selected outpatients diagnosed with OCD and were treated with OLHD-SRIs for at least 6 months. Patients received sertraline >200 mg/day, escitalopram >20 mg/day, fluvoxamine >300 mg/day, and fluoxetine >60 mg/day, combined with exposure and response prevention therapy. Patients were divided into three dosing groups: sertraline equivalent dose (SED) ≤ 200 mg/day (n = 26, 24.7%), 201-400 mg/day (n = 51, 48.5%) and 401-650 mg/day (n = 28, 26.6%). Safety and tolerability were assessed with an electrocardiogram, blood biochemistry, complete blood count, and side-effects monitoring.",
+    "results": "SED ranged from 100 to 650 mg/day and the mean duration of OLHD-SRI treatment was 20.8 months. The most common side-effects reported were sexual dysfunction (n = 36, 34%), weight gain (n = 28, 27%), sedation (n = 27, 26%), hyperhidrosis (n = 20, 19%), and tremor (n = 11, 10%). Abnormal ECG was documented in one patient, and another patient experienced a first-time seizure, whereas elevated liver enzymes were seen in 4.8% of the sample (n = 5). None of the patients had serotonin syndrome or drug-induced liver injury. Side-effects did not differ among the three dosing groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "8e5f9abc784b6040f0d224658c95700a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Efficacy and safety of different systemic drugs in the treatment of uremic pruritus among hemodialysis patients: a network meta-analysis based on randomized clinical trials.",
+    "methods": null,
+    "results": "The network meta-analysis retrieved 22 RCTs. Gabapentin (69.74%) had the highest likelihood to be the most effective drug for pruritus relief in UP patients receiving hemodialysis, followed by cromolyn sodium and hydroxyzine. Thalidomide (60.69%) and gabapentin (58.99%) were associated with significantly more drug responses for treating UP among patients receiving hemodialysis. Patients who were treated with gabapentin (40.01%) were likely to have risks of adverse events and dizziness. Lower risks of adverse events, nausea, and diarrhea were found in patients who received cromolyn sodium and lower risks of somnolence.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "cf195d1dcd8b9710a22a0624b20932cc",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Mar",
+    "title": "Antidepressants available in Japan for older people with major depressive disorder: A systematic review and meta-analysis.",
+    "methods": "Outcome measures included response rate (primary), improvement in depressive symptom scale score, remission rate, all-cause discontinuation, discontinuation due to adverse events, and at least one adverse event. A random-effects model was used to calculate the risk ratio (RR) and standardized mean difference (SMD) with a 95% confidence interval (95% CI).",
+    "results": "Nine double-blind, randomized, placebo-controlled trials (n = 2145) were identified. No study has been conducted in Japan. Our meta-analysis included the following antidepressants: duloxetine, escitalopram, imipramine, sertraline, venlafaxine, and vortioxetine. Antidepressants have significantly higher response rates than placebo (RR [95% CI] = 1.38 [1.04, 1.83], p = 0.02). Antidepressants outperformed placebo in terms of improving depressive symptom scale score (SMD [95% CI] = -0.62 [-0.92, -0.33], p < 0.0001). However, antidepressants were associated with a higher discontinuation rate due to adverse events (RR [95% CI] = 1.94 [1.30, 2.88], p = 0.001) and a higher incidence of at least one adverse event (RR [95% CI] = 1.11 [1.02, 1.21], p = 0.02) compared to placebo. The groups did not differ significantly in terms of remission rate or all-cause discontinuation.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c3c6de180dec448ee9a2feca21278bff",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Nov",
+    "title": "The Practice of Prescribing Antidepressants During Pregnancy and Breastfeeding Among Mental Health Practitioners in Tertiary Care Centers in Oman.",
+    "methods": "A questionnaire-based survey was conducted from May to June 2017 among all practitioners in the psychiatry specialty, including medical officers authorized to prescribe medications, at the Behavioral Medicine Department of Sultan Qaboos University Hospital and Al Masarra Hospital.",
+    "results": "Forty-two practitioners (response rate = 89.4%) responded to the questionnaire. Of them, 10 (23.8%) had no experience, while 30 (71.4%) had experience in prescribing antidepressants during both pregnancy and breastfeeding periods. Twenty-seven (64.3%) respondents felt that they were confident in prescribing antidepressants for women during their perinatal period, while 30.0% were neutral. Moreover, 35 (83.3%) participants expressed the need for more training in this area. Furthermore, 34 (81.0%) believed that more training in perinatal psychiatry should be included in the psychiatry curriculum. There was no consistent prescribing pattern (either prescribing or avoiding) among our participating practitioners during the first trimester of pregnancy and breastfeeding periods. The drug of choice in the first trimester of pregnancy was fluoxetine preferred by approximately 85.0% of the practitioners, but avoided by 10.0% of practitioners in the same period. This was followed by amitriptyline (50.0% vs. 23.0%), sertraline (50.0% vs. 9.0%), imipramine (28.0% vs. 84.0%). During breastfeeding, the drug of choice for approximately 74.0% of the practitioners was paroxetine, but avoided by 15.0% of practitioners. This was followed by sertraline (50.0% vs. 8.0%). The most common reasons for prescription during pregnancy were safety, evidence-based practice, and low teratogenicity. For breastfeeding, the main reasons for prescription were low levels of the drug in breast milk, safety, and evidence-based practice. On the other hand, high teratogenicity, neonatal side effects, limited data, and lack of evidence were among the most common reasons behind avoiding prescribing during pregnancy, while high levels of breast milk, neonatal side effects, limited evidence, and safety concerns were the most common reasons during the breastfeeding period.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a963c7b683086137b6f36499f10f46c7",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Jan-11",
+    "title": "Sertraline for anxiety in adults with a diagnosis of autism (STRATA): study protocol for a pragmatic, multicentre, double-blind, placebo-controlled randomised controlled trial.",
+    "methods": "STRATA is a two-parallel group, multi-centre, pragmatic, double-blind, randomised placebo-controlled trial with allocation at the level of the individual. It will be delivered through recruiting sites with autism services in 4 regional centres in the United Kingdom (UK) and 1 in Australia. Adults with an autism diagnosis and a Generalised Anxiety Disorder Assessment (GAD-7) score ≥ 10 at screening will be randomised 1:1 to either 25 mg sertraline or placebo, with subsequent flexible dose titration up to 200 mg. The primary outcome is GAD-7 scores at 16 weeks post-randomisation. Secondary outcomes include adverse effects, proportionate change in GAD-7 scores including 50% reduction, social anxiety, obsessive-compulsive symptoms, panic attacks, repetitive behaviours, meltdowns, depressive symptoms, composite depression and anxiety, functioning and disability and quality of life. Carer burden will be assessed in a linked carer sub-study. Outcome data will be collected using online/paper methods via video call, face-to-face or telephone according to participant preference at 16, 24 and 52 weeks post-randomisation, with brief safety checks and data collection at 1-2, 4, 8, 12 and 36 weeks. An economic evaluation to study the cost-effectiveness of sertraline vs placebo and a QuinteT Recruitment Intervention (QRI) to optimise recruitment and informed consent are embedded within the trial. Qualitative interviews at various times during the study will explore experiences of participating and taking the trial medication.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9efb8dc241a8bc2d741aaa9f4241fd2d",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Aug",
+    "title": "Prescription medication use during pregnancy in the United States from 2011 to 2020: trends and safety evidence.",
+    "methods": null,
+    "results": "Among over 3 million pregnancies, the medications most commonly dispensed at any time during pregnancy were analgesics, antibiotics, and antiemetics. The top medications were ondansetron (16.8%), amoxicillin (13.5%), and azithromycin (12.4%) in MarketScan, nitrofurantoin (22.2%), acetaminophen (21.3%; mostly as part of acetaminophen-hydrocodone products), and ondansetron (19.5%) in Medicaid Analytic eXtract/Transformed Medicaid Statistical Information System Analytic Files, and levothyroxine (5.0%), sertraline (2.9%), and insulin (2.9%) in the National Health and Nutrition Examination Survey group. The most commonly dispensed suspected teratogens during the first trimester were antithyroid medications. The use of antidiabetic and psychotropic medications has continued to increase in the United States during the last decade, opioid dispensation has decreased by half, and antibiotics and antiemetics continue to be common. For one-quarter of medications, there is insufficient evidence available to characterize their safety profile in pregnancy.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "eab69f6cefe3e076af00d1198774e0ac",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Dec-03",
+    "title": "Use of sertraline and agomelatine in hemodialysis patients: A case series report.",
+    "methods": null,
+    "results": "All patients receiving sertraline achieved remission of depressive symptoms. In patients receiving agomelatine no remission was observed despite dose augmentation. The side effects of antidepressants were mild and did not result in treatment discontinuation. No abnormalities in liver enzymes levels were observed. In five cases the significant decrease of haemoglobin level was noticed, with no cases of bleeding reported.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "01b7793081e5a4fbdb1e3ec557227822",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Mar",
+    "title": "Sertraline with desvenlafaxine and sertraline with mirtazapine as treatment initiation in MDD patients with moderate to severe depression and effect on inflammatory markers.",
+    "methods": "Patients (18-60 years) with MDD diagnosed by DSM-V criteria and HAM-D score 18 or more were included (n = 60). Group A patients (n = 30) received sertraline 50 mg/day and desvenlafaxine 50 mg/day. Group B patients (n = 30) received sertraline 50 mg/day and mirtazapine 30 mg/day. All patients were followed up for 8 weeks for the evaluation of clinical efficacy, safety, serum IL-6, and TNF-α levels.",
+    "results": "Our study showed a comparatively similar and statistically significant (p < 0.05) reduction in HAM-D score in both groups in the 4th and 8th week of the treatment. Both drug combinations significantly (p < 0.05) decreased serum IL-6 and TNF-α after 8 weeks of treatment.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "fffd9d74406c49969b9c99b2fd451345",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Jan",
+    "title": "Prevention and treatment of cisplatin-induced ototoxicity in adults: A systematic review.",
+    "methods": "Four databases were searched up to 1 November 2022. Original studies were included if they reported on a pharmacologic or non-pharmacologic intervention to prevent or treat platinum ototoxicity in adults. The articles' quality was assessed via two grading scales.",
+    "results": "Nineteen randomised controlled trials and five quasi-experimental studies with 1673 patients were analysed. Eleven interventions were identified, nine pharmacological and two non-pharmacological. Six of the interventions (sodium thiosulphate, corticoids, sertraline, statins, multivitamins and D-methionine) showed mild benefits in preventing cisplatin-induced ototoxicity. Only one trial assessed corticoids as a potential treatment. Overall, only six trials were deemed with a low risk of bias. The majority of studies inadequately documented intervention-related adverse effects, thereby limiting safety conclusions.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "63075ee10be54eb9f15891475fdce243",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Oct",
+    "title": "Sertraline versus escitalopram in South Asians with moderate to severe major depressive disorder: (SOUTH-DEP) a double-blind, parallel, randomized controlled trial.",
+    "methods": "The study was conducted in South Asian participants. A total of 744 participants with moderate to severe MDD were randomly assigned to receive either sertraline or escitalopram for 8 weeks. Drug dosages and titration schedules were based on the recommendations of the prescribing information for each product and according to the judgment of the clinicians involved in the study. The primary outcome measures were changes from baseline on the Montgomery-Åsberg Depression Rating Scale (MADRS) and the clinical global impression (CGI) scale as well as the frequency of adverse events in both groups. Baseline MADRS scores in the escitalopram and sertraline groups were 28.2±0.47 (mean±SD) and 29.70±0.46 (mean±SD) respectively, and was no variability in the baseline assessments. Changes in MADRS as well as CGI scales at the end of the study were significant only for the sertraline group whereas they remained statistically nonsignificant for the escitalopram group. Results: The results of the study showed that sertraline was more efficacious than escitalopram in reducing depression rating scales such as MADRS and CGI, and that participants subjectively felt better regarding their symptoms in the sertraline group. Sertraline displays enhanced safety or tolerability than other groups of antidepressants, which frequently cause high levels of drowsiness, dizziness, blurred vision, and other undesirable effects. Adverse events were seen in both groups, but delayed ejaculation was the most frequent adverse event seen in both groups. However, a greater number of participants reported having nausea and insomnia in the sertraline group compared to the escitalopram group.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "412a893347facc5f0c5831aa62cc5c99",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Sep-21",
+    "title": "Agomelatine augmentation of sertraline in the treatment of moderate to severe obsessive-compulsive disorder: a randomized double-blinded placebo-controlled clinical trial.",
+    "methods": "In this 12-week randomized, double-blinded, placebo-controlled, parallel-group clinical trial, 65 patients with moderate to severe OCD according to the Diagnostic and Statistical Manual of Mental Disorders-Fifth edition (DSM-5) criteria and a Yale-Brown obsessive compulsive scale (Y-BOCS) score of over 21, were included. They were assigned with sertraline (100 mg/day for the first 4 weeks and 200 mg/day for the next 8 weeks) and either agomelatine (25 mg/day) or placebo. The primary outcome was OCD symptoms measured by the Y-BOCS.",
+    "results": "Fifty patients (24 in agomelatine group and 26 in placebo group) completed the trial. The Y-BOCS scores in total (MD (95% CI) = 12.25 (11.00, 13.49) (P < 0.001) vs. MD (95% CI) = 12.46 (6.65, 15.74) (P < 0.001)), the obsession subscale (MD (95% CI) = 5.04 (4.19, 5.88) (P < 0.001) vs. MD (95% CI) = 5.00 (3.84, 6.16) (P = 0.0001)), and compulsion subscale (MD (95% CI) = 7.21 (6.34, 8.07) (P < 0.001) vs. MD (95% CI) = 7.460 (6.50, 8.42) (P < 0.001)) significantly decreased in both groups. Although, at the end of the trial, no significant difference was observed between the scores of the two groups in total (MD (95% CI) = 0.480 (-1.23, 2.19) (P = 0.78)), the obsession subscale (MD (95% CI) = 1.020 (-0.15, 2.19) (P = 0.38)), and the compulsion subscale (MD (95% CI) = 0.540 (-0.34, 1.42) (P = 0.54)). No major adverse effects were recorded, and the frequency of side effects was not significantly different between the groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "dda372aae2bfbc25b13629a97d21ace1",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "Pharmacological approaches to the management of panic disorder in older patients: a systematic review.",
+    "methods": "A database search of studies involving patients with PD with/without agoraphobia aged ≥ 60 years was carried out using PubMed, PsycINFO, Embase, and Clinical Trials.gov, from their inception dates to 1 March 2023. Only four (published from 2002 to 2010) of the 1292 records screened were included. A risk of bias assessment was provided. This systematic review was performed using The Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA).",
+    "results": "Two studies were randomized clinical trials, whereas two were open-label, including paroxetine, citalopram, escitalopram, and sertraline; three studies reported short-term evaluations, whereas one study included a 26-week follow-up. Medications provided benefits, with good tolerability. Preliminary results suggested greater benefits of paroxetine in reducing panic attacks vs. cognitive - behavioral therapy, and an earlier decrease in PAs with escitalopram vs. citalopram. Risk of bias was considerable.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "fd10000e4e1c601e41bdfc4d27ea1bab",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jul-04",
+    "title": "Efficacy of low-dose risperidone in combination with sertraline in first-episode drug-naïve patients with schizophrenia: a randomized controlled open-label study.",
+    "methods": "A total of 230 patients with FEMN SZ were randomly assigned to receive low-dose risperidone in combination with sertraline (RS group) or regular-dose risperidone (control group). The Positive and Negative Syndrome Scale (PANSS), Hamilton Depression Rating Scale (HAMD), and Personal and Social Performance Scale (PSP) were assessed at baseline and the end of the first, second, third, and sixth months. In addition, serum prolactin levels and extrapyramidal symptoms were measured at baseline and follow-up.",
+    "results": "Repeated measures ANCOVA showed significant interaction effects of treatment by time on psychotic symptoms, as well as HAMD, PSP scores, prolactin levels, and extrapyramidal symptoms (all p < 0.05). Compared with the control group, the RS group had greater decreases in PANSS total score and its subscores and HAMD score (all p < 0.01) and a greater increase in PSP total score (p < 0.01). Notably, side effects were lower in the RS group relative to the control group. Improvements in HAMD and PANSS total scores, changes in prolactin levels and gender predicted improvements in PSP from baseline to month 6.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "4df1cf39195d5264ef28e76fa259d973",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Aug-01",
+    "title": "Efficacy and tolerability of antidepressant drugs in treatment of depression in children and adolescents: a network meta-analysis.",
+    "methods": "Databases of PubMed, Cochrane Library, EMBASE, Web of Science, PsycINFO, CBM, CNKI and Wanfang Data were searched for randomized controlled trials (RCT) related to antidepressants in treatment of children and adolescents with depression from inception to December 2021. Quality assessment and data extraction from the included RCTs were performed. Statistical analyses of efficacy and tolerability were conducted with Stata 15.1 software. Surface under the cumulative ranking (SUCAR) was used to rank the value of the antidepressants.",
+    "results": "A total of 33 RCTs were included in 32 articles, involving 6949 patients. There are 13 antidepressants used in total, including amitriptyline, vilazodone, fluoxetine, selegiline, paroxetine, imipramine, desipramine, sertraline, nortriptyline, escitalopram, citalopram, venlafaxine and duloxetine. The results of network meta-analysis showed that the efficacy of duloxetine ( OR=1.95, 95% CI: 1.41-2.69), fluoxetine ( OR=1.73, 95% CI: 1.40-2.14), venlafaxine ( OR=1.37, 95% CI: 1.04-1.80) and escitalopram ( OR=1.48, 95% CI: 1.12-1.95) were significantly higher than that of placebos (all P<0.05); the probability cumulative ranks were duloxetine (87.0%), amitriptyline (83.3%), fluoxetine (79.0%), escitalopram (62.7%), etc. The results showed that the intolerability of patients receiving imipramine ( OR=0.15, 95% CI: 0.08-0.27), sertraline ( OR=0.33, 95% CI: 0.16-0.71), venlafaxine ( OR=0.35, 95% CI: 0.17-0.72), duloxetine ( OR=0.35, 95% CI: 0.17-0.73) and paroxetine ( OR=0.52, 95% CI: 0.30-0.88) were significantly higher than that of placebos (all P<0.05), and the probability cumulative ranks were imipramine (95.7%), sertraline (69.6%), venlafaxine (68.6%), duloxetine (68.2%), etc. Conclusion: Among 13 antidepressants, duloxetine, fluoxetine, escitalopram and venlafaxine are significantly better than placebo in terms of efficacy, but duloxetine and venlafaxine are less well tolerated.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9ad9a7617013119dd92b87363c20ca65",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Aug-01",
+    "title": "The relationship of white matter microstructure with psychomotor disturbance and relapse in remitted psychotic depression.",
+    "methods": "We used tractography to characterize diffusion-weighted MRI data in 80 participants enrolled in a randomized clinical trial that compared efficacy and tolerability of sertraline plus olanzapine with sertraline plus placebo in the continuation treatment of remitted psychotic depression. Cox proportional hazard models tested the relationships between psychomotor disturbance (processing speed and CORE score) at baseline, white matter microstructure (fractional anisotropy [FA] and mean diffusivity [MD]) in 15 selected tracts at baseline, and relapse probability.",
+    "results": "CORE was significantly associated with relapse. Higher mean MD was significantly associated with relapse in the each of the following tracts: corpus callosum, left striato-frontal, left thalamo-frontal, and right thalamo-frontal. CORE and MD were each associated with relapse in the final models.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "0746605937cce58da7a62b92bee163b1",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jul-15",
+    "title": "l-theanine adjunct to sertraline for major depressive disorder: A randomized, double-blind, placebo-controlled clinical trial.",
+    "methods": "Sixty MDD (DSM-5) patients were equally assigned to receive sertraline (100 mg/d) plus either l-theanine (200 mg/d) or matched placebo in a six-week randomized, parallel-group, double-blind, placebo-controlled study. The participants were assessed using the Hamilton depression rating scale (HDRS) at baseline and weeks 2, 4, and 6. Changes in scores, early improvement, response and remission rates, and adverse events were compared between the groups.",
+    "results": "Twenty-five participants in each group, a total of 50 patients, completed the study. All baseline characteristics were similar between the groups. The general linear model repeated-measures analysis demonstrated a significant time-treatment interaction effect for HDRS during the trial (p-value = 0.014), indicating more remarkable symptom improvement in the l-theanine group. A greater reduction in HDRS scores was observed in the l-theanine group from baseline to weeks 2, 4, and 6 (p-values = 0.02, 0.03, and 0.01, respectively). All patients responded to sertraline plus l-theanine until week 6. l-theanine was superior to placebo regarding response to treatment and remission rates at week 6 (p-values = 0.05 and 0.02, respectively). The frequency of side effects was comparable between the groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "e035f7595a699c063decd4f057df68c5",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "Efficacy and Safety of Flexibly Dosed Esketamine Nasal Spray Plus a Newly Initiated Oral Antidepressant in Adult Patients with Treatment-Resistant Depression: A Randomized, Double-Blind, Multicenter, Active-Controlled Study Conducted in China and USA.",
+    "methods": null,
+    "results": "Of 252 randomized patients (China, 224; US, 28), 214 completed the double-blind treatment phase. The difference between treatment groups at Day 28 was not statistically significant (difference in least-square means [95% CI]: -2.0 [-4.64, 0.55]; 2-sided p = 0.123). However, esketamine plus AD demonstrated a clinically meaningful treatment difference compared with AD plus placebo in MADRS total score at 24 hours after first dose for the study overall population and China sub-population (difference in least-square mean [95% CI]: -3.3 [-5.33, -1.33] and -2.6 [-4.64, -0.60], respectively). No new safety signals were observed.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a5bd81147ed043dba2f4d1c9d7fd698a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Dose-response effects of selective serotonin reuptake inhibitor monotherapy for the treatment of depression: systematic review of reviews and meta-narrative synthesis.",
+    "methods": null,
+    "results": "The search identified 9138 records; 387 full text reports were assessed for eligibility, 42 of which matched the inclusion criteria. The majority, 83% (n=35), of reviews included data for studies with a duration of ≤12 weeks (ie, the acute phase of depression treatment). Of 39 reviews assessing efficacy, the majority (n=26) indicated that individual SSRIs and SSRI class demonstrated flat dose-response effects; standard doses were optimal for efficacy. Acceptability or tolerability were assessed in 28 reviews. Higher than standard daily doses were associated with higher dropout rates and a greater incidence of adverse drug effects (eg, nausea, sexual dysfunction, fatigue, anxiety). Despite a range of methods being reported, there was an overall consensus regarding SSRI dose related efficacy, dropouts, and adverse drug effects.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "7f9a6191f7cc706adf98a4a1bd347ed0",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jul",
+    "title": "Adverse Effects of Antidepressant Medications and their Management in Children and Adolescents.",
+    "methods": "This review examines the early- (e.g., activation, gastrointestinal symptoms, sedation) and late-emerging (e.g., weight gain) adverse effects of SSRIs and some SNRIs in pediatric patients.",
+    "results": "We provide a framework for discussing SSRI/SNRI tolerability with patients and their families and describe the pharmacologic basis, course, and predictors of adverse events in youth. Strategies to address specific tolerability concerns are presented. For selected adverse events, using posterior simulation of mean differences over time, we describe their course based on Physical Symptom Checklist measures in a prospective, randomized trial of anxious youth aged 7-17 years who were treated with sertraline (n = 139) or placebo (n = 76) for 12 weeks in the Child/Adolescent Anxiety Multimodal Study (CAMS).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c39c002419c33a54a4e0bf866694757f",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Nov",
+    "title": "A retrospective case series of electroconvulsive therapy in the management of depression and suicidal symptoms in adolescents.",
+    "methods": "We analyzed 362 adolescents aged from 12 to 17 who had received ECT between year 2015 and 2021. A total of 278 subjects were found to meet the inclusion criteria, where depressive symptoms were assessed by HDRS and suicidal symptoms were assessed by HDRS item 3. Their sociodemographic, clinical, and treatment information were retrieved through these records for this study.",
+    "results": "The mean ± SD age of subjects was 15.41 ± 1.50 years and male sex was 14.7% (n = 41). Comorbid diagnoses were present in 104 patients (37.4%). The ECT sessions ranged from 6 to 12 times. All the patients took antidepressants, with sertraline (n = 182; 65.5%) being the most widely used. Majority of patients also received benzodiazepines. ECT was significantly effective in adolescents with depression and suicidal symptoms in evaluation by HDRS, HDRS item 3, CGI-S (p &lt; .001) pre/post-ECT. The response rate of MDD patients was 52%, with suicidal ideation (SI) at 49%, and 54% in MDD with suicide attempt (SA). The change of CGI-S scores showed no significant differences between various subgroups of sex and comorbid (p&gt;.05), but there were significant differences between subgroups of suicidal symptoms (p &lt; .001). ECT was generally safe with subjective memory complaint (n = 189, 68.0%), headache (n = 150, 54.0%), body pain (n = 28, 10.1%), delirium (n = 95, 34.2%), and nausea (n = 31, 11.2%) as possible side effects following ECT.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "e59f446add24d5b8a3de847e25c24049",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jan",
+    "title": "The impact of pharmacological and non-pharmacological interventions on physical health outcomes in people with mood disorders across the lifespan: An umbrella review of the evidence from randomised controlled trials.",
+    "methods": "Umbrella review of meta-analyses of randomised controlled trials (RCTs) on pharmacological/non-pharmacological interventions for physical health outcomes/intolerability-related discontinuation in mood disorders (any age).",
+    "results": "Ninety-seven meta-analyses were included. Among youths, against placebo, in depression, antidepressants/antipsychotics had higher discontinuation rates; in bipolar depression, olanzapine+fluoxetine worsened total cholesterol (TC)/triglycerides/weight gain (WG) (large ES). In adults with bipolar disorder, olanzapine worsened HbA1c/TC/WG (moderate/large ES); asenapine increased fasting glucose (small ES); quetiapine/cariprazine/risperidone induced WG (small/moderate ES). In bipolar depression, lurasidone was metabolically neutral. In depression, psychological interventions improved physical health-related quality of life (PHQoL) (small ES), fasting glucose/HbA1c (medium/large ES); SSRIs improved fasting glucose/HbA1c, readmission for coronary disease, pain (small ES); quetiapine/aripiprazole/olanzapine induced WG (small to large ES). Exercise improved cardiorespiratory fitness (moderate ES). In the elderly, fluoxetine yielded more detrimental cardiovascular effects than sertraline/escitalopram (large ES); antidepressants were neutral on exercise tolerance and PHQoL. In mixed age groups, in bipolar disorder aripiprazole was metabolically neutral; in depression, SSRIs lowered blood pressure versus placebo and serotonin-noradrenaline reuptake inhibitors (small ES); brexpiprazole augmentation caused WG and was less tolerated (small ES); exercise improved PHQoL (moderate ES).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "32e09909ff50b3a11cacf90b1ca848a9",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": null,
+    "title": "Evidence for Anti-inflammatory Effects of Adalimumab in Treatment of Patients With Major Depressive Disorder: A Pilot, Randomized, Controlled Trial.",
+    "methods": "In a 6-week, randomized, double-blind, placebo-controlled trial, 36 patients with MDD and high-sensitivity C-reactive protein ≥3 mg/L were equally assigned to receive sertraline plus either adalimumab or placebo. Participants were assessed using the Hamilton Depression Rating Scale (HAM-D) at baseline, week 3, and week 6. Moreover, serum concentrations of inflammatory biomarkers were measured at baseline and trial end point. Finally, patients were assessed for any adverse event during the trial.",
+    "results": "Fifteen patients in each group completed the trial course. All baseline characteristics of participants were similar between the groups. Adalimumab adjunct to sertraline resulted in a greater improvement in HAM-D score compared with placebo over the trial period ( P < 0.001). Participants receiving adalimumab significantly experienced greater response to treatment (≥50% reduction in the HAM-D score) than those receiving placebo ( P = 0.042). Furthermore, after 6 weeks of adalimumab combination therapy with sertraline, inflammatory biomarkers significantly decreased ( P ≤ 0.001), whereas no significant alteration was found in the placebo group. No serious adverse event was documented in the treatment arms.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9ce33d3529b1798a19f1c8595edc6636",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Risks of Digestive System Side-Effects of Selective Serotonin Reuptake Inhibitors in Patients with Depression: A Network Meta-Analysis.",
+    "methods": "Systematic searches returned 30 randomized controlled trials (n = 5004) of five antidepressants and placebos.",
+    "results": "Fluoxetine had the lowest probability of digestive side effects, ranking fifth at 0.548. Sertraline had the highest probability of digestive side effects, with a probability of 0.611. For gastrointestinal tolerability, escitalopram was better than paroxetine (odds ratio [OR] =0.62, 95% confidence interval [CI] 0.43-0.87) and sertraline (OR=0.56, 95% CI 0.32-0.99).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "97a8070010cf25316c45da6dc3a9b1c2",
+    "query_date": "22_02_2025"
+  }
+]

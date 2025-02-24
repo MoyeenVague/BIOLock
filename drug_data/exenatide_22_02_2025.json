@@ -1,0 +1,502 @@
+[
+  {
+    "pub_date": "2025-Feb-12",
+    "title": "Otolaryngologic Side Effects of GLP-1 Receptor Agonists.",
+    "methods": "The Food and Drug Administration's Adverse Event Reporting System (FAERS) database was queried for events related to the GLP-1 RA: exenatide, liraglutide, dulaglutide, semaglutide, and tirzepatide from 1 year after their approval until the end of 2023. AEs were collected and sub-stratified according to anatomic site. Reporting odds ratios (ROR) and proportional reporting ratios (PRR) were determined for all AEs.",
+    "results": "The number of AEs reported from all drugs within this study totaled 9,746. Significant signal ratios were defined as a PRR≥2 and a lower CI ROR >1. Medullary thyroid carcinoma (MTC) and papillary thyroid carcinoma (PTC) had the highest signals and were significant in virtually all medications. This was followed by GERD which also had very high signal ratios and was significant in all drugs assessed. Semaglutide also had significant signals in anosmia, dry mouth, dysgeusia, and Bell's palsy. Liraglutide had significance in both signals in dysphonia, dysgeusia, tinnitus, and Bell's palsy. This was followed by exenatide which also included dysgeusia and hearing disability.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9c54fcf0aa756d53fb089cbc7f300bc9",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-01",
+    "title": "GLP-1 Receptor Agonist Induced Eustachian Tube Dysfunction: Database and Systematic Review of Otolaryngologic Adverse Events.",
+    "methods": "We explore the association between GLP-1 RAs with eustachian tube dysfunction (ETD) and patulous ETD (PETD) by review of cases, literature, and the FDA adverse event database (FAERS). We also performed a systematic review using the PRISMA guidelines.",
+    "results": "We present autophony and aural fullness following GLP-1 agonist use. In both cases, nasal endoscopy confirmed significant loss of tissue bulk of the anterior and posterior ET cushions. The total number of adverse events (AEs) with GLP-1 RAs was 97,237. The proportion of otologic AEs was 958 (0.99%): 515 hypoacusis, 203 vertigo, 97 deafness, 93 tinnitus, 22 ear pain, 21 motion sickness, 5 hyperacusis, 2 ear fullness, and 0 autophony. The largest number of potential ETD-related AEs occurred with dulaglutide (417). The greatest proportion of potential ETD-related AEs occurred with exenatide (1.52%) followed by semaglutide (1.17%) and liraglutide (1.16%). The systematic review using PRISMA guidelines yielded 1,490 initial articles, of which 937 were screened and 10 met the inclusion criteria. The top 3 identified otologic side effects included nasopharyngitis, sinusitis, unspecified dizziness.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f66bc2e813735a624c103d353eca1dae",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025-Feb",
+    "title": "Dose-Response Relationship of Glucagon-like Peptide-1 Receptor Agonists on HbA1c and Body Weight in Type 2 Diabetes Mellitus: A Systematic Review and Network Meta-Analysis.",
+    "methods": "This systematic review and network meta-analysis followed the PRISMA guidelines. We conducted a systematic search of PubMed, Medline, Embase, Cochrane Central Register of Controlled Trials, and Web of Science for articles published up to October 20, 2024. Selected studies were randomized controlled trials focusing on adult T2DM patients treated with GLP-1 RAs. Primary outcomes included changes in HbA1c, body weight, and incidence of adverse events. Data extraction was performed by 2 independent researchers. Model-Based Network Meta-Analysis employing a random-effects Bayesian approach was used to synthesize the data.",
+    "results": "The analysis included 62 trials with 17 140 participants. The study revealed a nonlinear dose-response relationship for various GLP-1 RAs, indicating significant reductions in HbA1c and body weight. Tirzepatide (10 mg/wk) was found to be particularly effective, reducing HbA1c by -1.76% (95% credible intervals: -2.10 to -1.41) and body weight by -8.63 kg (95% credible intervals: -9.84 to -7.39) without a significant increase in adverse events, highlighting its optimal balance between efficacy and safety. Other GLP-1 RAs also showed significant efficacy, underscoring the overall benefits of this class of medications in managing T2DM.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "95ee777114c78c42fe414b4aa87c4468",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Association between different GLP-1 receptor agonists and acute pancreatitis: case series and real-world pharmacovigilance analysis.",
+    "methods": "We described a case series of patients experiencing AP while on GLP-1 RAs. Additionally, we utilized various algorithms including reporting odds ratio (ROR), proportional reporting ratio (PRR), Bayesian confidence propagation neural network (BCPNN), and multi-item gamma Poisson shrinker (MGPS) to analyze data from the Food and Drug Administration's Adverse Event Reporting System (FAERS) regarding suspected adverse events of AP linked to GLP-1 RAs from January 2005 to September 2023.",
+    "results": "Our case series comprised thirty-nine patients who experienced AP events while on GLP-1 RAs. Within the FAERS database, we retrieved a total of 6,751 individual case safety reports (ICSRs) involving various GLP-1 RAs. The median age of the patients included in our study was 57 years (range: 14-99), with 98.3% of cases classified as serious. Signals indicating AP were observed across all GLP-1 RAs, with particular emphasis on exenatide and liraglutide.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "7b1a531b5dc0a5e1b9e37ba56613b205",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Nov-19",
+    "title": "Increased reporting of accidental overdose with glucagon-like peptide-1 receptor agonists: a population-based study.",
+    "methods": "We sought to evaluate accidental overdose associated with GLP-1 RAs submitted to the United States FDA Adverse Event Reporting System (FAERS). Case reports of accidental overdose reported to the FAERS were retrieved from Q4 2003 to Q1 2024 using OpenVigil 2.1. Disproportionality of accidental overdose was assessed using reporting odds ratio (ROR). Upper and lower 95% confidence intervals (CI) were calculated at an alpha level of 5%, where disproportionate reporting was considered when the lower 95% CI was greater than 1.0.",
+    "results": "We identified 3,348 reports of accidental overdose associated with GLP-1 RAs. The RORs were significant for all agents within the class (ROR range: 2.64-61.12, all p < 0.008), including semaglutide, dulaglutide, exenatide, liraglutide, and tirzepatide compared to niacin.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "b3a2510e96c2af63ef3c8b9e733772f8",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Aug-23",
+    "title": "Comparative Efficacy and Safety of Weekly GLP-1/GIP Agonists vs. Weekly Insulin in Type 2 Diabetes: A Network Meta-Analysis of Randomized Controlled Trials.",
+    "methods": "We conducted a network meta-analysis (NMA) using data from randomized controlled trials (RCTs) that compared these treatments with a baseline of daily basal insulin. Primary outcomes included changes in HbA1c, body weight, and tolerability.",
+    "results": "The analysis integrated data from 25 RCTs, involving 18,257 patients. Tirzepatide significantly outperformed other treatments in reducing HbA1c and promoting weight loss. Weekly insulins, compared to GLP-1/GIP agonists, showed a more tolerable profile and were beneficial for certain patient demographics emphasizing weight stability.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f630f16e1c199d3efa2f084ab562101a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan",
+    "title": "Charting New Territories in Obesity Management- Traditional Techniques to Tirzepatide.",
+    "methods": "This comprehensive review was based on the available data to discuss the traditional pharmaceutical and surgical therapeutical strategies for obesity, going further to discuss tirzepatide's mode of action, its outcomes for obesity, and the associated side effects.",
+    "results": "In this landscape, tirzepatide, initially designed for type 2 diabetes management, emerges as a potential game-changer. Functioning as a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, it not only addresses control but also introduces a fresh perspective on weight reduction. This review intricately explores tirzepatide's mechanism, dissecting insights from clinical studies and positioning it as a major force in obesity treatment.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "bc3865a3e9b57951ec2fc3f7236f8dc5",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Aug",
+    "title": "The Antiobesity Effect and Safety of GLP-1 Receptor Agonist in Overweight/Obese Adolescents Without Diabetes Mellitus: A Systematic Review and Meta-Analysis.",
+    "methods": null,
+    "results": "A total of seven RCTs with 576 adolescent participants were included in the analysis. GLP-1 RAs significantly achieved greater weight loss than placebo, with a mean difference of -4.98 kg (-8.49, -1.46), I² = 99%, p = 0.006. Subgroup analysis showed that semaglutide had the most pronounced anti-obesity effect (mean difference of -17.70 kg (-18.89, -16.51), p < 0.00001), compared to liraglutide (mean difference of -2.26 kg (-5.17, 0.65), I² = 99%, p = 0.13) and exenatide (mean difference of -3.17 kg (-4.45, -1.90), I² = 0%, p < 0.0001). Similar results were obtained for other efficacy parameters such as BMI and BMI z-score. However, GLP-1 RA was associated with more gastrointestinal adverse events (such as nausea and vomiting) than placebo (3.06 (2.12, 4.42), I² = 0%, p < 0.00001), with incidence comparable among all GLP-1 RAs in the subgroup analysis. The overall risk of bias among included studies was either of 'some concern' or 'high risk.'",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "2a4968483a99f45fcb4bd335e6d62a0b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Nov",
+    "title": "Effectiveness of pharmacological interventions for managing obesity in children and adolescents: A systematic review and meta-analysis framed using minimal important difference estimates based on GRADE guidance to inform a clinical practice guideline.",
+    "methods": "A systematic review and meta-analysis were conducted of randomized controlled trials (RCTs) with <18-year-olds of pharmacotherapeutic agents published up to November 2022. Estimates of effect for outcomes were presented relative to minimal important differences and GRADE certainty of evidence. We examined data on patient/proxy-reported outcome measures (PROMs), cardiometabolic risk factors, anthropometry and adverse events (AEs).",
+    "results": "Overall, 35 RCTs were included. Trials examined metformin (n = 26), glucagon-like peptide-1 receptor agonists (GLP1RAs) (n = 7) and a lipase inhibitor (orlistat; n = 2). Intervention duration varied (3-24 months). Metformin had little to no benefit on PROMs (e.g., health-related quality of life [HRQoL]; 6 RCTs), moderate reductions in triglycerides, a moderate decline in insulin resistance, a small to moderate decline in BMI z-score (BMIz) and a moderate increase in mild to moderate gastrointestinal AEs. Response to GLP1RAs was heterogeneous and results of subgroup analysis demonstrated variability of impact. Liraglutide (2 RCTs) resulted in a small reduction in HOMA-IR and BMIz, but little to no benefit on other outcomes. Exenatide (4 RCTs) had a moderate reduction on blood pressure and a small decrease in BMIz with little to no benefit on other outcomes. Semaglutide (1 RCT) had a small benefit on HRQoL, a small reduction on SBP, a moderate reduction on total cholesterol and LDL-cholesterol, a large reduction on triglyceride, and a very large decline in BMIz accompanied by a small increase in mild to moderate gastrointestinal AEs. Orlistat had a moderate reduction in DBP and little to no benefit in other outcomes measured, but had a very large increased risk of mild to moderate gastrointestinal AEs. Serious AEs were rare and for interventions with sufficent AE reporting, were considered not likely attributable to the interventions.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f6a9e44220b1a88c6bbc49fce1f40595",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec",
+    "title": "Can glucagon-like peptide-1 receptor agonists induce asthma? An analysis of the FAERS database.",
+    "methods": "We reviewed data from the US Food and Drug Administration's (FDA) adverse event (AE) reporting system (FAERS) to examine reports of cases of asthma observed in the real-world during treatment with GLP1RAs.",
+    "results": "Analysis of the FAERS reporting system database has shown that certain GLP1RAs, particularly exenatide, semaglutide and liraglutide, were associated with a higher proportion of respiratory AEs, particularly asthma or asthma-like events. This association was statistically significant at least for semaglutide and liraglutide. Serious asthma-related events and deaths were also reported, with exenatide having the highest proportion of deaths.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c2cdd4be2822b428cccbef8e1916b021",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Health Technology Assessment: Evaluation of 7 Glucagon-Like Peptide-1 Receptor Agonists for the Treatment of Type 2 Diabetes Mellitus.",
+    "methods": "According to the Rapid Guide for Drug Evaluation and Selection in Chinese Medical Institutions (Second Edition) released in 2023, relevant databases such as PubMed, Cochrane, and Embase, drug labels, and clinical guidelines were searched for drug information. We systematically evaluated 7 GLP-1RAs marketed in China for safety, efficacy, economy, pharmacological properties, and other attributes using a percentage scoring method.",
+    "results": "The final assessment result scores from highest to lowest were semaglutide (71.5 points), dulaglutide (68.9 points), liraglutide (68.7 points), exenatide (62.5 points), lixisenatide (59.9 points), polyethylene glycol loxenatide (55.9 points), and benaglutide (45.1 points).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "44f9d978373243fe40d6b9c5777cd4ee",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Mar-30",
+    "title": "Impact of exenatide on weight loss and eating behavior in adults with craniopharyngioma-related obesity: the CRANIOEXE randomized placebo-controlled trial.",
+    "methods": null,
+    "results": "At week 26, weight decreased from baseline by a mean of -3.8 (SD 4.3) kg for exenatide and -1.6 (3.8) kg for placebo. The adjusted mean treatment difference was -3.1 kg (95% confidence interval [CI] -7.0 to 0.7, P = 0.11). Results were compatible with a higher reduction of hunger score with exenatide compared with placebo (estimated treatment difference in change from baseline to week 26: -2.3, 95% CI -4.5 to -0.2), while all other outcomes did not significantly differ between groups. Adverse events were more common with exenatide versus placebo, and occurred in, respectively, 19 (95%) participants (108 events) and 14 (70%) participants (54 events).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "18f965821ff80c734846b3b5ad09805b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Feb-02",
+    "title": "Glucagon-like Peptide-1 Receptor Agonists Associated Gastrointestinal Adverse Events: A Cross-Sectional Analysis of the National Institutes of Health All of Us Cohort.",
+    "methods": "This retrospective cross-sectional analysis utilized real-world data on 10,328 adults with diabetes/obesity in the National Institutes of Health All of Us cohort. New GLP-1 RA users were identified, and GI adverse events were examined. Logistic regression determined factors associated with GI adverse events.",
+    "results": "The mean age of the study population was 61.4 ± 12.6 years, 65.7% were female, 51.3% were White, and they had a high comorbidity burden. Abdominal pain (57.6%) was the most common GI adverse event, followed by constipation (30.4%), diarrhea (32.7%), nausea and vomiting (23.4%), GI bleeding (15.9%), gastroparesis (5.1%), and pancreatitis (3.4%). Dulaglutide and liraglutide had higher rates of abdominal pain, constipation, diarrhea, and nausea and vomiting than semaglutide and exenatide. Liraglutide and exenatide had the highest pancreatitis (4.0% and 3.8%, respectively). Compared to semaglutide, dulaglutide and liraglutide had higher odds of abdominal pain, and nausea and vomiting. They also had higher odds of gastroparesis than semaglutide. No significant differences existed in GI bleeding or pancreatitis risks between the GLP-1 RAs.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "6137f0c6c1187bb701d860e740f1cb1a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Psychiatric adverse events associated with GLP-1 receptor agonists: a real-world pharmacovigilance study based on the FDA Adverse Event Reporting System database.",
+    "methods": "We retrieved reports of AEs associated with treatment with GLP-1 RAs during the period from the first quarter (Q1) of 2004 to Q1 2023 from the FDA Adverse Event Reporting System (FAERS) database. Descriptive analysis was performed to examine the clinical characteristics and time to onset of the psychiatric AEs caused by GLP-1 RAs. Moreover, disproportionality analyses were performed using the reporting odds ratio (ROR) to identify GLP-1 RA-related psychiatric AEs.",
+    "results": "A total of 8,240 reports of psychiatric AEs were analyzed out of 181,238 AE reports with treatment with GLP-1 RAs. Among these cases, a higher percentage was represented by women compared to men (65.89% vs. 30.96%). The median age of these patients was 56 years, with an interquartile range (IQR) of 48-67 years, based on data available in 286 case reports. This study showed that the median time to onset of the overall GLP-1 RA-related AEs was 31 days (IQR = 7-145.4 days), which varied among GLP-1 RA regimens. Specifically, exenatide had a significantly longer onset time at 45 days (IQR = 11-213 days), with statistically significant differences from the onset times of the other five GLP-1 RAs (p< 0.0001). Moreover, eight categories of psychiatric AEs, namely, nervousness (ROR = 1.97, 95% CI = 1.85-2.11), stress (ROR = 1.28, 95% CI = 1.19-1.38), eating disorder (ROR = 1.57, 95% CI = 1.40-1.77), fear of injection (ROR = 1.96, 95% CI = 1.60-2.40), sleep disorder due to general medical condition-insomnia type (ROR = 2.01, 95% CI = 1.60-2.52), binge eating (ROR = 2.70, 95% CI = 1.75-4.16), fear of eating (ROR 3.35, 95% CI = 1.65-6.78), and self-induced vomiting (ROR = 3.77, 95% CI = 1.77-8.03), were defined as GLP-1 RA-related psychiatric AEs through disproportionality analysis.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "87452dc1c59e26388e37ff91ae1c9702",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Apr",
+    "title": "Safety, tolerability, pharmacokinetic, pharmacodynamic and immunogenicity profiles of Exendin-4-IgG4-Fc in healthy subjects: A phase 1, single-centre, randomized, double-blind, dose escalation study.",
+    "methods": "This single-centre, randomized, double-blind, placebo-controlled phase 1 clinical trial included 96 subjects in 10 sequential cohorts that were provided successively higher doses of E4F4 (0.45, 0.9, 1.8, 3.15, 4.5, 6.3, 8.1, 10.35, 12.6 and 14.85 mg) or placebo (ChinaDrugTrials.org.cn: ChiCTR2100049732). The primary endpoint was safety and tolerability of E4F4. Secondary endpoints were pharmacokinetic, pharmacodynamic and immunogenicity profiles of E4F4. Safety data to day 15 after the final subject in a cohort had been dosed were reviewed before commencing the next dose level.",
+    "results": "E4F4 was safe and well tolerated among healthy Chinese participants in this study. There was no obvious dose-dependent relationship between frequency, severity or causality of treatment-emergent adverse events. Cmax and area under the curve of E4F4 were dose proportional over the 0.45-14.85 mg dose range. Median Tmax and t1/2 ranged from 146 to 210 h and 199 to 252 h, respectively, across E4F4 doses, with no dose-dependent trends. For the intravenous glucose tolerance test, area under the curve of glucose in plasma from time 0 to 180 min showed a dose-response relationship in the 1.8-10.35 mg dose range, with an increased response at the higher doses.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "40425387927c7851f65b10a8fc65989d",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Jan",
+    "title": "Safety, tolerability, and efficacy of NLY01 in early untreated Parkinson's disease: a randomised, double-blind, placebo-controlled trial.",
+    "methods": "We report a 36-week, randomised, double-blind, placebo-controlled study of NLY01 in participants with early untreated Parkinson's disease conducted at 58 movement disorder clinics in the USA. Participants meeting UK Brain Bank or Movement Disorder Society research criteria for Parkinson's disease were randomly allocated (1:1:1) to one of two active treatment groups (2·5 mg or 5·0 mg NLY01) or matching placebo, based on a central computer-generated randomisation scheme using permuted block randomisation with varying block sizes. All participants, investigators, coordinators, study staff, and sponsor personnel were masked to treatment assignments throughout the study. The primary efficacy endpoint for the primary analysis population (defined as all randomly assigned participants who received at least one dose of study drug) was change from baseline to week 36 in the sum of Movement Disorder Society Unified Parkinson's Disease Rating Scale (MDS-UPDRS) parts II and III. Safety was assessed in the safety population (all randomly allocated participants who received at least one dose of the study drug) with documentation of adverse events, vital signs, electrocardiograms, clinical laboratory assessments, physical examination, and scales for suicidality, sleepiness, impulsivity, and depression. This trial is complete and registered at ClinicalTrials.gov, NCT04154072.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "6016f2e9a9818f5c2f3dbeee39a7d7ec",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Dec",
+    "title": "Management of Poststroke Hyperglycemia: Results of the TEXAIS Randomized Clinical Trial.",
+    "methods": "The TEXAIS trial (Treatment With Exenatide in Acute Ischemic Stroke) was an international, multicenter, phase 2 prospective randomized clinical trial (PROBE [Prospective Randomized Open Blinded End-Point] design) enrolling adult patients with acute ischemic stroke ≤9 hours of stroke onset to receive exenatide (5 µg BID subcutaneous injection) or standard care for 5 days, or until hospital discharge (whichever sooner). The primary outcome (intention to treat) was the proportion of patients with ≥8-point improvement in National Institutes of Health Stroke Scale score (or National Institutes of Health Stroke Scale scores 0-1) at 7 days poststroke. Safety outcomes included death, episodes of hyperglycemia, hypoglycemia, and adverse event.",
+    "results": "From April 2016 to June 2021, 350 patients were randomized (exenatide, n=177, standard care, n=173). Median age, 71 years (interquartile range, 62-79), median National Institutes of Health Stroke Scale score, 4 (interquartile range, 2-8). Planned recruitment (n=528) was stopped early due to COVID-19 disruptions and funding constraints. The primary outcome was achieved in 97 of 171 (56.7%) in the standard care group versus 104 of 170 (61.2%) in the exenatide group (adjusted odds ratio, 1.22 [95% CI, 0.79-1.88]; P=0.38). No differences in secondary outcomes were observed. The per-patient mean daily frequency of hyperglycemia was significantly less in the exenatide group across all quartiles. No episodes of hypoglycemia were recorded over the treatment period. Adverse events of mild nausea and vomiting occurred in 6 (3.5%) exenatide patients versus 0 (0%) standard care with no withdrawal.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "dcf43cf1bae6f1890004cf9c17fa2026",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Nov-16",
+    "title": "Comparison of exenatide alone or combined with metformin versus metformin in the treatment of polycystic ovaries: a systematic review and meta-analysis.",
+    "methods": "RCTs of exenatide therapy were identified through a search of electronic databases in November 2022 and updated in October 2023. Eligible studies were identified independently by the reviewers. Outcomes were analysed with Revman 5.4.",
+    "results": "Nine RCTs among 214 studies on 1059 women with PCOS were included in the analysis, and among the nine RCTs, eight studies compared exenatide with metformin. Our meta-analysis demonstrated that exenatide was more effective than metformin in terms of pregnancy rate (RR 1.85 [95% CI 1.19,2.86] P = 0.006), sex hormone-binding globulin (SHBG) (MD 5 [95% CI 3.82,6.18] P < 0.001), and follicle-stimulating hormone (FSH) (MD 0.82 [95% 0.41,1.24] P < 0.001). The reductions in total testosterone (TT) (SMD -0.43 [95% CI -0.84, -0.03] P = 0.04) was more significant after treatment with exenatide than after treatment with metformin. In terms of safety, exenatide had a lower diarrhea rate (RR 0.11 [95% CI 0.01, 0.84]) than metformin. In the other three studies, exenatide plus metformin was compared with metformin. Exenatide combined with metformin was more effective in improving SHBG (MD 10.38[95%CI 6.7,14.06] P < 0.001), Matsuda index (MD 0.21[95%CI 0.05,0.37]) and reducing free androgen index (FAI) (MD -3.34 [-4.84, -1.83] P < 0.001), Weight (MD -2.32 [95%CI -3.89, -0.66]) and WC (MD-5.61[95%CI -8.4, -2.82] P < 0.001). The incidence of side effects between exenatide plus metformin and metformin was not statistically significant.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "5d21ff4064042e3009259b3ac85e273a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "Effects of GLP-1 agonists and SGLT2 inhibitors during pregnancy and lactation on offspring outcomes: a systematic review of the evidence.",
+    "methods": "We systematically searched PubMed, clinicaltrials.gov, FDA and EMA product information on GLP-1 agonists and SGLT2 inhibitors in pregnancy and lactation from inception up to 19 April 2022 without language restrictions. We approached both the Netherlands Pharmacovigilance Centre Lareb on January 17th 2023 and the Teratology Information Service (TIS) of Switzerland on February 6th 2023. Eligible studies investigating the safety (including congenital anomalies, fetal growth, perinatal demise) in animals or humans, or reporting the degree of transfer of these drugs to the fetus, breast milk or breastfed neonate. Two reviewers independently assessed and selected studies for inclusion and subsequently resolved discrepancies by discussion.",
+    "results": "We included 39 records (n=9 theoretical; based on drug properties, n=7 human; n=23 animal, including 76 human offspring, and an unknown number of animal offspring as these numbers could not be retrieved from the FDA and EMA product information). In animal studies, GLP1-agonists were associated with reduced fetal weight and/or growth, delayed ossification and skeletal variants, usually associated with a reduction in maternal weight gain and decreased food consumption. Exendin-4 (GLP1-agonist) was not transported across the maternal-fetal placental interface. In human studies, exenatide (GLP1-agonist) showed a fetal-to-maternal peptide concentration ratio of ≤ 0.017 in ex vivo human placental perfusion in a single placenta. Liraglutide (GLP1-agonist) showed no significant maternal to fetal transfer at least 3.5 hours after maternal exposure in a human study with one subject. In animal studies, GLP-1 agonists were excreted in breast milk; human data on excretion were not available. In animal studies, SGLT2 inhibitors were generally safe during the first trimester but exposure during postnatal day 21 to 90 in juvenile rats, a period coinciding with the late second and third trimester of human renal development, caused dilatation of the renal pelvis and tubules. Human data consisted of a pharmaceutical database of inadvertent pregnancies during SGLT2 inhibitor use, which found an increase in miscarriages and congenital malformations. In animal studies SGLT2 inhibitors were excreted in breast milk and affected neonatal growth, but human data are not available.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "ea28c1660c7cff7e0a300182c916fdfc",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "Comparison of the efficacy and safety of 10 glucagon-like peptide-1 receptor agonists as add-on to metformin in patients with type 2 diabetes: a systematic review.",
+    "methods": "Three databases (PubMed, Embase, and Cochrane Library) were searched from their respective inception until September 30, 2022. Only randomized controlled trials comparing the efficacy and safety of GLP-1RAs for treating type 2 diabetes (T2D) were included. The 10 GLP-1RAs are exenatide (including exenatide twice daily and once weekly), liraglutide, lixisenatide, dulaglutide, PEX168, semaglutide (subcutaneous and oral semaglutide), tirzepatide and albiglutide.",
+    "results": "34 RCTs with 10 GLP-1RAs and 12993 patients were included in the Network Meta-Analysis (NMA). According to the NMA, tirzepatide 15 mg, semaglutide 1.0 mg, PEX168-200μg, oral semaglutide 14 and dulaglutide 1.5 mg reduced HbA1c by -2.23%, -1.57%, -1.12%, -1.10%, -1.09% and body weight by -11.33 kg, -5.99 kg, +0.40 kg, -3.95 kg, -1.87 kg, respectively. There was no significant difference in the rate of adverse events for tirzepatide 15 mg, oral-semaglutide 14 mg, and semaglutide 1.0 mg. PEX168-200μg, tirzepatide 15mg, and oral semaglutide 14mg had Surface Under the Cumulative Ranking (SUCRA) values greater than placebo, and only tirzepatide 15mg and oral semaglutide 14mg were significantly different from placebo in the rate of serious adverse events. All GLP-1RA did not lead to increased incidence of hypoglycemia. Albiglutide 30mg and semaglutide 1.0mg significantly differed from placebo in Adverse Event (AE) withdrawal. Finally, the sensitivity analysis and publication bias analysis results indicate that the study results are reliable.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "bac10ecb553fa0cec912f4347f9278e4",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Dec-21",
+    "title": "Glucagon-Like Peptide 1 Analogues as Adjunctive Therapy for Patients With Type 1 Diabetes: An Updated Systematic Review and Meta-analysis.",
+    "methods": null,
+    "results": "A total of 24 studies using 4 different GLP-1 analogues with a total of 3377 patients were included. Liraglutide had the most substantial evidence with effect sizes on A1c (-0.09%/mg), weight (-2.2 kg/mg), and TDI (-4.32 IU/mg). Liraglutide dose was the greatest predictor of greater average weight loss and TDI decrease but was associated with higher odds of nausea (OR 6.5; 95% CI, 5.0-8.4) and ketosis (OR 1.8; 95% CI, 1.1-2.8). Odds of severe (OR 0.67; 95% CI, 0.43-1.04) or symptomatic hypoglycemia (OR 0.89; 95% CI, 0.53-1.51) were not significantly elevated. Among C-pos patients, greater A1c decrease (-0.51% vs -0.28%) but similar weight loss and TDI were seen. Effect sizes for exenatide were similar, but studies had higher risk of bias and safety data were sparse.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "810faa543719a355a93d9672be4d422e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Nov",
+    "title": "Effects of once-weekly glucagon-like peptide-1 receptor agonists on type 2 diabetes mellitus complicated with coronary artery disease: Potential role of the renin-angiotensin system.",
+    "methods": "We searched both Chinese and English databases for randomized controlled trials related to once-weekly GLP-1 RA for T2DM complicated with CAD to verify the safety and efficacy of GLP-1 RA. The underlying mechanism was analysed by network pharmacology.",
+    "results": "In total, 13 studies with 35 563 participants were included in the analysis. The pooled analysis found that dulaglutide, exenatide and semaglutide outperformed placebo in cardiovascular outcomes in patients with T2DM, with a significant reduction in the incidence of non-fatal stroke (p < .00). Levels of cardiovascular risk factors were significantly reduced in the once-weekly GLP-1 RA group compared with the conventional treatment group (glycated haemoglobin: p < .00; fasting blood glucose: p < .00; weight: p < .00; systolic blood pressure: p < .00; total cholesterol: p < .00; low-density lipoprotein cholesterol: p < .00). Network pharmacology results were enriched to the renin-angiotensin system, and matrix metalloproteinase 2 and renin (REN) may be the key targets. In addition, four key targets of dulaglutide, five key targets of exenatide and two key targets of semaglutide were enriched.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "3c3fd23672a9acaf721202b791b6f6ed",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jul-07",
+    "title": "Comparative efficacy and safety of glucagon-like peptide 1 receptor agonists for the treatment of type 2 diabetes: A network meta-analysis.",
+    "methods": "PubMed, EMBASE, and Cochrane Library Central Register of Controlled Trials were searched from inception until June 10, 2022. Randomized clinical trials (RCTs) enrolling participants with diabetes mellitus type 2 and a follow-up of at least 12 weeks were included, for which 4 eligible GLP-1RAs Exenatide, Dulaglutide, Semaglutide, Loxenatide were compared with either each other or placebo. The primary outcome is the change of hemoglobin A1c level. Secondary outcomes including additional glycemic control indicators and adverse events (AE). Frequentist random-effect NMA were conducted for effect comparison. This meta-analysis was registered on PROSPERO, CRD42022342241.",
+    "results": "The NMA synthesized evidence from 12 studies covering 6213 patients and 10 GLP-1RA regimens. A pairwise comparison of glycosylated hemoglobin type A1C (HbA1c) lowering effects showed that once-weekly GLP-1 receptor agonists were significantly better than placebo, and their glucose-lowering intensity was Semaglutide 2.0mg, Semaglutide 1.0mg, Dulaglutide 4.5mg, and Semaglutide 0.5mg, Dulaglutide 3.0mg, PEX168 200ug, Dulaglutide 1.5mg, PEX168 100ug and Dulaglutide 0.75mg. The GLP-1RA regimen has a comparable safety profile for hypoglycemia. And with the exception of PEX168, all other long-acting GLP-1RA drugs had lower rates of diarrhea, nausea and vomiting than placebo.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "6280dc4d64334c8b915703ce3dd1043d",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "A single dose of exenatide had no effect on blood flow velocity in the middle cerebral artery in elderly healthy volunteers: Randomized, placebo-controlled, double-blind clinical trial.",
+    "methods": "In this randomized, double-blind pilot trial, we assigned elderly healthy volunteers without diabetes and no previous history of stroke to receive a single dose of subcutaneous exenatide (5 μg) or placebo. Primary outcome was immediate changes over time in blood flow velocity of the middle cerebral arteries (VMCA) assessed by repeated transcranial Doppler measurements. Secondary outcomes were changes in peripheral arterial function with finger plethysmography, ankle-brachial index (ABI), and inflammatory- and endothelial-specific biomarkers.",
+    "results": "Healthy volunteers (13 women and 17 men) were included: (mean ± standard deviation) age: 62 ± 8 years; body weight: 79.6 ± 12.7 kg; VMCA: 65.3 ± 10.7 cm/s; fasting plasma glucose: 5.5 ± 0.5 mmol/L; HbA1c: 33.9 ± 4.1 mmol/mol (5.3 ± 0.38%). No differences between exenatide and placebo group were seen regarding VMCA (p = 0.058), systolic ABI (p = 0.71), plethysmography (p = 0.45), tumor necrosis factor (p = 0.33), interleukin-6 (p = 0.11), interleukin-1β (p = 0.34), vascular cell adhesion molecule 1 (p = 0.73), intercellular adhesion molecule 1 (p = 0.74), or E-selectin (p = 0.31). No severe adverse events were observed.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "d89218094ee15e32d2dc9e75e644a432",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Association between different GLP-1 receptor agonists and gastrointestinal adverse reactions: A real-world disproportionality study based on FDA adverse event reporting system database.",
+    "methods": "Disproportionality analysis was used to evaluate the association between GLP-1 RAs and gastrointestinal adverse events. Data were extracted from the US FDA Adverse Event Reporting System (FAERS) database between January 2018 and September 2022. Clinical characteristics, the time-to-onset, and the severe proportion of GLP-1 RAs-associated gastrointestinal AEs were further analyzed.",
+    "results": "A total of 21,281 reports of gastrointestinal toxicity were analyzed out of 81,752 adverse event reports, and the median age of the included patients was 62 (interquartile range [IQR] 54-70) years old. Overall GLP-1 RAs were associated with increased risk of gastrointestinal system disorders (ROR, 1.46; 95% CI, 1.44-1.49), which were further attributed to liraglutide (ROR, 2.39; 95% CI, 2.28-2.51), dulaglutide (ROR, 1.39; 95% CI, 1.36-1.42), and semaglutide (ROR, 3.00; 95% CI, 2.89-3.11). Adverse events uncovered in the labels included gastroesophageal reflux disease, gastritis, bezoar, breath odor, intra-abdominal hematoma, etc. Furthermore, it was observed that semaglutide had the greatest risk of nausea (ROR, 7.41; 95% CI, 7.10-7.74), diarrhea (ROR, 3.55; 95% CI, 3.35-3.77), vomiting (ROR, 6.67; 95% CI, 6.32-7.05), and constipation (ROR, 6.17; 95% CI, 5.72-6.66); liraglutide had the greatest risk of abdominal pain upper (ROR, 4.63; 95% CI, 4.12-5.21) and pancreatitis (ROR, 32.67; 95% CI, 29.44-36.25). Most gastrointestinal AEs tended to occur within one month. Liraglutide had the highest severe rate of gastrointestinal AEs (23.31%), while dulaglutide had the lowest, with a severe rate of 12.29%.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "d87c2decd97b31f3aee8fbc6602213a4",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jan",
+    "title": "Longitudinal assessment of the quality of life and patterns of antidiabetic medication use in patients with type 2 diabetes, Saudi Arabia perspective, DISCOVER study.",
+    "methods": "This study is a part of the prospective, longitudinal multinational DISCOVER study conducted in 38 countries including Saudi Arabia, a country facing an epidemic of type 2 diabetes, recruited 519 adult patients with type 2 diabetes with a mean age of 52.4 ± 11 years, where, they were followed up for three years period, where 477 patients completed the follow-up period. The clinical, biochemical, and patient lifestyle data were assessed periodically during the study period. DISCOVER study is registered with ClinicalTrials.gov identifiers: NCT02322762.",
+    "results": "The most frequently used antidiabetic medications (ADMs) initially and during the follow-up were biguanides (metformin) and sulfonylureas (gliclazide, glibenclamide, glimepiride, glipizide, and glyclopyramide). Insulin (premix Insulin, basal insulin, and basal/bolus insulin) and dipeptidyl peptidase-4 (DPP-4) inhibitors (sitagliptin, vildagliptin, saxagliptin, and linagliptin) were the most frequent second and alternative of therapy. Other medications namely thiazolidinediones (TZds) (pioglitazone and rosiglitazone), incretins (exenatide and liraglutide), and Sodium-glucose co-transporter-2 (SGLT-2) inhibitors (canagliflozin) were used at a lesser rate. Drug availability, efficacy, and safety were the main determinants for choosing antidiabetic medications. The physical component score of the QOL had shown a significant decrease, while the mental component score has demonstrated an increase in QOL using SF36v2 Survey.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "db05144c2617c7909ee4b8f298b9a427",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "A Health Technology Assessment Based on Chinese Guidelines: Glucagon-Like Peptide-1 Receptor Agonist in the Treatment of Type 2 Diabetes Complicated with Cardiovascular Disease.",
+    "methods": "We consult the drug instructions, clinical treatment guidelines and search relevant documents in databases such as China national knowledge infrastructure, Wanfang, PubMed, and government websites such as National Medical Products Administration, Food and Drug Administration, European Medicines Agency, and Pharmaceuticals and Medical Devices Agency to collect and sort out the relevant information of the indications, pharmacological effects, guideline recommendations, drug prices and other information of glucagon-like peptide-1 receptor agonists, using a percentile system systematically evaluate the five dimensions of glucagon-like peptide-1 receptor agonists in terms of pharmaceutical properties, efficacy, safety, economy, and other attributes.",
+    "results": "The final scores of the evaluation results from high to low are semaglutide (71.00 points), dulaglutide (68.75 points), liraglutide (67.50 points), exenatide (67.00 points), lixisenatide (63.50 points), polyethylene glycol loxenatide (58.00 points) and benaglutide (49.00 points).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "5050c90a631ea362948fcc960d2d7b1d",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Sep",
+    "title": "Comparison of weight loss and adverse events of obesity drugs in children and adolescents: a systematic review and meta-analysis.",
+    "methods": null,
+    "results": "Of 2102 relevant articles retrieved, 21 RCTs were included in the study. Compared to other drugs, liraglutide reduced BMI the most in children with obesity. However, it was most associated with drug withdrawal due to adverse events while topiramate was least.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9ce5bac3df7c2bd7c5690c528fdc8591",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Comparative efficacy and safety of glucose-lowering drugs in children and adolescents with type 2 diabetes: A systematic review and network meta-analysis.",
+    "methods": "Searches were performed in PubMed, Medline, Ovid, Cochrane Controlled Register of Trials (CENTRAL), and ClinicalTrials.gov that reported the efficacy and safety of drugs for children and adolescents with type 2 diabetes. Pooled effects were calculated by frequentist fixed effects network meta-analyses and additive network meta-analyses.",
+    "results": "A total of 12 trials assessing eight glucose-lowering drugs were included, which compose of seven trials with monotherapy and five trials with combination therapies. Network meta-analysis results showed compared to placebo, saxagliptin+metformin (mean difference (MD) -1.91% [-2.85%, -0.97%]), liraglutide+metformin (MD -1.45% [-1.65%, -1.26%]), and liraglutide (MD -0.90% [-1.35%, -0.45%]) were the top 3 drugs that significantly reduced hemoglobin A1c (HbA1c). Sitagliptin+metformin, dapagliflozin, exenatide-2mcg, linagliptin-5mg, metformin, exenatide-5/10mcg, glimepiride, and sitagliptin also showed significant reduction in HbA1c. There were no significant differences between treatments in the incidence of adverse events, except that liraglutide+metformin had significant adverse effect such as abdominal pain. In addition, dapagliflozin, sitagliptin+metformin, and saxagliptin+metformin showed better efficacy compared with FDA-approved drugs.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f9c5ca2d9c528d5ce5099054ff8b6740",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Aug",
+    "title": "The efficacy and safety of oral semaglutide for glycaemic management in adults with type 2 diabetes compared to subcutaneous semaglutide, placebo, and other GLP-1 RA comparators: A systematic review and network meta-analysis.",
+    "methods": "Randomised controlled trials of subcutaneous and oral semaglutide for glycaemic control in adults with T2D were selected from the Cochrane Central Register of Controlled Trials and PubMed. Mean differences (MDs) and risk ratios with 95% confidence intervals (CIs) were used to synthesise the results, and oral and subcutaneous semaglutide formulations were indirectly compared using mixed treatment comparisons.",
+    "results": "Twelve studies were included in this review (6840 participants). Oral semaglutide (14.0 mg) significantly reduced HbA1c (MD, -1.30% [95%CI: -1.44, -1.16], P < 0.05) and body weight (MD, -3.17 kg [95%CI: -3.89, -2.45], P < 0.05) compared to placebo (MD, HbA1c: -0.32% [95%CI: -0.49, -0.15], P < 0.05; MD body weight: -2.56 kg [95%CI: -3.41, -1.71], P < 0.05), liraglutide (1.2 mg), exenatide ER (2.0 mg), and dulaglutide (1.5 mg). Oral semaglutide was slightly less effective than subcutaneous semaglutide in reducing HbA1c levels (MD: -0.26% [95%CI: -0.44, -0.07], P < 0.05) and body weight (MD: -1.08 kg [95%CI: -2.04, -0.12], P < 0.05). Oral semaglutide increased the incidence of adverse events (nausea, diarrhoea, dyspepsia, and vomiting) compared to placebo, liraglutide (1.2 mg), exenatide (ER, 2.0 mg), and dulaglutide 1.5 mg but not compared to subcutaneous semaglutide.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "392fdc4fac5f49377ad47ec3251b437b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Nov-03",
+    "title": "Short-term combined treatment with exenatide and metformin for overweight/obese women with polycystic ovary syndrome.",
+    "methods": "Fifty overweight/obese women with PCOS diagnosed via the Rotterdam criteria were randomized to one of two treatment groups: MET (500 mg three times a day [TID]) or combination treatment (COM) (MET 500 mg TID, exenatide 2 mg QW) for 12 weeks. The primary outcomes were anthropometric changes associated with obesity, and the secondary outcomes included changes in reproductive hormone levels, glucose and lipid metabolism, and C-reactive protein.",
+    "results": "Forty (80%) patients completed the study. COM therapy was superior to MET monotherapy in reducing weight (P = 0.045), body mass index (BMI) (P = 0.041), and waist circumference (P = 0.023). Patients in the COM group on an average lost 3.8 ± 2.4 kg compared with 2.1 ± 3.0 kg in the MET group. In the COM group, BMI and waist circumference decreased by 1.4 ± 0.87 kg/m2 and 4.63 ± 4.42 cm compared with 0.77 ± 1.17 kg/m2 and 1.72 ± 3.07 cm in the MET group, respectively. Moreover, levels of fasting glucose, oral glucose tolerance test (OGTT) 2-h glucose, and OGTT 2-h insulin were significantly lower with COM therapy than with MET (P < 0.050). Mild and moderate gastrointestinal reactions were the most common adverse events in both groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f4e5ae3a6aa7afafa0ef3d6f21645f58",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Jul",
+    "title": "Comparative efficacy and safety of 8 GLP-1RAs in patients with type 2 diabetes: A network meta-analysis.",
+    "methods": "We searched PubMed, EMBASE, and CENTRAL from database inception to April 13, 2021. The outcomes were Δ HbA1c, Δ weight, adverse events [AE] withdrawals, and incidence of hypoglycemia. We estimated standardized mean differences [SMD] and summary odds ratios (ORs) using frequentist network meta-analysis with random effects.",
+    "results": "Retrieved trials included 11,126 patients, the overall mean age was 56.7 ± 10.36 years old. In terms of efficacy, all GLP-1RAs were more effective than the placebo except albiglutide-30 mg QW (Δ weight: SMD -0.26 kg [95 %CI: -1.10, 0.59 kg). When it came to safety, oral semaglutide-14mgQD, semaglutide-1mgQW, Liraglutide-1.8mgQD, and Exenatide-2ugBID were associated with an increased risk of AE withdrawals. And GLP-1RAs were associated with a higher incidence of hypoglycemia than placebo except albiglutide-30mgQW and orally administered semaglutide-14mgQD.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "7418e2a4f89c8d6e8651e32e1bb62daf",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Sep",
+    "title": "Safety and Efficacy of Glucagon-Like Peptide-1 Receptor Agonists in Children and Adolescents with Obesity: A Meta-Analysis.",
+    "methods": null,
+    "results": "Nine studies involving 574 participants were identified, of which 3 involved exenatide and 6 involved liraglutide. GLP-1 receptor agonists use caused a modest reduction in body weight (mean difference [MD] -1.50 [-2.50,-0.50] kg, I2 64%), BMI (MD -1.24 [-1.71,-0.77] kg/m2, I2 0%), and BMI z score (MD -0.14 [-0.23,-0.06], I2 43%). Glycemic control was improved in children with proven insulin resistance (glycated hemoglobin A1c MD -1.05 [-1.93,-0.18] %, I2 76%). Although no lipid profile improvements were noted, a modest decrease in systolic blood pressure was detected (MD -2.30 [-4.11,-0.49] mm Hg; I2 0%). Finally, analysis of gastrointestinal-related treatment-emergent adverse events revealed an increased risk of nausea (risk ratio 2.11 [1.44, 3.09]; I2 0%), without significant increases in other gastrointestinal symptoms.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "143c67d7fa01821901287ef3a5f3c72a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Aug",
+    "title": "Exenatide Twice Daily Plus Glargine Versus Aspart 70/30 Twice Daily in Patients With Type 2 Diabetes With Inadequate Glycemic Control on Premixed Human Insulin and Metformin.",
+    "methods": "After a 12-week premixed human insulin 70/30 dosage optimization period, 200 patients with HbA1c of 7.0% to 10.0% were randomized into 24-week treatment groups with exenatide twice a day plus glargine or with aspart 70/30 twice a day.",
+    "results": "After 24 weeks, the patients receiving exenatide plus glargine (n = 90) had improved HbA1c control compared with those receiving aspart 70/30 (n = 90) (least squares mean change: ‒0.59 vs ‒0.13%; difference [95% CI]: ‒0.45 [‒0.74 to ‒0.17]) in the full analysis set population. Weight decreased 3.5 kg with exenatide and decreased 0.4 kg with aspart 70/30 (P < .001). The insulin dose was reduced 10.7 units/day (95% CI, ‒12.2 to ‒9.2 units; P < .001) with exenatide, and increased 9.7 units/day (95% CI, 8.2 to 11.2 units; P < .001) with aspart 70/30. The most common adverse events were gastrointestinal adverse effects in the exenatide group (nausea [21%], vomiting [16%], diarrhea [13%]). The incidence of hypoglycemia was similar in 2 groups (27% for exenatide and 38% for aspart 70/30; P = .1).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "21fefd815838ea9f7d865fd429ca8283",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-May",
+    "title": "Once-Daily Oral Semaglutide Versus Injectable GLP-1 RAs in People with Type 2 Diabetes Inadequately Controlled on Basal Insulin: Systematic Review and Network Meta-analysis.",
+    "methods": "A systematic literature review (SLR) was performed to identify randomised controlled trials of GLP-1 RAs in this population. Data at 26 ± 4 weeks were extracted for efficacy and safety outcomes feasible for the NMA: change from baseline in glycated haemoglobin (HbA1c), weight and blood pressure; HbA1c target levels (< 7.0% and ≤ 6.5%); composite endpoint; incidence of nausea, vomiting or diarrhoea. Comparators of interest were all licensed doses of dulaglutide, exenatide, liraglutide, lixisenatide and once-weekly injectable semaglutide.",
+    "results": "The NMA included seven trials. Once-daily oral semaglutide 14 mg was associated with significantly greater HbA1c reductions vs. most comparators (treatment differences: - 0.42 to - 1.32%); differences vs. once-weekly injectable semaglutide (0.5 mg and 1 mg doses) were not statistically significant. Once-daily oral semaglutide 14 mg was associated with significantly greater weight reductions vs. exenatide 2 mg and lixisenatide 20 μg (- 2.21 and - 2.39 kg respectively); non-statistically significant weight reductions in favour of once-daily oral semaglutide 14 mg were observed vs. all other comparators except once-weekly injectable semaglutide 1 mg. Similar trends were observed for the proportion of subjects achieving HbA1c < 7.0% and ≤ 6.5% and the composite endpoint. Once-daily oral semaglutide 14 mg was associated with similar odds of experiencing nausea, vomiting or diarrhoea vs. all comparators.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "3b7fba0c4d7d400029edb5e2d77a9866",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-May",
+    "title": "Efficacy and safety of PEGylated exenatide injection (PB-119) in treatment-naive type 2 diabetes mellitus patients: a Phase II randomised, double-blind, parallel, placebo-controlled study.",
+    "methods": "In this Phase II, randomised, placebo-controlled, double-blind study, we randomly assigned treatment-naive Chinese patients with type 2 diabetes in a 1:1:1:1 ratio to receive subcutaneous placebo or one of three subcutaneous doses of PB-119 (75, 150, and 200 μg) for 12 weeks. The primary endpoint was the change in HbA1c from baseline to week 12, and other endpoints were fasting plasma glucose, 2 h postprandial glucose (PPG), and proportion of patients with HbA1c < 53 mmol/mol (<7.0%) and ≤48 mmol/mol (≤6.5%) at 2, 4, 8 and 12 weeks of treatment. Safety was assessed in all patients who received at least one dose of study drug.",
+    "results": "We randomly assigned 251 patients to one of the four treatment groups (n = 62 in placebo and 63 each in PB-119 75 μg, 150 μg and 200 μg groups). At the end of 12 weeks, mean differences in HbA1c in the treatment groups were -7.76 mmol/mol (95% CI -9.23, -4.63, p < 0.001) (-0.72%, 95% CI -1.01, -0.43), -12.89 mmol/mol (95% CI -16.05, -9.72, p < 0.001) (-1.18%, 95% CI -1.47, -0.89) and -11.14 mmol/mol (95% CI -14.19, -7.97, p <0 .001) (-1.02%, 95% CI -1.30, -0.73) in the 75 μg, 150 μg and 200 μg PB-119 groups, respectively, compared with that in the placebo group after adjusting for baseline HbA1c. Similar results were also observed for other efficacy endpoints across different time points. There was no incidence of treatment-emergent serious adverse event, severe hypoglycaemia or death.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "45d81553a85786a553fec7b39c3d93fa",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Apr",
+    "title": "Glucagon-Like Peptide 1 Receptor Agonist (GLP1RA) Exposure and Outcomes in Type 2 Diabetes: A Systematic Review of Population-Based Observational Studies.",
+    "methods": null,
+    "results": "A total of 22 studies were identified (including 200,148 participants and 396,457 person-years of follow-up) exploring exposure to GLP1RA class, exenatide and liraglutide (the only individual drugs with treatment effect estimates identified) on mortality, cardiovascular disease (CVD), acute pancreatitis (AP), pancreatic cancer (PC), thyroid cancer (TC), acute renal failure (ARF), diabetic retinopathy (DR), breast cancer (BC) and hypoglycaemia. For CV and mortality outcomes, studies confirmed the associated safety of these drugs. For liraglutide, point estimate (PE) range (PER) major adverse cardiovascular events (MACE) (0.53-0.95) and PER heart failure (0.34-1.22) were similar in direction to the beneficial effect observed in RCTs for MACE but varied widely for heart failure. For safety outcomes, exposure was not associated with AP (PER 0.50-1.17), PC (PER 0.40-1.54), BC (PER 0.90-1.51) or hypoglycaemia (PER 0.59-1.06). Only one study was identified exploring each of TC (no evidence of association, hazard ratio (HR) 1.46, 95% confidence interval (CI) 0.98-2.19), renal outcomes (no evidence of association, HR 0.77, 95% CI 0.42-1.41) and DR (no evidence of association, HR 0.67, 95% CI 0.51-0.90).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a7b16d37a1ffaffe4d153d9a81be40cf",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Mar",
+    "title": "Efficacy and Safety of Glucagon-Like Peptide 1 Receptor Agonists for the Treatment of Type 2 Diabetes Mellitus: A Network Meta-analysis.",
+    "methods": "MEDLINE, Embase, and Cochrane Library Central Register of Controlled Trials were searched from inception through June 30, 2019. Randomized clinical trials comparing one or more of six eligible GLP-1RAs with placebo or another eligible GLP-1RA were identified. We further screened studies that had 24-30 week follow-up periods and target endpoints. The primary outcome was change in hemoglobin A1c (HbA1c). Secondary outcomes included additional glycemic control indicators, cardiometabolic measures, and adverse events. Frequentist random-effect network meta-analyses were conducted for effect comparison.",
+    "results": "The NMA synthesized evidence from 54 studies covering 23,209 patients and 18 GLP-1RA regimens. All included GLP-1RA regimens except liraglutide 0.3 mg once weekly (QW) significantly lowered HbA1c after 24-30 weeks compared with placebo. The pairwise comparison of HbA1c-lowering effect showed that dulaglutide 0.75 mg QW, dulaglutide 1.5 mg QW, exenatide 2 mg QW, liraglutide 0.9 mg QW, liraglutide 1.2 mg QW, liraglutide 1.8 mg QW, loxenatide 100 µg QW, and loxenatide 200 µg QW were not significantly outperformed by any of the other regimens. The effects on blood pressure, weight, and lipids were relatively mixed. The GLP-1RA regimens had comparable safety profiles with regard to hypoglycemia and adverse events.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "0511829b39867c8d97323de72e29fcb7",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Mar",
+    "title": "Safety, Pharmacokinetics and Pharmacodynamics of Multiple Escalating Doses of PEGylated Exenatide (PB-119) in Healthy Volunteers.",
+    "methods": "Twelve healthy young adult subjects in each group received once-weekly subcutaneous injections of 165 μg, 330 μg, and 660 μg PEGylated exenatide for 6 weeks. Plasma drug concentration was determined in venous blood collected across selected time points. Safety and tolerability were evaluated by monitoring adverse events, laboratory parameters, and electrocardiogram. Blood glucose, insulin,  glucagon and C peptide were monitored at different time points to evaluate the pharmacodynamics of PEGylated exenatide.",
+    "results": "A total of 11, 10, and 12 subjects completed the study in 165 µg, 330 µg, and 660 µg dose groups, respectively. After 6 consecutive weeks of administration, the t1/2 in the 165 μg, 330 μg, and 660 µg dose groups was 55.67 ± 11.03 h, 56.99 ± 21.37 h, and 54.81 ± 13.87 h, respectively. The Cavg was 4.22 ± 0.78 ng/ml, 6.03 ± 1.43 ng/ml, and 10.50 ± 3.06 ng/ml, respectively. AUCss was 708.59 ± 131.87 h•ng/ml, 1012.63 ± 240.79 h•ng/ml, and 1763.81 ± 514.50 h•ng/ml, respectively. The accumulation index was 1.15 ± 0.07, 1.17 ± 0.11, and 1.14 ± 0.07. The CLss/F was 241.25 ± 51.13 ml/h, 341.53 ± 73.62 ml/h, and 450.06 ± 313.76 ml/h, respectively. A total of 10 of 36 (27.78%) subjects in the three dose groups developed specific antibodies after consecutive subcutaneous injections of PEGylated exenatide. The Cavg and Cmax were higher than those of antibody-negative subjects. Furthermore, in antibody-positive subjects, CLss/F, t1/2, AUCτ, accumulation index, MRT(0-inf) and other parameters were lower than those of antibody-negative subjects. In the 165 μg dose group, two subjects (16.67%) experienced 4 adverse events. In the 330 μg dose group, no subjects reported adverse events. In the 660 μg dose group, 8 subjects (66.67%) reported 16 adverse events, which were mostly gastrointestinal. There were no significant changes in the pharmacodynamic parameters except the glucagon level at day 36 in the 660 µg dose group, the 2h postprandial insulin and C peptide levels at day 36 and day 50 in the 165 μg dose group compared with baseline (- 1 day).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "7f57b21585edbc0df33f0d09ce12d7ff",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Mar",
+    "title": "Comparative efficacy and safety of glucose-lowering drugs as adjunctive therapy for adults with type 1 diabetes: A systematic review and network meta-analysis.",
+    "methods": "We searched Medline, Embase and the Cochrane Central Register of Controlled Trials up to 24 January 2020 for randomized controlled trials. Our primary outcome was change in HbA1c. We additionally assessed eight efficacy and six safety secondary endpoints. We performed random effects frequentist network meta-analysis to estimate mean differences (MDs) and odds ratios (ORs), alongside 95% confidence intervals (CIs). We assessed risk of bias and evaluated confidence in the evidence for the primary outcome.",
+    "results": "We included 58 trials comprising 13 216 participants. Overall, sodium-glucose co-transporter (SGLT) inhibitors, liraglutide, glibenclamide, acarbose and metformin reduced HbA1c compared with placebo (MDs ranging from -0.46% [95% CI -0.64% to -0.29%] for empagliflozin to -0.20% [-0.35% to -0.06%] for metformin). SGLT inhibitors, exenatide daily, liraglutide and metformin reduced body weight and total daily insulin dose, while liraglutide and SGLT inhibitors reduced blood pressure. Diabetic ketoacidosis and genital infections were more frequent with SGLT inhibitors, while exenatide, liraglutide, pramlintide and metformin increased the incidence of nausea. No drug increased the incidence of severe hypoglycaemia. Confidence in evidence was mainly moderate to very low.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "279aca38b01bb3b8d60a5633e8ef30d7",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Feb",
+    "title": "Efficacy and safety of exenatide as add-on therapy for patients with type 2 diabetes with an intensive insulin regimen: A randomized double-blind trial.",
+    "methods": null,
+    "results": "A total of 46 patients with T2D and elevated HbA1c were randomized (42% of the planned sample size): exenatide (n = 28) and placebo (n = 18). CSII treatment was used by 75% and 89% of patients of the exenatide and placebo groups, respectively. At 6 months, the change in HbA1c was -0.62% ± 0.94% and 0.08% ± 0.81% in the exenatide and placebo groups, respectively (difference, -0.70%; 95% CI [-1.24%; -0.15%], P = .014); body weight and body mass index decreased in the exenatide group (-2.55 ± 3.25 kg and -1.00 ± 1.31 kg/m2 ) and increased in the placebo group (1.29 ± 2.82 kg and 0.46 ± 1.16 kg/m2 ) (observed difference, -3.85 and -1.45, respectively, both P < .001); the postdinner capillary blood glucose value was lower in the exenatide group compared with the placebo group (162.4 ± 80.5 vs. 259.1 ± 94.4 mg/dL, respectively; observed difference, -96.7, P < .01). Hypoglycaemic risk, quality of life and overall safety were not different between the groups, apart from the expected occurrence of digestive effects in the exenatide group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "63da418e34163ec66dffed55ea401e3b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020-Oct",
+    "title": "Further improvement in glycemic control after switching from exenatide two times per day to exenatide once-weekly autoinjected suspension in patients with type 2 diabetes: 52-week results from the DURATION-NEO-1 study.",
+    "methods": null,
+    "results": "In total, 315 patients (mean baseline A1C of 8.5%) completed the initial 28 weeks of randomized treatment with exenatide QWS-AI (n=197) or exenatide two times per day (n=118) and were included in the 24-week extension (mean A1C of 7.0% and 7.3%, respectively, at week 28). From weeks 28-52, patients who switched from exenatide two times per day to exenatide QWS-AI had additional A1C reductions of approximately 0.5% (mean A1C change from baseline of -1.4% at week 52) and further reductions from baseline in FPG. Patients who continued exenatide QWS-AI treatment for 52 weeks showed clinically relevant A1C reductions (mean A1C change from baseline of -1.3% at week 52). Body-weight reductions achieved through week 28 were sustained at week 52 in both groups. There were no unexpected safety concerns or changes in the safety profile among patients who switched from exenatide two times per day to exenatide QWS-AI or those who continued exenatide QWS-AI treatment for 52 weeks.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "be12ba53c13a34502934feb3d1c7395a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Feb",
+    "title": "A phase 3 randomized clinical trial using a once-weekly glucagon-like peptide-1 receptor agonist in adolescents and young adults with hypothalamic obesity.",
+    "methods": null,
+    "results": "Forty-two participants were randomized to ExQW (n = 23) or placebo (n = 19). Participants were 5 ± 2 years (mean ± SD) postdiagnosis and development of HO (BMI 37.3 ± 7.1 kg/m2 ). In intention-to-treat analysis, the effect of 36-week ExQW vs. placebo on % Δ BMI was not significant (estimated treatment difference -1.7 ± 1.8%, 95% CI -4.1 to 0.6%, P = .40); however, total body fat mass was reduced (estimated treatment difference -3.1 ± 1.4 kg, 95% CI -5.7 to -0.4 kg, P = .02). There was a significant reduction in waist circumference (estimated effect of treatment -3.5 [95% CI -5.5 to -1.6] cm, P = .004). All patients treated with placebo increased % of adipose tissue, while 50% treated with ExQW had reductions (P < .001). Mean HbA1c, glucose tolerance and serum lipids did not change significantly with therapy. ExQW was well tolerated. The most frequent adverse events were transient gastrointestinal disturbances (ExQW vs. placebo: nausea 6/23 vs. 3/18, vomiting 4/23 vs. 4/18 and diarrhoea 7/23 vs. 3/18).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "6566bd4e8213658ec06eac6ab2f35d56",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020",
+    "title": "Exenatide and Renal Outcomes in Patients with Type 2 Diabetes and Diabetic Kidney Disease.",
+    "methods": "We performed a randomized parallel study encompassing 4 general hospitals. T2DM patients with an estimated glomerular filtration rate (eGFR) ≥30 mL/min/1.73 m2 and macroalbuminuria, defined as 24-h urinary albumin excretion rate (UAER) >0.3 g/24 h were randomized 1:1 to receive exenatide twice daily plus insulin glargine (intervention group) or insulin lispro plus glargine (control group) for 24 weeks. The primary outcome was the UAER percentage change from the baseline after 24 weeks of intervention. The rates of hypoglycemia, adverse events (AEs), and change in eGFR during the follow-up were measured as safety outcomes.",
+    "results": "Between March 2016 and April 2019, 92 patients were randomized and took at least 1 dose of the study drug. The mean age of the participants was 56 years. At baseline, the median UAER was 1,512.0 mg/24 h and mean eGFR was 70.4 mL/min/1.73 m2. After 24 weeks of treatment, the UAER percentage change was significantly lower in the intervention group than in the control group (p = 0.0255). Moreover, the body weight declined by 1.3 kg in the intervention group (the difference between the 2 groups was 2.7 kg, p = 0.0001). Compared to the control group, a lower frequency of hypoglycemia and more gastrointestinal AEs were observed in the intervention group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "117bbeda0e5d232b9151c8de2fa2020b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020-Sep",
+    "title": "Managing the multifaceted nature of type 2 diabetes using once-weekly injectable GLP-1 receptor agonist therapy.",
+    "methods": "This is a narrative review of the published literature regarding the use of injectable GLP-1 RAs in managing health complications in people with T2D.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c7e342272a616a70cb942b6587f5bc94",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020-Sep",
+    "title": "Safety and tolerability of once-weekly GLP-1 receptor agonists in type 2 diabetes.",
+    "methods": "This is a narrative review comparing the safety and tolerability of the three QW GLP-1 RAs, using data from Phase 3 clinical trials. Extracted safety data included gastrointestinal (GI) adverse events (AEs), hypoglycaemia, injection-site reactions, pancreatitis, neoplasms, gallbladder events, and diabetic retinopathy (DR) and/or its complications (DRCs).",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "23d7d1f78898931f0dba78f3d3423bac",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020-Oct",
+    "title": "Efficacy and Safety Over 2 Years of Exenatide Plus Dapagliflozin in the DURATION-8 Study: A Multicenter, Double-Blind, Phase 3, Randomized Controlled Trial.",
+    "methods": null,
+    "results": "At week 104, 431 (62.0%) patients completed treatment. The adjusted least squares mean change (SE) from baseline to week 104 in HbA1c was greater with exenatide QW plus dapagliflozin (-1.70% [0.11]) versus exenatide QW plus placebo (-1.29% [0.12]; P = 0.007) and dapagliflozin plus placebo (-1.06% [0.12]; P < 0.001). Clinically relevant changes in FPG, 2-h PPG, weight, and SBP were also observed with exenatide QW plus dapagliflozin. There were no unexpected safety findings, and exenatide QW plus dapagliflozin was well tolerated, with no episodes of major hypoglycemia.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f1340ec800660f49c9885b90fec86093",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020-Sep",
+    "title": "Exenatide once weekly decreases urinary albumin excretion in patients with type 2 diabetes and elevated albuminuria: Pooled analysis of randomized active controlled clinical trials.",
+    "methods": "Six randomized double-blind and open-label phase III studies were pooled in a post hoc, exploratory analysis to evaluate the efficacy and safety of EQW versus non-glucagon-like peptide-1 receptor agonist comparators in patients with type 2 diabetes and baseline uACR ≥30 mg/g. Treatment groups were EQW versus all comparators pooled. Efficacy outcomes were percent change from baseline to week 26/28 in uACR and absolute change in glycated haemoglobin (HbA1c), systolic blood pressure (SBP), body weight and estimated glomerular filtration rate (eGFR).",
+    "results": "Baseline characteristics were generally similar between the two treatment groups (EQW: N = 194, all comparators: N = 274). Relative to the comparator group, EQW changed albuminuria by -26.2% (95% confidence interval [CI] -39.5 to -10). Similar improvements were observed with EQW versus oral glucose-lowering drugs (-29.6% [95% CI -47.6 to -5.3) or insulin (-23.8% [95% CI -41.8 to -0.2]). The effect of EQW on uACR was independent of baseline renin-angiotensin system inhibitor usage. Adjusted mean decreases in HbA1c, SBP and body weight were more pronounced in the EQW versus the comparator group. Adjustment for changes in HbA1c, eGFR and SBP did not substantially affect the uACR-lowering effect of EQW. When also adjusting for changes in body weight, the uACR-lowering effect was reduced to (-13.0% [95% CI -29.9 to 7.8]).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "4e3cf313bc77fda00b210387f9c55114",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020-Jul",
+    "title": "Safety and Efficacy of Exenatide Once Weekly in Participants with Type 2 Diabetes and Stage 2/3 Chronic Kidney Disease.",
+    "methods": "Data on participants with type 2 diabetes and baseline CKD3 or CKD2 from eight phase 3, double-blind or open-label studies with 26- or 28-week controlled treatment periods were pooled. Participants received EQW or a placebo/non-glucagon-like peptide-1 receptor agonist comparator (sitagliptin, metformin, pioglitazone, dapagliflozin and insulin).",
+    "results": "Participants with baseline CKD3 (N = 182) or CKD2 (N = 772) receiving EQW differed in a number of baseline characteristics, such as age < 65 years, race, mean body mass index and mean type 2 diabetes duration, whereas mean blood pressure and glycated haemoglobin (HbA1c) were similar. Mean reductions in HbA1c, body weight and systolic blood pressure from baseline to week 26/28 in participants receiving EQW were similar between the CKD subgroups. The proportions of participants (CKD3 and CKD2) with any adverse event (AE) were 81% and 72%, respectively, for EQW and 74% and 68%, respectively, for all comparators; those for serious AEs were 2.7% and 3.4%, respectively, for EQW and 6% and 5%, respectively, for all comparators. Gastrointestinal AE rates were higher in the EQW CKD3 subgroup (42.2% of participants) than in the CKD2 (32.8%) subgroup, although rates for nausea and vomiting were similar. There were no dehydration events; one participant in each treatment group had a serious AE of acute kidney injury (EQW with CKD3, n = 1; pioglitazone with CKD2, n = 1).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "393744c35f0e9d3652ee966ca5a52cee",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020-Aug",
+    "title": "Efficacy and safety of generic exenatide injection in Chinese patients with type 2 diabetes: a multicenter, randomized, controlled, non-inferiority trial.",
+    "methods": "A multicenter, randomized, controlled, non-inferiority trial was performed. A total of 240 patients with T2DM and glycated hemoglobin (HbA1c) ≥ 7% (53 mmol/mol) to ≤ 9.0% (75 mmol/mol) on monotherapy or combination therapy of metformin and insulin secretagogues for at least 3 months were randomized into generic exenatide or branded exenatide groups with a 1:1 ratio for 16 weeks of treatment. The primary endpoint was the change in HbA1c levels from baseline at week 16, with a non-inferiority margin of - 0.35% (- 3.83 mmol/mol) (lower bound of one-sided 95% confidence interval (CI) > - 0.35% (- 3.83 mmol/mol)). Secondary endpoints included the proportion of participants achieving HbA1c < 7% (53 mmol/mol), the changes in fasting plasma glucose (FPG), 2-h postprandial glucose (2hPG) following a standard meal, 7-point self-monitoring blood glucose (SMBG) profiles, body weight change from baseline at week 16 and the change in HbA1c levels from baseline at week 8. Safety issues were also evaluated.",
+    "results": "After 16 weeks of treatment, HbA1c levels decreased significantly from baseline in the two groups, with a reduction of - 1.10% ± 1.31% (- 12.0 mmol/mol ± 14.3 mmol/mol) in the generic exenatide group and - 1.08% ± 1.11% (- 11.8 mmol/mol ± 12.1 mmol/mol) in the branded exenatide group (both P < 0.001). The least-squares mean difference of HbA1c reduction between the two groups was - 0.03% (- 0.33 mmol/mol), with a lower one-sided 95% CI limit of - 0.27% (- 2.95 mmol/mol), which was higher than the prespecified non-inferiority margin of - 0.35% (- 3.83 mmol/mol). Moreover, there were no significant differences in the proportion of participants achieving HbA1c < 7% (53 mmol/mol) and the changes in FPG, 2hPG, 7-point SMBG profiles and body weight at week 16 and the change in HbA1c levels from baseline at week 8 (all P > 0.05) between the two groups. The incidence of adverse events, including the incidence of hypoglycemia (18.3% and 17.5%, respectively), was similar for the generic and branded exenatide groups (P > 0.05).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "e393a95ee187273b744aa90ddce7349e",
+    "query_date": "22_02_2025"
+  }
+]

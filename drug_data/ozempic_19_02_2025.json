@@ -1,0 +1,102 @@
+[
+  {
+    "pub_date": "2025-Feb-13",
+    "title": "Safety profile of semaglutide versus placebo in the SELECT study: a randomized controlled trial.",
+    "methods": "Safety data focused on serious adverse events (SAEs), all adverse events (AEs) leading to permanent treatment discontinuation irrespective of seriousness, and prespecified AEs of special interest irrespective of seriousness. Tests of treatment differences were determined by two-sided p values.",
+    "results": "The proportion of patients with SAEs was lower with semaglutide versus placebo (33.4% vs. 36.4%; p < 0.001), primarily driven by cardiac disorders (11.5% vs. 13.5%; p < 0.001). The proportion of patients with AEs leading to discontinuation was higher with semaglutide versus placebo (16.6% vs. 8.2%; p < 0.001), a difference driven by gastrointestinal disorders (10.0% vs. 2.0%); however, proportions due to SAEs leading to discontinuation were similar (3.6% vs. 4.1%). Suicide/self-injury SAEs were low and balanced between groups (0.11% in both groups). Gallbladder-related disorders were more frequent with semaglutide versus placebo (2.8% vs. 2.3%; p = 0.04), mainly driven by cholelithiasis (1.4% vs. 1.1%), whereas proportions of cholecystitis were similar between groups (0.6% vs. 0.6%).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39948761",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Feb-12",
+    "title": "Otolaryngologic Side Effects of GLP-1 Receptor Agonists.",
+    "methods": "The Food and Drug Administration's Adverse Event Reporting System (FAERS) database was queried for events related to the GLP-1 RA: exenatide, liraglutide, dulaglutide, semaglutide, and tirzepatide from 1 year after their approval until the end of 2023. AEs were collected and sub-stratified according to anatomic site. Reporting odds ratios (ROR) and proportional reporting ratios (PRR) were determined for all AEs.",
+    "results": "The number of AEs reported from all drugs within this study totaled 9,746. Significant signal ratios were defined as a PRR≥2 and a lower CI ROR >1. Medullary thyroid carcinoma (MTC) and papillary thyroid carcinoma (PTC) had the highest signals and were significant in virtually all medications. This was followed by GERD which also had very high signal ratios and was significant in all drugs assessed. Semaglutide also had significant signals in anosmia, dry mouth, dysgeusia, and Bell's palsy. Liraglutide had significance in both signals in dysphonia, dysgeusia, tinnitus, and Bell's palsy. This was followed by exenatide which also included dysgeusia and hearing disability.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39936458",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Feb-05",
+    "title": "Comparison of the efficacy and safety of GLP-1 receptor agonists on cardiovascular events and risk factors: A review and network meta-analysis.",
+    "methods": "We searched PubMed, Embase, Cochrane Library and Web of Science from inception to December 15, 2024. Included studies were published randomized controlled trials (RCTs) comparing GLP-1RAs to placebo or other GLP-1RAs. Missing data were standardized, and network meta-analysis was performed using Stata 17.0. Study heterogeneity, publication bias and evidence quality were assessed using the Cochrane Risk of Bias tool and Confidence in Network Meta-Analysis (CINeMA).",
+    "results": "As of December 15, 2024, a total of 18 313 articles were retrieved. Based on the inclusion and exclusion criteria, 156 high-quality studies were included, incorporating 144 782 patients and 14 different GLP-1RAs. The network meta-analysis demonstrated low heterogeneity, ensuring the reliability of the results. Comprehensive analysis revealed the following: Efpeglenatide was the most effective in reducing major adverse cardiovascular events. Oral semaglutide shows more significant advantages in reducing all-cause mortality and cardiovascular mortality. Orforglipron excelled in glycaemic control and weight reduction. SC-Semaglutide showed the greatest efficacy in lowering both systolic blood pressure and diastolic blood pressure, Liraglutide showed the greatest efficacy in lowering total cholesterol, Noiiglutide in triglycerides and Taspoglutide in low-density lipoprotein cholesterol, but no GLP-1RAs in high-density lipoprotein cholesterol. GLP-1RAs did not significantly increase the incidence of adverse events, but Orforglipron and Taspoglutide significantly increased the incidence of gastrointestinal adverse events compared with placebo.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39910752",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Feb-04",
+    "title": "Neuropsychiatric adverse events associated with Glucagon-like peptide-1 receptor agonists: a pharmacovigilance analysis of the FDA Adverse Event Reporting System database.",
+    "methods": "We analyzed GLP-1RA adverse reaction reports using the FDA Adverse Event Reporting System database. Disproportionality analysis using reporting odds ratio (ROR) identified eight categories of neuropsychiatric AEs associated with GLP-1RAs. We conducted descriptive and time-to-onset (TTO) analyses and explored neuropsychiatric AE signals among individual GLP-1RAs for weight loss and diabetes mellitus (DM) indications.",
+    "results": "We identified 25,110 cases of GLP-1RA-related neuropsychiatric AEs. GLP-1RAs showed an association with headache (ROR 1.74, 95% confidence interval [CI] 1.65-1.84), migraine (ROR 1.28, 95%CI 1.06-1.55), and olfactory and sensory nerve abnormalities (ROR 2.44, 95%CI 1.83-3.25; ROR 1.69, 95%CI 1.54-1.85). Semaglutide showed a moderate suicide-related AEs signal in the weight loss population (ROR 2.55, 95%CI 1.97-3.31). The median TTO was 16 days (interquartile range: 3-66 days).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39901452",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-30",
+    "title": "Efficacy and safety of combination of semaglutide and basal insulin in patients with of type 2 diabetes mellitus: A systematic review and meta-analysis.",
+    "methods": "PubMed, Cochrane Library, Web of Science, China National Knowledge Infrastructure (CNKI), and China Science and Technology Journal Database (VIP) were searched to identify relevant publications. The primary outcome measure was the change in HbA1c levels. Secondary outcome measures encompassed change in body weight, fluctuations in FPG levels, occurrence of adverse events, serious adverse events, hypoglycemic episodes, and gastrointestinal reactions including nausea, vomiting, and diarrhea. Mean differences (MDs) and relative risk (RR) with confidence intervals (CI) of 95% were used to analyze the deference.",
+    "results": "7 RCTs with 2354 patients were incorporated into the study. Compared to placebo or other active treatment, the addition of semaglutide to basal insulin demonstrated significant reductions in hemoglobin A1c (HbA1c) [mean differences (MD): -1.17%, P<0.00001], body weight [MD -5.99 kg, P<0.00001], and fasting blood glucose (FPG) [MD -1.08%, P<0.00001]. No evidence indicated a higher risk of adverse events [RR 1.46, P=0.13]. However, it did result in increased rates of gastrointestinal adverse events, including nausea, vomiting and diarrhea.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39892787",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-28",
+    "title": "Association between glucagon-like peptide-1 agonists and risk of diabetic retinopathy: a disproportionality analysis using FDA adverse event reporting system data.",
+    "methods": "To evaluate the association between GLP-1 agonists and DR, a disproportionality analysis was conducted using FDA Adverse Event Reporting System (FAERS) data from Q4/2003 to Q2/2024 via OpenVigil 2.1 software. We focused on GLP-1 agonists and glucose-dependent insulinotropic polypeptide (GIP) agonist: Semaglutide, liraglutide, dulaglutide, lixisenatide, and tirzepatide, as primary suspect drugs. 'Diabetic retinopathy' was the key search term mapped to Medical Dictionary for Regulatory Activities (MedDRA) Lower-Level Terms (LLTs). We calculated Proportional Reporting Ratio (PRR) and Reporting Odds Ratio (ROR), with 95% confidence intervals (CI) and the Evans' criteria were applied to check the significant associations.",
+    "results": "Semaglutide (PRR: 19.43, 95% CI: 15.17-24.88; ROR: 19.48, 95% CI: 15.20-24.96; Chi-square: 1078.08) and dulaglutide (PRR: 9.01, 95% CI: 7.11-11.42; ROR: 9.02, 95% CI: 7.11-11.44; Chi-square: 478.31) showed a strong association with DR. Tirzepatide and liraglutide showed a weaker but significant association while lixisenatide showed no significant association.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39873334",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-19",
+    "title": "The Effects of Oral Semaglutide on Hepatic Fibrosis in Subjects with Type 2 Diabetes in Real-World Clinical Practice: A Post Hoc Analysis of the Sapporo-Oral SEMA Study.",
+    "methods": "A secondary analysis of a multicenter, retrospective, observational study investigating the efficacy and safety of oral semaglutide in Japanese subjects with type 2 diabetes in a real-world clinical setting (the Sapporo-Oral SEMA study) was conducted. Subjects in the original cohort were divided into groups as follows: subjects with suspected MASLD (alanine aminotransferase > 30 U/L) were placed in an overall group; a subpopulation from an overall group at high risk for hepatic fibrosis (fibrosis-4 (FIB-4) index ≥ 1.3 or platelet count < 200,000/µL) was placed in a high-risk group; and the remaining subjects were placed in a low-risk group. Changes in the hepatic steatosis index and FIB-4 index after oral semaglutide induction were explored using a paired t-test or the Wilcoxon signed-rank test.",
+    "results": "Overall, 169 subjects (including 131 that switched from other medications) were analyzed, and 67 and 102 subjects were selected for the high-risk and low-risk groups, respectively. Oral semaglutide significantly improved the hepatic steatosis index (from 46.1 to 44.6, p < 0.001) and FIB-4 index (from 1.04 to 0.96, p < 0.001) as well as several metabolic parameters in all cohorts. The efficacy of semaglutide in treating liver fibrosis was confirmed by the addition of, and switching from, existing agent groups. Furthermore, improvement in the FIB-4 index was significantly negatively correlated with the baseline FIB-4 index.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39861190",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-20",
+    "title": "Semaglutide in obesity-related heart failure with preserved ejection fraction and type 2 diabetes across baseline HbA1c levels (STEP-HFpEF DM): a prespecified analysis of heart failure and metabolic outcomes from a randomised, placebo-controlled trial.",
+    "methods": "STEP-HFpEF DM, a double-blind, randomised, placebo-controlled trial conducted at 108 clinical research sites across 16 countries in Asia, Europe, and North and South America, included individuals aged 18 years or older with documented HFpEF (left ventricular ejection fraction ≥45%), type 2 diabetes, and obesity (BMI ≥30 kg/m2). Participants were randomly assigned (1:1), with a block size of four within each stratum using an interactive web response system, stratified by baseline BMI (<35 kg/m2vs ≥35 kg/m2), to receive either semaglutide 2·4 mg or placebo subcutaneously. The effects of semaglutide versus placebo on the efficacy endpoints were evaluated by HbA1c categories at baseline: low (<6·5%; <48 mmol/mol), medium (6·5% to <7·5%; 48 mmol/mol to <58 mmol/mol), and high (≥7·5%; ≥58 mmol/mol). The dual primary endpoints were change in the Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (KCCQ-CSS) and bodyweight percentage from baseline to 52 weeks and were assessed in all randomly assigned participants by intention to treat. Hypoglycaemia events were also analysed to assess safety in all randomly assigned participants who received at least one dose of study drug. This trial is registered with ClinicalTrials.gov, NCT04916470.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39848268",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan",
+    "title": "Safety and effects of anti-obesity medications on weight loss, cardiometabolic, and psychological outcomes in people living with overweight or obesity: a systematic review and meta-analysis.",
+    "methods": "This systematic review and meta-analysis included searches of Web of Science, PubMed, and Cochrane Central Register of Controlled Trials from inception to June 8, 2024. Randomised controlled trials evaluating weight-loss pharmacotherapies approved by the Food and Drug Administration (FDA) or European Medicines Agency (EMA) for treating overweight or obesity were included. Primary outcomes included changes in body weight, cardiometabolic indicators, psychological outcomes, and adverse events. Summary data was extracted from published reports. Random-effects meta-analyses were used to calculate weighted mean differences (WMDs), risk ratios (RRs), and 95% confidence intervals (CI). The Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) system was used to assess the certainty of evidence for each pooled analysis. PROSPERO registration: CRD42024547905.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39834714",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-17",
+    "title": "Once-weekly IcoSema versus once-weekly semaglutide in adults with type 2 diabetes: the COMBINE 2 randomised clinical trial.",
+    "methods": "This 52 week, randomised, multicentre, open-label, parallel group, Phase IIIa trial was conducted across 121 sites in 13 countries/regions. Adults with type 2 diabetes (HbA1c 53.0-85.8 mmol/mol [7.0-10.0%]) receiving GLP-1 RA therapy with or without additional oral glucose-lowering medications were randomly assigned 1:1 to once-weekly IcoSema or once-weekly semaglutide 1.0 mg. The primary endpoint was change in HbA1c from baseline to week 52; superiority of IcoSema to semaglutide 1.0 mg was assessed. Secondary endpoints included change in fasting plasma glucose and body weight (baseline to week 52), and combined clinically significant (level 2; <3.0 mmol/l) or severe (level 3; associated with severe cognitive impairment requiring external assistance for recovery) hypoglycaemia (baseline to week 57).",
+    "results": "Overall, 683 participants were randomised using a Randomisation and Trial Supply Management system to IcoSema (n=342) or semaglutide 1.0 mg (n=341). Mean ± SD baseline characteristics were as follows: HbA1c 64.0±8.2 mmol/mol (8.0±0.7%); diabetes duration 12.6±6.9 years; and BMI 31.1±4.7 kg/m2. From baseline to week 52, mean change in HbA1c was -14.7 mmol/mol (-1.35%-points) in the IcoSema group and -9.88 mmol/mol (-0.90%-points) in the semaglutide group; the estimated treatment difference (ETD) was -4.85 (95% CI -6.13, -3.57) mmol/mol (-0.44 [95% CI -0.56, -0.33]%-points), confirming superiority of IcoSema to semaglutide (p<0.0001). The estimated mean change in fasting plasma glucose from baseline to week 52 was statistically significantly reduced with IcoSema vs semaglutide (-2.48 mmol/l vs -1.43 mmol/l, respectively; ETD -1.05 [95% CI -1.36, -0.75] mmol; p<0.0001). Mean change in body weight from baseline to week 52 was statistically significantly different between groups: +0.84 kg for IcoSema vs -3.70 kg for semaglutide (ETD 4.54 kg [95% CI 3.84, 5.23]; p<0.0001). There was no statistically significant difference in the rate of combined clinically significant or severe hypoglycaemia between IcoSema and semaglutide (0.042 vs 0.036 episodes per person-year of exposure; estimated rate ratio 1.20 [95% CI 0.53, 2.69]; p=0.66). The proportion of participants experiencing gastrointestinal adverse events was similar between treatment groups (IcoSema 31.4%; semaglutide 34.4%).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39820580",
+    "query_date": "19_02_2025"
+  }
+]

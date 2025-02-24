@@ -1,0 +1,502 @@
+[
+  {
+    "pub_date": "2025-Mar-01",
+    "title": "Safety and efficacy of a defined bacterial consortium, VE303, to treat HE.",
+    "methods": "We performed a single-center, randomized, placebo-controlled trial of VE303 in adult patients with a history of overt HE (NCT04899115). Eligible patients were taking lactulose and rifaximin, had no recent systemic antibiotics, and had MELD ≤20. All patients received 5 days of oral vancomycin followed by randomization to 14 days of VE303 or placebo (2:1). The primary endpoints were incidence of serious adverse events and change in psychometric HE score (PHES) from baseline to 4 weeks after treatment. Stool samples underwent metagenomic sequencing and metabolite quantification.",
+    "results": "Eighteen patients completed the trial, 56% men, with a mean age of 59 years and a mean MELD of 11. Patients who received VE303 had a mean change in PHES of +1.5 versus -1.0 in those who received a placebo (p=0.20). Two of the 12 patients who received VE303 had at least 1 serious adverse event (all overt HE hospitalizations), compared with 0/6 patients who received a placebo. In the patients who received VE303, 2 of 8 strains engrafted in >50% of patients. Both VE303 strain engraftment and increased stool butyrate production had a trend toward improved PHES.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "76b51038caf09335fae5459801acfdc8",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025-Feb-05",
+    "title": "Simvastatin and Rifaximin in Decompensated Cirrhosis: A Randomized Clinical Trial.",
+    "methods": null,
+    "results": "Among the 237 participants randomized (Child-Pugh class B: n = 194; Child-Pugh class C: n = 43), 72% were male and the mean age was 57 years. There were no differences between the 2 groups in terms of development of acute-on-chronic liver failure (21 [17.9%] vs 17 [14.2%] patients in the treatment and placebo groups, respectively; hazard ratio, 1.23; 95% CI, 0.65-2.34; P = .52); transplant or death (22 [18.8%] vs 29 [24.2%] patients in the treatment and placebo groups, respectively; hazard ratio, 0.75; 95% CI, 0.43-1.32; P = .32); or development of complications of cirrhosis (50 [42.7%] vs 55 [45.8%] patients in the treatment and placebo groups, respectively; hazard ratio, 0.93; 95% CI, 0.63-1.36; P = .70). Incidence of adverse events was similar in both groups (426 vs 419; P = .59), but 3 patients in the treatment group (2.6%) developed rhabdomyolysis.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "cdd511582c313e1e9bb2f9c275b08e4e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-31",
+    "title": "Efficacy and safety of rifaximin for the prophylaxis of hepatic encephalopathy: A meta-analysis.",
+    "methods": "We conducted a meta-analysis search of the Cochrane Library, PubMed, ClinicalTrials.gov, Web of Science, and EMBASE as of March 2022. We pooled data by random-effects DerSimonian-Laird models to calculate hazard ratios (relative risks, RRs) for mortality, incidence of HE, and adverse events.",
+    "results": "Fourteen randomized controlled trials were included in the study. Rifaximin helped prevent HE (RR = -0.47, 95% confidence interval [CI]: -0.68 to -0.26) in patients with cirrhosis, but did not reduce mortality (RR = 0.03, 95% CI: -0.32 to 0.39) or increase the occurrence of adverse events (RR = -0.08, 95% CI: 0.22-0.07). Subgroup analysis showed that rifaximin was effective in both the primary (RR = 1.17, 95% CI: 1.06-1.29) and secondary (RR = 1.17, 95% CI: 1.06-1.29) prevention of HE. Moreover, subgroup analysis found that rifaximin helped prevent HE in alcohol-related (RR = -0.59, 95% CI: -0.87 to -0.32) or virus-associated (RR = -0.41, 95% CI: -0.71 to -0.11), and underwent transjugular intrahepatic portosystemic shunt (RR = -0.51, 95% CI: -0.76 to -0.27) or non-transjugular intrahepatic portosystemic shunt (RR = -0.35, 95% CI: -0.66 to -0.05) cirrhotic patients. Subgroup analyzed by the intervention, rifaximin versus placebo (RR = -0.43, 95% CI: -0.73 to -0.14) and rifaximin+lactulose versus lactulose (RR = -0.57, 95% CI: -0.68 to -0.26) were statistically significant prevention of HE, rather than rifaximin versus lactulose (RR = -0.44, 95% CI: -1.0 to 0.11).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c4a52f42bd87747024d1eb0f01dabe4a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Nov-27",
+    "title": "Comparisons of efficacy and safety of 400 or 800 ml bacterial count fecal microbiota transplantation in the treatment of recurrent hepatic encephalopathy: a multicenter prospective randomized controlled trial in China.",
+    "methods": "This multicenter, prospective, randomized controlled trial will enroll 100 eligible patients from 31 hospitals in China. Participants will be randomly assigned in a 1:1 ratio to either the high-dose group (800 ml total bacterial count) or the low-dose group (400 ml total bacterial count). The primary objective is to assess the efficacy and safety of both dosages on outcomes at 24 and 48 weeks, including mortality and quality of life.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "7e555daca9f152d1f0058aa467704283",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Nov-27",
+    "title": "Evaluation of a protocol for rifaximin discontinuation in critically ill patients with liver disease receiving broad-spectrum antibiotic therapy.",
+    "methods": "This was a single-center, quasi-experimental, pre-post study based on a pilot pharmacist-driven protocol. Patients in the protocol group were prospectively identified via the medical intensive care unit (ICU) (MICU) protocol to have rifaximin withheld during broad-spectrum antibiotic treatment. These were compared to a historical cohort who received combination therapy with broad-spectrum antibiotics and rifaximin. All data were collected retrospectively. The primary outcome was days alive and free of delirium and coma (DAFD) to 14 d. Safety outcomes included MICU length of stay, 48-h change in vasopressor dose, and ICU mortality. Secondary outcomes characterized rifaximin cost savings and protocol adherence. Multivariable analysis was utilized to evaluate the association between group assignment and the primary outcome while controlling for potential confounding factors.",
+    "results": "Each group included 32 patients. The median number of delirium- and coma-free days was similar in the control and protocol groups [3 interquartile range (IQR 0, 8) vs 2 (IQR 0, 9.5), P = 0.93]. In multivariable analysis, group assignment was not associated with a reduced ratio of days alive and free of delirium or coma at 14 d. The protocol resulted in a reduced median duration of rifaximin use during broad-spectrum antibiotic therapy [6 d control (IQR 3, 9.5) vs 1 d protocol (IQR 0, 1); P < 0.001]. Rates of other secondary clinical and safety outcomes were similar including ICU mortality and 48-h change in vasopressor requirements. Overall adherence to the protocol was 91.4%. The median estimated total cost of rifaximin therapy per patient was reduced from $758.40 (IQR $379.20, $1200.80) to $126.40 (IQR $0, $126.40), P < 0.01.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f01fe5b8d6bee80e3e9f24c17d35bc04",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Apr",
+    "title": "Efficacy of a 1 day Rifaximin and Metronidazole Regimen and Mechanical Bowel Preparation for Preventing Surgical Site Infection in Minimally Invasive Colorectal Cancer Surgery: A Prospective Observational Study.",
+    "methods": "This single-arm prospective observational study included 256 individuals. The primary end point was the rate of SSI. Rifaximin 400 mg and metronidazole 500 mg were administered twice daily (10 am and 10 pm), and mechanical bowel preparation was administered the day before the operation.",
+    "results": "After excluding 15 patients, 241 were enrolled. No adverse event occurred following the administration of oral antibiotics and mechanical bowel preparation; there was 100% compliance. The total SSI rate was 2.9%; the rates of incisional and organ/space SSIs were 1.2% and 1.7%, respectively. All patients were treated conservatively. Univariate analyses revealed preoperative anemia, hypoalbuminemia, and transfusion and postoperative transfusion were significantly associated with SSIs.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a0baa4eb49e2e1d715b928184514d1ed",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Aug-28",
+    "title": "Norfloxacin versus alternative antibiotics for prophylaxis of spontaneous bacteria peritonitis in cirrhosis: a systematic review and meta-analysis.",
+    "methods": "We systematically searched Pubmed, Embase, and Cochrane Library Databases. Two reviewers independently identified relevant random control trials (RCTs) comparing the role of norfloxacin and other antibiotics in SBP prevention.",
+    "results": "Eight studies comprising 1043 cirrhotic patients were included in this study. Norfloxacin and alternative antibiotics displayed comparable effects in SBP prophylaxis, survival benefit, overall infection prevention, and safety. Subgroup analyses revealed that rifaximin prophylaxis could reduce the recurrence of SBP with fewer adverse events but failed to improve overall survival compared with norfloxacin.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "e08f39aa3b6c7a592851c6852a737699",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jun",
+    "title": "Efficacy and Safety of Rifaximin in the Prevention of Recurrent Episodes of Hepatic Encephalopathy: A Systematic Review and Meta-analysis.",
+    "methods": "We searched PubMed, Scopus, and Web of Science for the relevant studies using the following search strategy: \"(Rifaximin) OR (Xifaxan) AND (cirrhosis) OR (encephalopathy).\" We assessed the risk of bias using Cochrane's risk of bias tool. We included the following outcomes: recurrence of hepatic encephalopathy, adverse events, mortality rate, and time to the first episode of hepatic encephalopathy from the time of randomization (days). We performed the analysis of homogeneous data under the fixed-effects model, while analysis of heterogeneous data was performed under the random-effects model.",
+    "results": "We analyzed data obtained from 999 patients from 7 included trials. The overall risk ratio proved that the rifaximin group was associated with a lower recurrence rate than the control group (risk ratio [RR] = 0.61[0.50, 0.73], P = .001). We found no significant variation in both groups regarding adverse events (RR = 1.08 [0.89, 1.32], P = .41), and mortality rates (RR = 0.98 [0.61, 1.57], P = .93). The overall risk of bias results was low.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9e8231cfc20e11a494c41fc250cf462c",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "Comparison of the effects of probiotics, rifaximin, and lactulose in the treatment of minimal hepatic encephalopathy and gut microbiota.",
+    "methods": "Patients with liver cirrhosis were screened for MHE using psychometric hepatic encephalopathy score test. Patients diagnosed with MHE were enrolled and received probiotics, rifaximin, or lactulose for 4 weeks. Adverse events were recorded. The psychometric hepatic encephalopathy score test was performed after treatment. Samples of blood and stool were collected at entry and 4 weeks. Blood samples were analyzed to assess blood ammonia, liver, kidney, and hemostatic functions. Stool microbiota were sequenced to confirm changes in microbial composition.",
+    "results": "Of 323 patients with liver cirrhosis, 74 patients were diagnosed with MHE. In all, 54 patients were enrolled and 52 who agree to follow-up were included in analysis. The recovery rates of MHE patients received probiotics, rifaximin, and lactulose were 58.8% (20/34), 45.5% (5/11), and 57.1% (4/7), respectively. Probiotics and rifaximin improved liver function in MHE patients to a certain extent. Taxonomic compositions of gut microbiota in MHE patients were distinct from healthy people before treatment; the differences were significantly reduced after treatment, and the gut microbiota gradually resembled the structure of healthy individuals. We found that the relative abundance of specific taxa associated with anti-inflammatory and good cognitive functions was increased in MHE patients after treatment. Accordingly, metabolic pathways in MHE patients were altered before and after treatment. Downregulated pathways after probiotics treatment included glycometabolism and degradation of aromatic compounds. After lactulose treatment, degradation pathways of arginine and ornithine showed a downward trend.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "78d980ec803c96e0ee828c7086483c95",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jun",
+    "title": "Rifaximin-α for liver fibrosis in patients with alcohol-related liver disease (GALA-RIF): a randomised, double-blind, placebo-controlled, phase 2 trial.",
+    "methods": "GALA-RIF was an investigator-initiated, randomised, double-blind, placebo-controlled, single-centre, phase 2 trial done at Odense University Hospital in Denmark. Eligible participants were adults (aged 18-75 years) who had current or previous alcohol overuse (at least 1 year with ≥24 g of alcohol per day for women and ≥36 g of alcohol per day for men), biopsy-proven alcohol-related liver disease, and no previous hepatic decompensation. Patients were randomly allocated (1:1) through a web-based randomisation system to receive oral rifaximin-α (550 mg) twice daily or matched placebo for 18 months. Randomisation was done in blocks of four and stratified according to fibrosis stage and alcohol abstinence. Participants, sponsor, investigators, and nurses involved in the study were masked to the randomisation outcome. The primary endpoint was a histological decrease from baseline to 18-month treatment of at least one fibrosis stage, according to the Kleiner fibrosis score. We also assessed the number of patients with progression by at least one fibrosis stage from baseline to 18 months. Primary analyses were done in the per-protocol and modified intention-to-treat populations; safety was assessed in the full intention-to-treat population. The per-protocol population was defined as all randomly assigned patients who did not present serious protocol violations, who ingested at least 75% of the treatment, and who were not withdrawn from the study due to non-adherence (interruption of treatment for 4 weeks or more). Participants receiving at least one dose of the intervention were included in the modified intention-to-treat analyses. This completed trial is registered with EudraCT, number 2014-001856-51.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "1eca831f6a991c1a1ff537ee7b066d22",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Dec-28",
+    "title": "Effects of Low-dose and High-dose Rifaximin in the Treatment of Covert Hepatic Encephalopathy.",
+    "methods": "In this single-center, randomized, controlled, open-label study, CHE was diagnosed using a combination of the psychometric HE score and the EncephalApp Stroop test. Cirrhotic patients with CHE were recruited and randomly assigned to low-dose rifaximin 800 mg/day, high-dose rifaximin (1,200 mg/day), and control groups, and were treated for 8 weeks. The sickness impact profile (SIP) scale was used to evaluate the health-related quality of life (HRQOL) of patients. Forty patients were included in the study, 12 were assigned to the low-dose group, 14 to the high-dose group, and 14 patients to the control group.",
+    "results": "The percentage of patients with CHE reversal was significantly higher in both the low-dose (41.67%, 5/12) and high-dose (57.14%, 8/14) groups than in the control group (7.14%, 1/14) at 8 weeks (p=0.037 and p=0.005, respectively). In addition, both doses of rifaximin resulted in significant improvement of the total SIP score compared with the control group. There were no significant differences in the CHE reversal rate, total SIP score improvement, and incidence of adverse event between the low-dose and high-dose groups (p>0.05).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "8edcd741311371b7dc57a265765e1910",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Oct-07",
+    "title": "Probiotics and rifaximin for the prevention of travelers' diarrhea: A systematic review and network meta-analysis.",
+    "methods": "Literature concerning the effectiveness of probiotics or rifaximin in the prevention of TD was searched in Medline, Embase, the Cochrane Central Register of Controlled Trials, and clinical registries for randomized controlled trials (RCTs) from inception of these databases to November 30, 2021 without any language restrictions. The primary efficacy outcome was the incidence of TD, and the safety outcome was the incidence of adverse events. The effect size of probiotics was measured by using relative ratio (RR), and the network meta-analysis was performed by using a frequentist approach and a random-effect model.",
+    "results": "Totally 17 RCTs after screening 1119 retrieved records were included in analysis and 9 RCTs were with low risk of bias. Compared with placebo, both probiotics and rifaximin were associated with lower incidence of TD (probiotics, RR 0.85, 95% CI 0.76-0.95; rifaximin, RR 0.47, 95% CI 0.35-0.63), and rifaximin was more effective than probiotics (RR 0.56, 95% CI 0.4-0.78). Further analysis showed that sodium butyrate, rifaximin and L. acidophilus + L. bulgaricus + Bifido.bifidum + Strept. Thermophilus were the three most effective treatments for TD.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "6c03580ba322fdccfb4240db740d3ddd",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Effectiveness and Safety of Rifaximin-Containing Regimens for Helicobacter pylori Eradication: Systematic Review - Are They Potential Eradication Regimens?",
+    "methods": "Scientific databases including PubMed, EMbase and Cochrane Library were used to identify clinical trials on rifaximin-containing regimens published from January 2000 to October 2021. Review Manager 5.4 and STATA12 were adopted for the systematic review.",
+    "results": "In this study, totally 1025 patients were included from 3 randomized controlled and 9 single-arm studies. It showed that the differences in effectiveness and safety between rifaximin-containing and first-line regimens were not statistically significant in randomized controlled trials. However, the results of the single-arm trials indicated that the eradication and adverse drug reaction rate varied suggesting data instability (r=38.1%-85.4%, r ADR 0.00-67.5% by ITT analysis). Among them, the eradication rate of pediatric patients (r=85.4% by ITT analysis) was higher than that of adult patients (r=38.1-74.5% by ITT analysis). Meanwhile, in all adult subgroups (triple or quadruple, with or without amoxicillin, different duration and rifaximin dose), the results did not show sufficient effectiveness as all the eradication rates did not meet the minimum ideal or ideal target.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9facb6869fc60e74a725fb27a14a3cc3",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Mar",
+    "title": "Efficacies of prokinetics and rifaximin on the positivity of a glucose breath test in patients with functional dyspepsia: a randomized trial.",
+    "methods": "we randomly assigned patients with functional dyspepsia diagnosed with small intestinal bacterial overgrowth in a 1:1:1 ratio to receive mosapride, rifaximin or a combination of both for two weeks. The hydrogen-methane glucose breath test and symptom questionnaire were surveyed before and after the treatment. Primary outcome was eradication rate of small intestinal bacterial overgrowth. Secondary outcomes were changes in the gas concentration, symptoms and safety.",
+    "results": "the eradication rates were 17.2 % (5/29) for mosapride, 32.1 % (9/28) for rifaximin, and 34.6 % (9/26) for the combined groups, with no significant differences among the three groups. Total hydrogen concentration during the glucose breath test significantly decreased in the rifaximin group (p = 0.001). Total methane concentration significantly decreased in the rifaximin and combined groups (p = 0.005). Significant symptomatic improvements were observed in chest and abdominal discomfort with mosapride, in flatulence with rifaximin, and in chest discomfort with the combined groups. Adverse events were similar between the groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "68005b2ad7a5d319d4bfab97234cb8f8",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-May-01",
+    "title": "Network meta-analysis: efficacy of treatment for acute, chronic, and prevention of pouchitis in ulcerative colitis.",
+    "methods": "Biomedical databases and the Cochrane Central registry were searched between 1978 and 2021 for randomised controlled trials examining treatment for acute, chronic and prevention of pouchitis. A network meta-analysis was performed using the frequentist model with pooled relative risks and P scores used to rank treatments.",
+    "results": "18 studies were included from a screen of 4291 abstracts. When compared to placebo, rifaximin was found to be the best antibiotic for acute pouchitis whereas ciprofloxacin ranked highest against metronidazole. For chronic pouchitis, metronidazole followed by probiotics was statistically significant and effective treatments in inducing remission although metronidazole had the highest adverse events. Adalimumab and bismuth were also found to be superior to placebo; however, they did not reach statistical significance. Probiotics proved superior to placebo in the prevention of pouchitis development.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9a8a5803e7c735dbd95f38d63dfed393",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Oct",
+    "title": "Add-on interventions for the prevention of recurrent Clostridioides Difficile infection: A systematic review and network meta-analysis.",
+    "methods": "We searched Medline, Embase, CENTRAL, and clinicaltrials.gov up to May 2021. We included randomized controlled trials comparing interventions added to antibiotic therapy for prevention of CDI recurrence, to placebo or each other. Efficacy outcomes were CDI and diarrhea recurrence. Safety outcomes included the incidence of any adverse event (AE), serious AEs, and discontinuation due to AEs. We performed random-effects network meta-analysis. We ranked interventions based on SUCRA (surface under the cumulative ranking curve) probabilities. We assessed confidence in estimates utilizing the CINeMA (Confidence in Network Meta-Analysis) framework.",
+    "results": "Fifteen trials (3909 patients) assessed 9 interventions. Oligofructose (OR 0.17; 95% CI, 0.07 to 0.46), NTCD-M3 (OR 0.29; 95% CI, 0.12 to 0.68), rifaximin (OR 0.47; 95% CI, 0.24 to 0.93), RBX2660 (OR 0.47; 95% CI, 0.22 to 0.99), the combination bezlotoxumab/actoxumab (OR 0.47; 95% CI, 0.37 to 0.60), and bezlotoxumab (OR, 0.53; 95% CI, 0.42 to 0.68) were associated with lower incidence of CDI recurrence than placebo (moderate confidence). Oligofructose was ranked highest, however data for oligofructose were derived solely from one small trial. Probiotics, actoxumab and SER-109 were not superior to placebo (low confidence). Probiotics were not well tolerated (low confidence) and actoxumab showed high rates of serious AEs (moderate confidence).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "8d1bb8f64ad4cbc3cc6c2c9a1ba8dccc",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021",
+    "title": "Antibiotic prophylaxis for prevention of spontaneous bacterial peritonitis in liver cirrhosis: systematic review.",
+    "methods": "Studies were located by searching PubMed and Cochrane Central Register of Controlled Trials in The Cochrane Library until February 2019. Randomized controlled trials evaluating primary or secondary spontaneous bacterial peritonitis prophylaxis in cirrhotic patients with ascites were included. The selection of studies was performed in two stages: screening of titles and abstracts, and assessment of the full papers identified as relevant, considering the inclusion criteria. Data were extracted in a standardized way and synthesized qualitatively.",
+    "results": "Fourteen studies were included. This systematic review demonstrated that daily norfloxacin is effective as a prophylactic antibiotic for the prevention of spontaneous bacterial peritonitis in patients with cirrhosis. Once weekly ciprofloxacin was not inferior to once daily norfloxacin, with good tolerance and no induced resistance. Trimethoprim-sulfamethoxazole and norfloxacin have similar efficacy for primary and secondary prophylaxis of spontaneous bacterial peritonitis, however, trimethoprim-sulfamethoxazole was associated with an increased risk of developing an adverse event. Rifaximin was more effective than norfloxacin in the secondary prophylaxis of spontaneous bacterial peritonitis, with a significant decrease in adverse events and mortality rate.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "fcbcf8990c143f2424b0b0697b695608",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Oct",
+    "title": "Nitazoxanide versus rifaximin in preventing the recurrence of hepatic encephalopathy: A randomized double-blind controlled trial.",
+    "methods": null,
+    "results": "Six months after treatment, patients on NTZ therapy showed a statistically significant improvement in CHESS score and mental status. NTZ provided 136 days of remission vs 67 days of remission for patients on RFX (P1  = .0001) and significant reduction in Child score (P1  = .018). Additionally, NTZ showed a statistically significant decrease in serum ammonia, TNF-α, and octopamine levels as compared to rifaximin. Regarding QOL, NTZ group showed an improvement in total Chronic Liver Disease Questionnaire (CLDQ) score. Both groups experienced minor controllable side effects.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "acdd741667f975dcfa1669ed40de0c4f",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-May",
+    "title": "The Use of Rifaximin in the Prevention of Overt Hepatic Encephalopathy After Transjugular Intrahepatic Portosystemic Shunt : A Randomized Controlled Trial.",
+    "methods": null,
+    "results": "An episode of overt HE occurred in 34% (95% CI, 25% to 44%) of patients in the rifaximin group (n = 93) and 53% (CI, 43% to 63%) in the placebo group (n = 93) during the postprocedure period (odds ratio, 0.48 [CI, 0.27 to 0.87]). Neither the incidence of adverse events nor transplant-free survival was significantly different between the 2 groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "219f8c7590b02e99209dc0f00c0d621b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Dec",
+    "title": "Efficacy and Safety of Ornithine Phenylacetate for Treating Overt Hepatic Encephalopathy in a Randomized Trial.",
+    "methods": "We conducted a double-blind study of 231 patients with cirrhosis and HE at multiple sites in North America, Europe, Israel, and Australia from January 7, 2014, through December 29, 2016. Patients were assigned randomly to groups that received placebo or OP (10, 15, or 20 g/d, based on the severity of liver disease), plus each institution's standard of care (eg, lactulose to achieve 2-3 bowel movements with or without rifaximin, in accordance with guidelines). The primary end point was time to confirmed clinical response, defined as reduction to HE staging tool (HEST) stage 2 from baseline HEST stages 3/4 or improvement to HEST stages 0/1 from baseline stage 2, in the intent-to-treat population (all patients with increased levels of ammonia at screening, determined by a local laboratory).",
+    "results": "Median times to clinical improvement, based on ammonia measurements at local laboratories, did not differ significantly between the groups given OP vs the placebo group (P = .129). Analyses of central laboratory-confirmed increases in levels of ammonia at baseline (n = 201) showed clinical improvement in HE at a median of 21 hours sooner in groups given OP vs placebo. The percentages of patients with any specific adverse event did not differ significantly between groups. Serious adverse events occurred in 25% of patients in the OP group and in 29% in the placebo group (P = .552).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "eb03556384e3eb3a7474224c7d333424",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Dec",
+    "title": "Non-Lactulose Medication Therapies for the Management of Hepatic Encephalopathy: A Literature Review.",
+    "methods": "A comprehensive literature review between August 2018 and April 2019 was accomplished with the assistance of a medical librarian. Sources of literature review include PubMed, MEDLINE, SCOPUS, ProQuest Central, CINAHL, and ProQuest Dissertations. The authors selected randomized clinical and double-blind cross-over trials evaluating probiotics, zinc, polyethylene glycol, rifaximin, and flumazenil. Sixteen clinical trials are discussed in this review. Pertinent safety, efficacy, and statistical and clinical outcomes are summarized by the authors.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f69c0fb9ec0366a40858181ca1246790",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020-Jan",
+    "title": "Safety of two different doses of simvastatin plus rifaximin in decompensated cirrhosis (LIVERHOPE-SAFETY): a randomised, double-blind, placebo-controlled, phase 2 trial.",
+    "methods": "We did a double-blind, randomised, placebo-controlled, phase 2 trial in patients with decompensated cirrhosis and moderate-to-severe liver failure from nine university hospitals in six European countries (Italy, France, Holland, Germany, the UK, and Spain). Patients older than 18 years with Child-Pugh class B or C disease were eligible. We randomly assigned patients (1:1:1) to receive either simvastatin 40 mg/day plus rifaximin 1200 mg/day, simvastatin 20 mg/day plus rifaximin 1200 mg/day, or placebo of both medications for 12 weeks. Randomisation was stratified according to Child-Pugh class (B vs C) and restricted using blocks of multiples of three. The primary endpoint was development of liver or muscle toxicity, as defined by changes in liver aminotransferases (aspartate aminotransferase [AST] and alanine aminotransferase [ALT]), alkaline phosphastase, and creatine kinase. The study is registered with the European Union Clinical Trials Register, 2016-004499-23, and with ClinicalTrials.gov, NCT03150459.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9812c5012058d02f62e90fec8c05ec1b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2019-Jun-27",
+    "title": "Efficacy of long-term rifaximin treatment for hepatic encephalopathy in the Japanese.",
+    "methods": "In this single-center retrospective observational cohort study, we reviewed the data of 38 patients who had taken rifaximin at the dose of 1200 mg/d for more than 24 wk. The primary outcome measured was the efficacy of long-term rifaximin use, and secondary outcome measured was the safety of its long-term use as determined by its influence on portosystemic shunts as well as Escherichia coli-related infections. Moreover, we compared the prognosis between the rifaximin group and control cases, matched for hepatic elasticity assessed by magnetic resonance ela-stography, age, and Child-Pugh classification.",
+    "results": "Of the 38 patients included in the study, 12 (31.6%) had overt HE, 27 (71.1%) had complications of esophageal varices, and 9 (23.7%) had hepatocellular carcinoma (HCC). The control group was matched for age, Child-Pugh classification, liver stiffness, and presence of HCC. The median of serum ammonia level before treatment was 104 μg/dL (59-297), and 2 wk after treatment, it significantly decreased to 85 μg/dL (34-153) (P = 0.002). A significantly low value of 80.5 μg/dL (44-150) was maintained 24 wk after treatment. The long-term use of rifaximin did not cause a decline in liver function. Diarrhea occurred in 2 patients, who improved with the administration of probiotics, and there were no cases of aborted rifaximin therapy owing to adverse events. In patients with Child C, the survival was short, but there was no significant difference compared with that of the control group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a2f7a83f96fbe76fdeb60ab3e5233727",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2019",
+    "title": "The efficacy and safety of rifaximin-α: a 2-year observational study of overt hepatic encephalopathy.",
+    "methods": "We carried out prospective identification of all patients using rifaximin-α for overt HE. We assessed hospital resource use, bacterial infections, and adverse events during 6-month episodes before and after rifaximin-α initiation.",
+    "results": "During 26 months we included 127 patients [71.7% male; median age 60.8 years (interquartile range: 56.2-66.1); median model for end-stage liver disease (MELD) score 15.0 (interquartile range: 12.1-20.4); 98% using lactulose treatment]. When comparing the first 6 months after rifaximin-α initiation with the prior 6 months, HE-related hospital admissions decreased (0.86 to 0.41 admissions/patient; p < 0.001), as well as the mean length of stay (8.85 to 3.79 bed days/admission; p < 0.001). No significant differences were found regarding HE-related intensive care unit admissions (0.09 to 0.06 admission/patient; p = 0.253), stay on the intensive care unit (0.43 to 0.57 bed days/admission; p = 0.661), emergency department visits (0.66 to 0.51 visits/patient; p = 0.220), outpatient clinic visits (2.49 to 3.30 bed visits/patient; p = 0.240), or bacterial infections (0.41 to 0.35 infections/patient; p = 0.523). Adverse events were recorded in 2.4% of patients.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "148be1f6e11d61296f24fe179f873a72",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2020-Jan",
+    "title": "Efficacy of pharmacological therapies in patients with IBS with diarrhoea or mixed stool pattern: systematic review and network meta-analysis.",
+    "methods": null,
+    "results": "We identified 18 eligible RCTs (seven alosetron, five ramosetron, two rifaximin and four eluxadoline), containing 9844 patients. All were superior to placebo for the treatment of IBS-D or IBS-M at 12 weeks, according to the Food and Drug Administration (FDA)-recommended endpoint for trials in IBS. Alosetron 1 mg twice daily was ranked first for efficacy, based on the FDA-recommended composite endpoint of improvement in both abdominal pain and stool consistency, effect on global symptoms of IBS and effect on stool consistency. Ramosetron 2.5µg once daily was ranked first for effect on abdominal pain. Total numbers of adverse events were significantly greater with alosetron 1 mg twice daily and ramosetron 2.5µg once daily, compared with placebo. Rifaximin 550 mg three times daily ranked first for safety. Constipation was significantly more common with all drugs, except rifaximin 550 mg three times daily.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9330b64fd64d25c548dadf30a517581a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2019",
+    "title": "Anti-Diarrheal Drug Repositioning in Tumour Cell Cytotoxicity.",
+    "methods": "Anti-proliferative effect against breast cancer cells (MDA-MB-231, MCF-7 and T47D) was assessed by MTT analysis, the Brdu incorporation, mitochondrial permeability and caspase-3 activity.",
+    "results": "Both the drugs displayed cytotoxic effects on MCF-7, T47D and MDA-MB-231 cells. The lowest IC50 values were obtained on MCF-7 cells after 24, 48 and 72 hours of treatment while T47D and MDA-MB-231 were more resistant. The IC50 values on T47D and MDA-MB-231 cells became significantly low after 72 hours of treatment showing a late cytotoxicity effect especially of nifuroxazide but still less important than that of MCF-7 cells. According to the IC50 values, the non-tumour cell line HEK293 seems to be less sensitive to cytotoxicity especially against rifaximin. Both the drugs have shown an accumulation of rhodamine 123 as a function of the rise of their concentrations while the Brdu incorporation decreased. Despite the absence of a significant difference in the cell cycle between the treated and non-treated MCF-7 cells, the caspase-3 activity increased with the drug concentrations rise suggesting an apoptotic effect.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "ffc9cd9b50fa9c7b13e3e7ba48273dd2",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2019-Mar",
+    "title": "Alosetron versus traditional pharmacotherapy in clinical practice: effects on resource use, health-related quality of life, safety and symptom improvement in women with severe diarrhea-predominant irritable bowel syndrome.",
+    "methods": "A total of 1956 patients who met criteria for severe IBS-D were randomized to treatment with alosetron 1 mg twice daily (BID) or only TP for up to 24 weeks. Work productivity and resource use were evaluated by standard questionnaires, HRQOL by the IBSQOL instrument and IBS symptoms by the Global Improvement Scale (GIS).",
+    "results": "Compared to only TP, alosetron-treated patients reported: (1) fewer clinic/office visits for any health problem (p = .0181) or for IBS-D (p = .0004); (2) reduced use of over-the-counter medications for IBS-D (p < .0001); (3) fewer days of lost work productivity (p < .0001); (4) decreased restriction of social and outdoor activities (p < .0001); and (5) greater global improvement in IBS-D symptoms (p < .0001). Alosetron treatment improved HRQOL scores for all domains (p < .0001). Incidence of adverse events during alosetron use was not remarkable and was similar to that previously reported.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a426a1cca78566016a55d14744329313",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2018",
+    "title": "Design of the Prospective Real-world Outcomes Study of hepatic encephalopathy Patients' Experience on Rifaximin-α (PROSPER): an observational study among 550 patients.",
+    "methods": "The Prospective Real-world Outcomes Study of HE Patients' Experience on Rifaximin-α 550 mg (PROSPER) is a multinational, multicentre, observational study that will be conducted under real-world clinical practice conditions. Comprising a retrospective phase (up to 12 months) and a prospective phase (up to 24 months), and employing a robust statistical methodology, PROSPER has been specifically designed to minimise the bias associated with observational studies. The primary endpoint will be the effect of rifaximin-α 550 mg treatment on HE- and liver-related hospitalisation rate and duration of hospitalisation. Secondary endpoints will include comprehensive assessments of the impact of treatment on the QoL and workplace productivity of patients and caregivers, a global assessment of treatment effectiveness and safety/tolerability. Approximately 550 patients will be enrolled.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "fea55693e20d49589b52c03ce424084e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2019-Jul",
+    "title": "Follow-on RifAximin for the Prevention of recurrence following standard treatment of Infection with Clostridium Difficile (RAPID): a randomised placebo controlled trial.",
+    "methods": "A multisite, parallel group, randomised, placebo controlled trial recruiting patients aged ≥18 years immediately after resolution of CDI through treatment with metronidazole or vancomycin. Participants received either rifaximin 400 mg three times a day for 2 weeks, reduced to 200 mg three times a day for a further 2 weeks or identical placebo. The primary endpoint was recurrence of CDI within 12 weeks of trial entry.",
+    "results": "Between December 2012 and March 2016, 151 participants were randomised to either rifaximin or placebo. Primary outcome data were available on 130. Mean age was 71.9 years (SD 15.3). Recurrence within 12 weeks was 29.5% (18/61) among participants allocated to placebo compared with 15.9% (11/69) among those allocated to rifaximin, a difference between groups of 13.7% (95% CI -28.1% to 0.7%, p=0.06). The risk ratio was 0.54 (95% CI 0.28 to 1.05, p=0.07). During 6-month safety follow-up, nine participants died in each group (12%). Adverse event rates were similar between groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "803613dbaff9d5987e0c384f08fafbcb",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2018-Oct",
+    "title": "Review article: an analysis of safety profiles of treatments for diarrhoea-predominant irritable bowel syndrome.",
+    "methods": "Medline and Embase database searches (through 02 May 2018) to identify clinical studies that evaluated treatment safety and/or efficacy in adults with IBS-D.",
+    "results": "IBS-D treatments include dietary modification, probiotics, serotonin receptor antagonists, opioid receptor agonists and antagonists, nonsystemic antibiotics, bile acid sequestrants, antidepressants, and complementary and alternative therapies. These treatments vary in administration frequency (eg, daily; short-course therapy) and target various pathophysiologic factors. Safety profiles vary considerably by treatment among IBS-D therapies. The number needed to harm (defined as the number of patients treated to encounter an adverse event) was lowest (worse) for antidepressants (8.5) and highest (best) for probiotics (35), and the number needed to harm (defined as the number of patients who discontinued due to an adverse event) was lowest for tricyclic antidepressants (9) and highest for rifaximin (8971). Notable safety concerns with IBS-D treatments include pancreatitis with eluxadoline, ischaemic colitis and serious complications of constipation with alosetron, and cardiac adverse events with loperamide and tricyclic antidepressants. Treatment decisions need to account for medication risks and adverse events for each patient.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "b3caac7907ddb0491bfa3ecb9755dfdd",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2017",
+    "title": "Rifaximin versus norfloxacin for prevention of spontaneous bacterial peritonitis: a systematic review.",
+    "methods": "We searched MEDLINE, CINAHL, Google Scholar and Cochrane databases from inception to January 2017. Reference lists of articles as well as conference proceedings were manually screened. We included studies that recruited patients with cirrhosis and ascites who met the criteria for primary or secondary SBP prophylaxis as defined by the European Association for the Study of the Liver and American Association for the Study of Liver Diseases. Two independent investigators reviewed the studies for eligibility, extracted the data and assessed study quality using the Cochrane risk of bias tool. The primary outcome was occurrence of SBP. Secondary outcomes included mortality and adverse events with therapy.",
+    "results": "Of the 435 studies identified, a total of five were included for full-text review. Four studies were eligible for the systematic review, three of which were randomised controlled trials and one was a prospective observational study. The population examined in majority of studies was primarily hepatitis C cirrhosis. The results of individual studies indicated either superior efficacy of rifaximin or no statistical difference between rifaximin and norfloxacin for SBP prophylaxis.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "8fbbe5aa0c0dfa2dd9adb442aaab4304",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2018-Mar",
+    "title": "Risk of Pancreatitis Following Treatment of Irritable Bowel Syndrome With Eluxadoline.",
+    "methods": "We extracted reports on eluxadoline submitted to the Federal Adverse Event Reporting System from January through September 2016. We collected data on patient age and sex, event date, reporting entity (consumer, physician, pharmacist, legal worker, or other), medications, dosages, presumed role in the event (coinciding, primary, or secondary suspect), treatment indication, and outcome (death, life threatening, hospitalization, disability, or other).We compared data for eluxadoline with data from antidiarrheals, oxycodone, and rifaximin using the κ2 test, Kruskal-Wallis rank test, and analysis of variance; findings with P < .05 were considered statistically significant.",
+    "results": "Pancreatitis accounted for 16.4% of the 597 reports of adverse events linked to eluxadoline; 53 cases required hospitalization. Pancreatitis was listed as treatment complication of other agents in significantly lower proportions of cases (loperamide, 0.3%; diphenoxylate, 0.4%; oxycodone, 0.2%; rifaximin, 0.5%), with 75% of these submissions not considering the agent as causal.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "2960329ccc51e5a93083747d3f0c4737",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2017-Dec",
+    "title": "Efficacy and safety of rifaximin associated with standard triple therapy (omeprazole, clarithromycin and amoxicillin) for H. pylori eradication: A phase IV pilot clinical trial.",
+    "methods": "Independent prospective clinical trial (EUDRACT no.: 2013-001080-23). Forty consecutive adult patients were included with H. pylori infection, dyspeptic symptoms and naive to eradication treatment. A full blood test was performed in the first five patients enrolled to evaluate the safety of the treatment. H. pylori eradication was confirmed with the 13C-urea breath test at least four weeks after the end of treatment with rifaximin 400mg/8h, clarithromycin 500mg/12h, amoxicillin 1g/12h and omeprazole 20mg/12h for 10 days.",
+    "results": "Forty patients were consecutively enrolled, 53% woman, mean age 44 years. Indication for eradication: 60% non-investigated dyspepsia, 38% functional dyspepsia and 2% gastric ulcer. Four patients did not attend the eradication confirmatory breath test. The eradication rate was 61% (95% CI: 45-77%) for the protocol and 55% (40-70%) for intention-to-treat. About 76% of the patients experienced adverse events (35% diarrhea, 14% nausea and 24% metallic taste), none of which was serious. The blood tests did not show significant alterations.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "4d62130c2bc879c6e05398ec714196ca",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2017-Sep-15",
+    "title": "Rifaximin and Propranolol Combination Therapy Is More Effective than Propranolol Monotherapy for the Reduction of Portal Pressure: An Open Randomized Controlled Pilot Study.",
+    "methods": "Sixty-four cirrhosis patients were randomly assigned to propranolol monotherapy (n=48) versus rifaximin and propranolol combination therapy (n=16). Baseline and post-treatment HVPG values, BT-related markers (lipopolysaccharide [LPS], LPS-binding protein [LBP], interleukin-6 [IL-6], and tumor necrosis factor α [TNF-α]), serological data, and adverse event data were collected. HVPG response rate was the primary endpoint.",
+    "results": "Combination therapy was associated with better HVPG response rates than monotherapy (56.2% vs 87.5%, p=0.034). In combination therapy, posttreatment BT-related markers were significantly decreased (LPS, p=0.005; LBP, p=0.005; IL-6, p=0.005; TNF-α, p=0.047).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "b98c4170b3e2959bf06fa1925906319b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2017-Sep-01",
+    "title": "A meta-analysis of the use of rifaximin to prevent travellers' diarrhoea.",
+    "methods": "Using the keywords [diarrhoea OR diarrhoea OR travel*] AND [rifaximin OR xifaxan OR xifaxanta OR normix OR rifagut], a preliminary search on the PubMed and Ovid databases yielded 411 papers published in English between 1 January 1988 and 1 July 2016. Of these, there were only five relevant clinical trials.",
+    "results": "The clinical trials were double-blind, placebo-controlled, randomized trials with a total of 879 subjects. The meta-analysis found significant reduction in risk of travellers' diarrhoea with rifaximin use compared to placebo (pooled RR 0.478, 95% CI: 0.375-0.610, and P  < 0.001). For the entire travel and follow-up period, the risk of developing travellers' diarrhoea was significantly greater in individuals receiving the placebo than those receiving rifaximin (daily doses of 400-600 mg). Overall, rifaximin offered significant protection rates of 48-72%, with lower protection rates for Asian than Latin American countries. In terms of tolerability, similar rates of adverse events were reported for the rifaximin and placebo group ( P  > 0.05), with no clinically significant or serious adverse events related to rifaximin use.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "34ec949b1c904899daa32312d16a000e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2017-Mar",
+    "title": "Systematic review with meta-analysis: rifaximin is effective and safe for the treatment of small intestine bacterial overgrowth.",
+    "methods": "MEDLINE, EMBASE, CCRCT, Scopus and Web of Science were searched from inception to March 16, 2015 for RCTs and observational studies. Furthermore, abstract books of major European, American and Asian gastroenterological meetings were also examined.",
+    "results": "Thirty-two studies involving 1331 patients were included. The overall eradication rate according to intention-to-treat analysis was 70.8% (95% CI: 61.4-78.2; I2 = 89.4%) and to per protocol analysis 72.9% (95% CI: 65.5-79.8; I2 = 87.5%). Meta-regression identified three covariates (drug dose, study design and co-therapy) independently associated with an increased eradication rate. The overall rate of adverse events was 4.6% (95% CI: 2.3-7.5; I2 = 63.6%). In the subset of studies (n= 10) allowing the analysis, improvement or resolution of symptoms in patients with eradicated SIBO was found to be 67.7% (95% CI: 44.7-86.9; I2 = 91.3%).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f786cb0d63149e6baea6159dca6c8ff4",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2016-Dec",
+    "title": "Repeat Treatment With Rifaximin Is Safe and Effective in Patients With Diarrhea-Predominant Irritable Bowel Syndrome.",
+    "methods": "The trial included adults with IBS-D, mean abdominal pain and bloating scores of 3 or more, and loose stool, located at 270 centers in the United States and Europe from February 2012 through June 2014. Those responding to a 2-week course of open-label rifaximin 550 mg 3 times daily, who then relapsed during an observation phase (up to 18 weeks), were randomly assigned to groups given repeat treatments of rifaximin 550 mg or placebo 3 times daily for 2 weeks. The primary end point was percentage of responders after first repeat treatment, defined as a decrease in abdominal pain of ≥30% from baseline and a decrease in frequency of loose stools of ≥50% from baseline, for 2 or more weeks during a 4-week post-treatment period.",
+    "results": "Of 1074 patients (44.1%) who responded to open-label rifaximin, 382 (35.6%) did not relapse and 692 (64.4%) did; of these, 636 were randomly assigned to receive repeat treatment with rifaximin (n = 328) or placebo (n = 308). The percentage of responders was significantly greater with rifaximin than placebo (38.1% vs 31.5%; P = .03). The percentage of responders for abdominal pain (50.6% vs 42.2%; P = .018) was significantly greater with rifaximin than placebo, but not stool consistency (51.8% vs 50.0%; P = .42). Significant improvements were also noted for prevention of recurrence, durable response, and bowel movement urgency. Adverse event rates were low and similar between groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "014fc9396ddb33d7ae9ec047903c6fbf",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2016-Dec",
+    "title": "Randomized-controlled trial of rifaximin versus norfloxacin for secondary prophylaxis of spontaneous bacterial peritonitis.",
+    "methods": null,
+    "results": "Recurrence of SBP was significantly lower in the rifaximin group (3.88 vs. 14.13%) compared with the norfloxacin group (P=0.04). The mortality rate was significantly decreased in the rifaximin group (13.74 vs. 24.43%) compared with the norfloxacin group (P=0.044). The causes of death between the two groups did not show a significant difference (P=0.377), but encephalopathy-related deaths were three folds higher in the norfloxacin group. There was a significant decrease in the side effects in the rifaximin group versus the norfloxacin group (P=0.033).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "51f7a38aa0a80a040ddeb1662c295e92",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2016-May",
+    "title": "Natural History of Patients Taking Rifaximin-α for Recurrent Hepatic Encephalopathy and Risk of Future Overt Episodes and Mortality: A Post-hoc Analysis of Clinical Trials Data.",
+    "methods": "Data on 321 patients from a 24-month, open-label, nonrandomized trial evaluating the long-term safety profile and tolerability of twice-daily rifaximin-α 550 mg were analyzed. Patients were followed for a mean of 1.5 years (total follow-up of 467 years).",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "ffdafaa53b4095071dd661375902b655",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2016-Mar",
+    "title": "Efficacy and safety of alternating norfloxacin and rifaximin as primary prophylaxis for spontaneous bacterial peritonitis in cirrhotic ascites: a prospective randomized open-label comparative multicenter study.",
+    "methods": "Three hundred thirty-four cirrhotic patients with high SAAG (≥1.1) ascites, protein level in ascitic fluid less than 1.5 g/dL with advanced liver disease (Child-Pugh score >9 points with serum bilirubin level >3 mg/dL) or renal impairment (serum creatinine level >1.2 mg/dL, blood urea nitrogen level >25 mg/dL, or serum sodium level <130 mEq/L) were included in an open-label, randomized study aimed at comparing alternating use of norfloxacin and rifaximin vs. norfloxacin or rifaximin alone as primary prophylaxis for SBP. Both intention-to-treat and per-protocol efficacy analyses were done after 6 months of treatment by assessment of ascitic fluid neutrophil count. Safety analysis was done for all intention-to-treat populations.",
+    "results": "Alternating norfloxacin and rifaximin showed superior prophylaxis by intention-to-treat (74.7 vs. 56.4% vs. 68.3%, p < 0.048). Pairwise analysis showed that alternating regimen had lower probability to develop SBP when compared to a norfloxacin-based regimen in intention-to-treat (p = 0.016) and per protocol analysis (p = 0.039). There was no difference among the studied groups regarding the incidence and severity of adverse events reported.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "1a2258a9cfab75dc0bac9b48b228e484",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2015-Nov",
+    "title": "Does low-dose rifaximin ameliorate endotoxemia in patients with liver cirrhosis: a prospective study.",
+    "methods": "This random prospective study included a screening visit, a 2-week treatment period and a subsequent 4-week observation phase. Patients with liver cirrhosis were randomly assigned to a low-dose rifaximin group, a high-dose rifaximin group and the control group in a ratio of 1:1:1. The low-dose and high-dose groups received 400 mg or 600 mg rifaximin per 12 h for 2 weeks, respectively. All other therapeutic strategies remained unchanged in the three groups as long as possible.",
+    "results": "In total, 60 patients with liver cirrhosis were screened and 43 of them met the eligibility criteria. After 2-week treatment serum endotoxin levels in the low-dose (1.1 ± 0.8 EU/mL) and high-dose rifaximin groups (1.0 ± 0.8 EU/mL) were significantly lower than that in the control group (2.5 ± 1.8 EU/mL), while no significant difference was found between the two rifaximin-treated groups. The effect of high-dose rifaximin on endotoxemia lasted for at least 4 weeks after drug withdrawal. A significant reduction in the abundance of the Veillonellaceae taxa and an increase in the abundance of Bacteroidaceae were shown after 2 weeks of rifaximin therapy. The incidence of adverse events and severe adverse events was similar among the three groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "92bbf0f4242ee139584ad5ecc27ce21b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2015-Apr",
+    "title": "Systematic review with network meta-analysis: the comparative effectiveness and safety of interventions in patients with overt hepatic encephalopathy.",
+    "methods": "Literature search of PubMed, Embase, Scopus, and Cochrane Library studies published up to July 31 2014. RCTs of above interventions in OHE patients were included. Network meta-analysis combined direct and indirect evidence to estimate odds ratios (ORs) and mean difference (MD) between treatments and the probabilities of ranking for treatment based on clinical outcomes.",
+    "results": "Twenty eligible RCTs were included. When compared with observation, only L-ornithine-L-aspartate (OR 3.71, P < 0.001) and BCAA (OR 3.37, P < 0.001) improved clinical efficacy significantly. However, when L-ornithine-L-aspartate was compared with BCAA, non-absorbable disaccharides and neomycin, there was a trend suggesting that L-ornithine-L-aspartate may be the most effective intervention with respect to clinical improvement (OR 1.10), rifaximin (OR 1.31), non-absorbable disaccharides (OR 2.75), neomycin (OR 2.22). In addition, L-ornithine-L-aspartate (MD -20.18, 95% CI -40.12 to -0.27) provided a significant reduction in blood ammonia concentration compared with observation. Neomycin appeared to be associated with more adverse events in comparison with non-absorbable disaccharides (OR 10.15), rifaximin (OR 17.31), L-ornithine-L-aspartate (OR 3.16) or BCAA (OR 7.69).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "3c89f526b79dc14310ad5c66e97fa18f",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2014",
+    "title": "Targeting of rifamycin SV to the colon for treatment of travelers' diarrhea: a randomized, double-blind, placebo-controlled phase 3 study.",
+    "methods": "This was a randomized, double-blind, phase 3 study of adult travelers to Mexico or Guatemala experiencing acute diarrhea. A total of 264 patients received RIF-MMX (2 × 200 mg twice daily for 3 days, n = 199) or placebo (n = 65) in a 3 : 1 ratio. The primary endpoint was the length of time between the administration of first dose of study drug and passage of the last unformed stool (TLUS; after which clinical cure was declared). Other endpoints included eradication of pathogens from the stools, pathogen minimum inhibitory concentration (MIC), and adverse events (AEs).",
+    "results": "TLUS was significantly shorter in the RIF-MMX group (median: 46.0 hours) compared with placebo (median: 68.0 hours; p = 0.0008) and a larger percentage of RIF-MMX treated patients (81.4%) achieved clinical cure compared with placebo patients (56.9%). TLUS was significantly shorter in the subgroups of patients with enteroaggregative, enterotoxigenic, or diffusely adherent Escherichia coli infections (p = 0.0035) with nonsignificant activity against invasive bacteria (p = 0.3804). Overall pathogen eradication rates were numerically higher in the RIF-MMX group (67.0%) compared with placebo (54.8%) but the difference did not reach significance (p = 0.0836). In vitro resistance to rifamycin SV was observed in some bacteria remaining after treatment of patients with RIF-MMX but was not associated with lower efficacy in them. AEs appeared to be more frequent with placebo (38.5%) than with RIF-MMX (29.6%).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f03c54a5e178c921dd7becf158c5f170",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2015-Jan",
+    "title": "Prolonged remission from hepatic encephalopathy with rifaximin: results of a placebo crossover analysis.",
+    "methods": "Adults with cirrhosis and history of overt HE episodes, currently in HE remission, received placebo during the RCT and crossed over to rifaximin 550 mg twice daily during the OLM study. Rate of breakthrough overt HE episodes, hospitalisations and incidence and rate of adverse events (AEs) were analysed during RCT and first 6 months of OLM.",
+    "results": "Of 82 patients randomised to placebo in the RCT who crossed over to the OLM study, 39 experienced an HE episode during the RCT compared with 14 during the OLM study (P < 0.0001). Significantly lower rates of HE events were observed with rifaximin treatment compared with placebo treatment (P < 0.0001). Rates of HE-related hospitalisation were numerically lower during rifaximin treatment compared with placebo treatment, although not significant. Rates of most common AEs, serious AEs and infection-related AEs were similar between the two treatments.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "cb1e8ccb6ed1ff175c13c6eda7eb59bc",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2014-May",
+    "title": "Safety and tolerability of rifaximin for the treatment of irritable bowel syndrome without constipation: a pooled analysis of randomised, double-blind, placebo-controlled trials.",
+    "methods": "A post hoc pooled safety analysis of the phase 2b (rifaximin 275, 550, and 1100 mg twice daily for 2 weeks; 550 mg twice daily for 4 weeks) and phase 3 (rifaximin 550 mg three times daily for 2 weeks) studies was performed. Data on treatment and post-treatment AEs were collected. Patients were followed up for 12 weeks and 10 weeks post-treatment in the phase 2b and phase 3 trials, respectively.",
+    "results": "Patients receiving rifaximin (n = 1103) and placebo (n = 829) had a similar incidence of drug-related AEs (12.1% vs. 10.7%), serious AEs (1.5% vs. 2.2%), drug-related AEs resulting in study discontinuation (0.8% vs. 0.8%), gastrointestinal-associated AEs (12.2% vs. 12.2%) and infection-associated AEs (8.5% vs. 9.5%). There were no cases of Clostridium difficile colitis or deaths.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "509fcd8a59c797f2baf527cbea71a274",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2014-May",
+    "title": "Evaluating the functional net value of pharmacologic agents in treating irritable bowel syndrome.",
+    "methods": "We analysed the difference between 'attributable risk' of efficacy based on number needed to treat (NNT) in the literature and percentage of adverse events (AE) of opposite intestinal complaints in placebo-controlled trials identified through a literature search of IBS trials. This calculation was coined 'functional net value' (FNV) or net benefit of the given drug.",
+    "results": "For treating IBS-C, lubiprostone caused diarrhoea in excess of placebo in 3.9% of patients, leading to a FNV of 3.9 percentage units. Linaclotide caused diarrhoea in 15.3% resulting in negative FNV (-1.0 percentage unit). For IBS-D, alosetron and tricyclic anti-depressants caused constipation among a respective 16.9% and 13.0% resulting in a FNV of -3.6 and -0.5 percentage units. Among all therapies, only rifaximin did not cause the adverse event opposite the underlying motility complaint and the drug only had benefit, not detriment.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "e6ed9941f039e402eb8c4d27894ae7b9",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2014-Aug",
+    "title": "Rifaximin is safe and well tolerated for long-term maintenance of remission from overt hepatic encephalopathy.",
+    "methods": "We conducted a 24-month, open-label maintenance study of rifaximin (550 mg, twice daily) in patients with HE who participated in the previous RCT of rifaximin or new patients enrolled from March 2007 to December 2010. Safety was assessed (adverse events, clinical laboratory parameters) for the integrated population of all patients, who were given rifaximin 550 mg twice daily (all-rifaximin population, N = 392). Safety and hospitalization data were compared between the group given placebo in the original RCT (n = 159) and those given rifaximin (n = 140).",
+    "results": "In the all-rifaximin population, the median exposure to rifaximin was 427.0 days (range, 2-1427 d), with 510.5 person-years of exposure. The profile and rate of adverse events with long-term rifaximin treatment were similar to those of the original RCT. There was no increase in the rate of infections, including with Clostridium difficile, or development of bacterial antibiotic resistance. Rates of hospitalizations with long-term rifaximin administration remained low: the HE-related hospitalization rate, normalized for exposure (0.21; all-rifaximin population), was similar to that of the rifaximin group in the original RCT (0.30), and lower than that for the placebo group (0.72).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "10a7873d734b9c805a58bafcf48ce4ab",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2013-Feb",
+    "title": "A multicenter, double-blind, randomized, placebo-controlled study of rifaximin for the treatment of bacterial vaginosis.",
+    "methods": "In a prospective study carried out at 13 sites in 3 European countries between August 2009 and October 2010, White, non-pregnant, premenopausal women with bacterial vaginosis were randomly assigned to receive rifaximin at 100mg for 5 days (100mg/5 days), 25mg/5 days, or 100mg/2 days, or placebo. Women were assessed at 7-10 and 28-35 days. Diagnosis and cure were based on Amsel criteria and Nugent score. Fisher exact test was used to compare cure rates.",
+    "results": "Among 114 women recruited, 103 were evaluable for drug efficacy. Therapeutic cure rate at first follow-up was higher in the rifaximin 25mg/5 days (48%, P=0.04), 100mg/2 days (36.0%), and 100mg/5 days (25.9%) groups than in the placebo group (19.0%). At second follow-up, therapeutic cure rate was 28.0%, 14.8%, and 4.0% in the respective groups versus 7.7% in the placebo group. No difference in adverse events was observed.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "de4639216ce39215368ea5ad5d89fadc",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2012-Aug-28",
+    "title": "Effectiveness of rifaximin and fluoroquinolones in preventing travelers' diarrhea (TD): a systematic review and meta-analysis.",
+    "methods": "Randomized, placebo-controlled, double-blind studies evaluating the effectiveness and safety of rifaximin or a fluoroquinolone chemoprophylaxis against TD were pooled using a random effects model and assessed for heterogeneity.",
+    "results": "The nine studies (four rifaximin and five fluoroquinolone) included resulted in pooled relative risk estimates of 0.33 (95% CI = 0.24-0.45, I2 = 3.1%) and 0.12 (95% CI = 0.07-0.20, I2 =0.0%), respectively. Similar rates of treatment emergent adverse events were found between antibiotic and placebo groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "de2d27b39e44b16da5c07147e2b68f4c",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2012-Apr",
+    "title": "Evaluation of harm in the pharmacotherapy of irritable bowel syndrome.",
+    "methods": "Potential studies of irritable bowel syndrome treatments were identified through a search of MEDLINE (1950 to April 2011), EMBASE (1980 to April 2011), the Cochrane central register of controlled trials, and the bibliography of recent meta-analyses. Clinical trials of pharmacotherapy for irritable bowel syndrome were eligible for inclusion only if a description of adverse events and the number of patients who discontinued treatment because of adverse events were reported. The relative risk of experiencing an adverse event requiring discontinuation of treatment was used to determine the number needed to harm. In addition, the number and severity of adverse events were summarized.",
+    "results": "Twenty-six clinical trials (4 with selective serotonin reuptake inhibitors, 3 with lubiprostone, 6 with tricyclic antidepressants, 8 with alosetron, and 5 with rifaximin) were included. Lubiprostone was safe with insignificant harm in one combined phase III trial. Selective serotonin reuptake inhibitors did not have enough data for a reliable meta-analysis of harm but seemed to be safe. More rigorous data were available for tricyclic antidepressants, alosetron, and rifaximin; the numbers needed to harm were 18.3, 19.4, and 8971, respectively, and the numbers needed to treat were 8, 7.5, and 10.6, respectively. For tricyclic antidepressant and alosetron, an adverse event resulting in discontinuation of the study medication occurred for every 2.3 and 2.6 patients who benefited from a drug, respectively. For rifaximin, this number was 846 patients. In addition, adverse events were more common with tricyclic antidepressants and alosetron.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "140aa6cc9c396dc997aa2db2267efb3c",
+    "query_date": "22_02_2025"
+  }
+]

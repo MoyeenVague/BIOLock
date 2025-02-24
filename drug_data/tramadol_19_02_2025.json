@@ -1,0 +1,102 @@
+[
+  {
+    "pub_date": "2024-Oct",
+    "title": "The Analgesic and Side Effects of Tramadol Hydrochloride Immediate-Release and Extended-Release Tablets in Patients With Chronic Low Back Pain.",
+    "methods": " This was a multicenter retrospective observational study. The study included patients prescribed tramadol hydrochloride immediate-release and extended-release tablets for chronic low back pain at 13 facilities in Japan between January 2021 and December 2023. The primary outcome was the incidence of side effects observed during the study period. The secondary outcomes were changes in the visual analog scale (VAS) score.",
+    "results": " The incidence of side effects was 37.7% (40/106 cases), which included constipation, nausea, drowsiness, and dizziness in 23 (21.7%), 13 (12.3%), 4 (3.8%), and 2 (1.9%) cases, respectively. The rate of treatment discontinuation owing to side effects was relatively low (16/106 cases, 15.1%). Furthermore, after four weeks of treatment, we found a significant reduction in the VAS scores for low back pain from baseline.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39575060",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025",
+    "title": "Comparative Efficacy and Safety of Anesthetic and Sedative Regimens for Endoscopic Retrograde Cholangiopancreatography: A Network Meta-Analysis.",
+    "methods": "A systematic search was conducted across PubMed, Web of Science, Scopus, and Embase to identify randomized controlled trials (RCTs) published until March 2024. Primary outcomes included procedure time, patient satisfaction, oxygen saturation (SpO2), incidence of SpO2 below 90%, and adverse events. The analysis was performed using R software, analyzing continuous outcomes with mean differences and dichotomous outcomes with risk ratios.",
+    "results": "42 RCTs were included. Combination therapies such as remifentanil plus tramadol and propofol plus midazolam plus pethidine demonstrated significantly shorter procedure times. Propofol plus oxycodone yielded higher patient satisfaction. Oxygenation results indicated that propofol plus fentanyl, oxycodone, and ketamine improved SpO2. Propofol plus oxycodone (RR <0.01), dexmedetomidine plus fentanyl (RR <0.01), propofol plus nalbuphine (RR = 0.01), Mg sulfate plus propofol (RR = 0.01), and propofol plus fentanyl (RR = 0.02) showed a significant lower rate of patients with SpO2 below 90% compared to propofol. Midazolam plus pethidine plus dexmedetomidine (RR = 0.01), propofol plus oxycodone (RR = 0.09), and dexmedetomidine plus fentanyl (RR = 0.2) exhibited lower rates of adverse events compared to propofol.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39536718",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2025-Feb",
+    "title": "Safety and Low Incidence of Anaphylaxis in Performing Oral Drug and Food Challenges in Mastocytosis.",
+    "methods": "To evaluate the safety and outcome of challenges to drugs and food including food additives retrospectively, of 126 adult MC inpatients, 83 were suspected to have food or drug hypersensitivity and 445 OCTs were performed. History, clinical data, and allergy test results highlighting OCTs were analyzed.",
+    "results": "Only 10 of 445 OCTs (2.2%) in nine patients resulted in anaphylaxis. Drugs elicited reactions in four of 170 patients (2.4%): two to acetylsalicylic acid (two in 39 patients tested; 5.1%), one to tramadol (one in 12; 8.3%), and one to flurbiprofen (100%). Anaphylaxis to food was recorded in six of 275 OCTs (2.2%); two of 48 (4.1%) to galactose-α-1,3-galactose, two to other foods, and two to sulfites. Flushing or diarrhea occurred owing to histamine in five of 48 patients (10.4%), but also in five of 50 placebo challenges (10.0%), strongly questioning its relevance. Patients with proven anaphylaxis had more bone marrow MC and higher basal serum tryptase (71.3 vs 44.3 μg/L; P < .05).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39521340",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec",
+    "title": "Safety of Co-Crystal of Tramadol-Celecoxib (CTC) in Patients with Acute Moderate-to-Severe Pain: Pooled Analysis of Three Phase 3 Randomized Trials.",
+    "methods": "We conducted a pooled analysis of safety data from three phase 3 randomized controlled trials in adults with acute moderate-to-severe pain following oral surgery, bunionectomy, and elective abdominal hysterectomy. We present data for CTC 200 mg twice daily (BID) and its comparators: tramadol 50 mg four times daily (QID) (one trial), tramadol 100 mg QID (two trials), celecoxib 100 mg BID (two trials), and placebo (three trials).",
+    "results": "In total, n = 551 patients received CTC 200 mg BID, n = 183 received tramadol 50 mg QID, n = 368 received tramadol 100 mg QID, n = 388 received celecoxib 100 mg BID, and n = 274 received placebo. The prevalence of adverse events (AEs) related to study drug up to 48 h was numerically lower with CTC 200 mg BID (35.9%) than with tramadol 50 mg QID (47.5%) and 100 mg QID (44.8%) but greater than with celecoxib 100 mg BID (12.4%) and placebo (20.4%). The most frequent AEs related to study drug up to 48 h were somnolence, nausea, dizziness, and vomiting, which occurred more frequently in patients receiving tramadol 100 mg QID than in those receiving CTC 200 mg BID.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39316284",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "[Pain relief after abdominal oncologic surgery. Evaluation of the effectiveness and safety of a fixed combination of diclofenac and orphenadrine].",
+    "methods": null,
+    "results": "The comparative analysis of the indicators of pain syndrome severity showed that the patients in group N exhibited a more pronounced analgesic effect, so on the second postoperative day 30% of patients reported moderate pain (from 50 to 60 mm on the pain scale), on the third day - 15%, and by the fourth day - all 100% of patients experienced pain of low intensity. The additional analgesia with tramadol in group N was required twice less than in the comparison group, and such adverse effects as nausea, drowsiness, and weakness were significantly more common in the ketoprofen group. In both groups, the average blood creatinine level did not exceed permissible values, and the C-reactive protein was elevated at all stages of the study but tended to decrease by the fourth day. The analysis of postoperative complications according to the Clavien-Dindo scale at the time of discharge did not reveal a direct correlation between the occurred complications and the use of NSAIDs. Adverse effects such as anastomotic failure, gastrointestinal complications, or other hemorrhagic manifestations were not recorded.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39268735",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec",
+    "title": "Multimodal Analgesia Approach in Acute Low Back Pain Management: A Phase III Study of a Novel Analgesic Combination of Etoricoxib/Tramadol.",
+    "methods": "We conducted a phase IIIb, prospective, randomized, and multicenter study in patients with acute LBP treated with etoricoxib 90 mg/tramadol 50 mg (one packet of granules diluted in 100 ml of water, once a day [QD], for 7 days) or paracetamol 975 mg/tramadol 112.5 mg (one tablet of 325 mg/37.5 mg, three times a day [TID], for 7 days) to assess the efficacy (in terms of pain and disability improvement) and safety.",
+    "results": "One hundred and twenty-four patients were randomized to receive either etoricoxib/tramadol QD (n = 61) or paracetamol/tramadol TID (n = 63). From the magnitude of change in pain evaluations, differences were observed between the treatment groups at 3 [p = 0.054, CI 95% - 0.648 (- 0.010 to 1.306)] and 5 days (p = 0.041). The proportion of patients with a 30% reduction in Visual Analogue Scale (VAS) score was statistically significant when comparing the treatment groups on the third day of follow-up [p = 0.008, CI 95% 0.241 (0.061-0.421)]. An improvement in LBP's disability to perform activities of daily routine (Oswestry and Roland-Morris questionnaires) was observed in both treatment groups. A total of 79 adverse events (AEs) (38 [48.1%] with etoricoxib/tramadol and 41 [51.9%] with paracetamol/tramadol) were reported. The most frequent AEs were nausea (17.7%) and dizziness (16.4%).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39256291",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Safety and Efficacy of Combined Injection of Pure-μ-Opioid Agonist with Tramadol as an Opioid Induction Agent for Opioid-Naïve Cancer Patients.",
+    "methods": "Opioid-naïve patients referred to our palliative care team (in Japan) who were unable to take oral medications and received OPI + tramadol as opioid induction agents were retrospectively investigated on the electric medical chart. OPI + tramadol dosage was adjusted to achieve the patient's pain as Numerical Rating Scale ≤4/10 or Support Team Assessment Schedule-Japanese ≤1. Patients' demography, doses of OPI and tramadol administered, and adverse events were analyzed.",
+    "results": "A total of 44 patients were included. The primary organs of malignancy were pancreas (11), stomach (5), lung (4), breast (4), liver (4), and others (13). OPI injections administered were hydromorphone (39), morphine (6), oxycodone (1), and fentanyl (1). The starting doses of OPI (morphine equivalent) and tramadol were 6.05 ± 1.63 and 67.8 ± 13.6 mg/day, respectively, and the final doses of OPI (morphine equivalent) and tramadol were 8.14 ± 3.85 and 80.0 ± 28.5 mg/day, respectively. Treatment goals were achieved in all patients. There were three patients in whom OPI was switched owing to inadequate analgesia and no new side effects other than those known to occur when OPI or tramadol is administered appeared.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39144134",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Aug-19",
+    "title": "Evaluating potential unexpected adverse events and mortality after oral analgesics administration in fracture care-a cohort study.",
+    "methods": null,
+    "results": "Following oral analgesic administration, 122 (62%) patients experienced adverse events. In seven expiries, five were possibly due to acetaminophen added tramadol combined with any of pregabalin, diclofenac, etoricoxib, or gabapentin (absolute risk 2.5%, 97.5% proportion 2 weeks survival). Three (2% of 122) patients taking acetaminophen added tramadol or diclofenac experienced unexpected serious adverse events. Elderly diabetic and hypertensive hip fracture patients expired or experienced unexpected events.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39137286",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Oct",
+    "title": "The analgetic effect of adjuvants in local infiltration analgesia - a systematic review with network meta-analysis of randomized trials.",
+    "methods": null,
+    "results": "The best interventions to prolong the duration of analgesia were dexamethasone (Ratio of Means (ROM) 3.33) followed by the combinations of clonidine + morphine (ROM 3.35) and morphine + magnesium sulfate (ROM 2.92), fentanyl (ROM 2.27), ketorolac (ROM 2.26), buprenorphine (ROM 2.04), morphine (ROM 1.93), magnesium sulfate (ROM 1.91), clonidine (ROM 1.89), dexmedetomidine (ROM 1.74) and tramadol (ROM 1.58). Serious adverse events were not reported with either investigated adjuvant.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39003958",
+    "query_date": "19_02_2025"
+  },
+  {
+    "pub_date": "2024-Jul-12",
+    "title": "The Ventilatory Changes of Pediatric Peroral Endoscopic Myotomy Patients.",
+    "methods": "Medical records were reviewed for 16 pediatric patients at a single center who underwent POEM procedure for achalasia between 2017 and 2020. Patients' data regarding demographics, preoperative diet, body mass index, perioperative monitoring and vitals, airway management, anaesthesia maintenance, mechanical ventilation settings duration of recovery, length of stay, pain management and adverse events were evaluated.",
+    "results": "The study cohort included 7 female and 9 male patients with a mean age of 5.5 years. Anaesthesia maintenance was provided with 0.8-1.2 minimum alveolar concentration sevoflurane in a 40-60% O2-air mixture, Remifentanil infusion and bolus doses of Rocuronium. The median age was 3 years for patients ventilated in pressure controlled ventilation mode and 10 years in volume controlled ventilation mode. Respiration rate and minute ventilation were adjusted to maintain end tidal carbon dioxide (ETCO2) below 45 mmHg. Needle decompression was applied for 14 patients (87.5%) for treatment of capnoperitoneum. The mean procedure duration and recovery room duration were 66 (±22.9) minutes and 62 (±21) minutes, respectively. Postoperative pain management is provided with paracetamol and tramadol in total 8 patients (50%). There was no adverse event during postoperative period and all patients discharged in a mean time of 3 days.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "38994752",
+    "query_date": "19_02_2025"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "pub_date": "2025-Feb-04",
+    "title": "A scientific approach to hemorrhage risk assessment of SSRIs/SNRIs utilizing the FAERS database.",
+    "methods": "Ten-year data on the main SSRIs/SNRIs were extracted from the FAERS database for the period spanning from 2014 to 2023. Reporting odds ratio (ROR) and proportional reporting ratio (PRR) were employed to quantify the signals. Finally, a comparative analysis was conducted between demographic data, outcomes, and inherent associations among the medications and the signals.",
+    "results": "Approximately 3.86% of all patients who experienced adverse effects with SSRIs/SNRIs were found to have hemorrhage-related AEs (HrAEs). The majority of these patients were female and aged sixty years or older. The primary outcomes for patients experiencing HrAEs included initial or prolonged hospitalization, mortality, life-threatening conditions, and other complications. After conducting an analysis using ROR and PRR methods, we obtained several positive signals for HrAE (p-HrAEs). Gastrointestinal and nervous system disorders were identified as the predominant p-HrAEs. Sertraline demonstrated the most pronounced signals for gastrointestinal disorders, particularly upper gastrointestinal hemorrhage. Correlations have been observed between the use of citalopram, escitalopram, paroxetine, venlafaxine and cerebral/cerebellar hematoma in terms of nervous system. However, duloxetine did not result in any signals in these two systems.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "27b02a18bdb4f3f628e263a1c98b8e2b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-22",
+    "title": "Effect of combination therapy of methylfolate with antidepressants in patients with depressive disorder.",
+    "methods": "In an open-label clinical trial, forty-four patients with depressive disorder (6A70, 6A71, and 6A72 according to ICD-11) received an evidence-based antidepressant therapy (either escitalopram 10-20 mg, sertraline 50-100 mg, fluoxetine 20-40 mg, duloxetine 30-60 mg, mirtazapine 15-30 mg, venlafaxine 75-150 mg, trazodone 50-100 mg, amitriptyline 25-75 mg, or clomipramine 25-75 mg orally daily for 4 weeks). The experimental group, Group B was additionally given a dose of methylfolate 800 µg daily for four weeks. The psychometric testing of depression was achieved through administration of Patient Health Questionnaire-9 (PHQ-9) on days 0, 14, and 28, to find the improvement in the depressive score on day 28, the remission rate on day 28, and decrease in the time lag on day 14. Adverse effects were analyzed by self-assessment questionnaire to observe the tolerability. The paired sample t-test and the independent sample t-test were applied for analysis by using SPSS v27.0. The p-value ≤ 0.05 was considered statistically significant.",
+    "results": "On day 28, patients on low dose methylfolate and antidepressant combination therapy showed a 40.33% improvement in depression symptoms, compared to 26.43% in patients on antidepressant monotherapy (p-value < 0.05). This treatment strategy had no effect on the time-lag of outcomes on day 14 and the remission rate on day 28 was not found statistically significant. Only one patient reported insomnia, while another mentioned irritability.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "5cedc9dfadc3d8303bd5248c8c5fda9e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Oct",
+    "title": "Effect of psilocybin versus escitalopram on depression symptom severity in patients with moderate-to-severe major depressive disorder: observational 6-month follow-up of a phase 2, double-blind, randomised, controlled trial.",
+    "methods": "This is a 6-month follow-up study of a phase 2, double-blind, randomised, controlled trial involving patients with moderate-to-severe MDD. Participants were recruited from a hospital in the UK. Male or female patients with major depressive disorder (DSM-IV), moderate to severe depression (HAM-D ≥17), no MRI or SSRI contraindications, confirmed diagnosis by a GP or mental healthcare professional, aged 18-80, and competent in English were eligible. Patients were randomly assigned (1:1) to receive either two 25 mg doses of the psychedelic drug psilocybin administered orally combined with psychological support ('psilocybin therapy' or PT) and book-ended by further support or a 6-week course of the selective serotonin reuptake inhibitor (SSRI) escitalopram (administered daily at 10 mg for three weeks and 20 mg for the subsequent three weeks) plus matched psychological support ('escitalopram treatment' or ET). The primary outcome measure was change from baseline in the score on the 16-item Quick Inventory of Depressive Symptomatology-Self-Report (QIDS-SR-16) at week 6, which has been reported previously. Herein, we present results at the 6-month follow-up time point. Measures of social functioning, connectedness, and meaning in life constituted the study's secondary outcomes during follow-up. Safety in the follow-up period was not assessed. This trial is registered at ClinicalTrials.gov, NCT03429075.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "0f5076de9323554649651019beb9cad0",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Dec-17",
+    "title": "Cutaneous toxicity induced by antidepressants and second-generation antipsychotics in the United States food and drug administration adverse event reporting system.",
+    "methods": null,
+    "results": "Comparing ACDRs to other ADRs, each AD (fluoxetine (ROR025 = 1.49), fluvoxamine (ROR025 = 1.14), paroxetine (ROR025 = 1.49), escitalopram (ROR025 = 1.79), sertraline (ROR025 = 1.44), venlafaxine (ROR025 = 1.46) and duloxetine (ROR025 = 1.69)) showed significantly more cases. There was no association between SGA and cutaneous toxicity. The spectrum displayed strong signals in duloxetine-induced genital ulceration (IC025 = 2.75) and amisulpride-induced conjunctivitis (IC025 = 2.56).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c2406f584435ff859164c35ca44a4e9d",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "A Randomized Controlled Study of Efficacy and Cognitive Function Improvement of Vortioxetine and Escitalopram in Patients with Depression in Chinese Han Nationality.",
+    "methods": "At baseline, 131 MDD patients and 70 healthy controls completed the Hamilton Depression Scale (HAMD-17), Hamilton Anxiety Scale (HAMA), Snaith-Hamilton Pleasure Scale (SHAPS) and MATRICS Consensus Cognitive Battery (MCCB). Patients with MDD were randomly divided into Vortioxetine (n = 62) and Escitalopram (n = 69) groups with an 8-week follow-up research. ANOVA for repeated measurement was utilized to compare the efficacy of Vortioxetine and Escitalopram.",
+    "results": "The total scores of HAMD-17, HAMA and SHAPS scales had statistical difference between MDD cases and healthy controls (P < 0.001) at baseline. After 8 weeks of treatment, the scale scores of the HAMD-17, HAMA and SHAPS had lowered in both groups, with no statistical difference between two groups (P > 0.05). At baseline, MDD patients had defects in Speed of Processing, Attention Vigilance, Verbal Learning, Visual Learning, Reasoning and Problem Solving, and Social Cognition, compared with healthy controls. After 8 weeks of treatment with Vortioxetine or Escitalopram, the patients had improved in the aspects of cognitive functions above except Social Cognition. Numerical improvements of MCCB scale were found in the two groups, P > 0.05. Most adverse events were mild or moderate, with nausea being the most common adverse event.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f34c367089509c62ee03cb601d923129",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Efficacy of Brahmi vati and Aswagandharista in major depressive disorder: A randomized controlled trial.",
+    "methods": "Study was a Randomized, Controlled, parallel group comparative clinical trial. Fifty patients meeting the MDD (DSM V) diagnostic criteria from teaching hospital were recruited in the study. They were divided in two 2 groups. Control group were administered with Escitalopram 10 mg twice a day. Ayurveda group were intervened with tablet Brahmi vati 500 mg thrice a day and Liquid Aswagandarista 10 ml thrice a day. Interventions were for 60 days. Assessments were done on every 15th day. Assessments criteria included Hamilton Depression Rating scale (HDRS), Hamilton Anxiety Rating scale (HARS), UKU Side effect scale (UKU), Brief Psychotic Rating Scale (BPRS), WHO quality of life -BREF (WHOQOL-BREF), Pittsburgh Sleep Quality Index (PSQI) and Clinical Global Impression scales (CGI) were assessed at all the time points. Blood parameters like Haemoglobin, Serum creatinine and Liver function tests were evaluated at pre and post study.",
+    "results": "Between group comparison showed significant improvements in WHOQOL-Bref (p < 0.001), UKU (p = 0.04) favouring Ayurveda group and PSQI (p = 0.02) improvements in control group. Improvements in other parameters were comparable. Within group assessment showed significant (p < 0.001) improvement in HDRS, HARS, BPRS, CGI-S, CGI-GI in both the groups. Liver function tests and serum creatines were within normative limits.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "d09cd0455746c240ba240233a2090c10",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Efficacy of ayurveda medications, Brahmi vati and Saraswatarista, in generalized anxiety disorder- a randomized controlled trial.",
+    "methods": "Study is a randomized controlled clinical trial. Patients (n = 50) of GAD (Diagnostic and Statistical Manual of Mental Disorders (DSM-5 criteria), 18-60 years of age, either sex participated in the study. Participants were randomly divided into two groups. Group A, received escitalopram 10 mg/day for first 10 days followed by 20 mg/day for next 50 days. Group B, received Ayurvedic intervention (Brahmi Vati 500 mg thrice a day (TID) and Saraswatarista 10 ml TID) for 60 days. Assessments were with clinical parameters like Hamilton Anxiety Rating Scale (HARS), GAD 7 scale (GAD 7), Beck Depression Inventory scale (BDI), Epworth sleepiness scale (ESS), Pittsburgh Sleep Quality Index (PSQI), WHO Quality of Life- BREF (WHOQOL-BREF), Clinical Global Improvement scale (CGI) and UKU-Side effect scale (UKU). These clinical assessments were measured on every 15th day during the intervention. Haemoglobin, liver function test (LFT), serum creatinine, serum urea were assessed before and after the study.",
+    "results": "Study results indicate that both the groups were comparable in HARS, GAD7, BDI, WHOQOL-Bref and CGI-Severity. Group B was better in PSQI (standard mean difference = 0.87, 95% CI: 0.28, 1.43), ESS (standard mean difference = 1.42, 95% CI: 0.78, 2.02), CGI [global improvement (standard mean difference = 0.82, 95% CI: 0.23,1.28) and efficacy index (standard mean difference = 0.97, 95% CI: 0.37,1.54)] and had better adverse events profile (standard mean difference = 0.79, 95% CI: 0.21, 1.36). Both the groups had a good safety profile assessed through liver and renal profiles.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "95eb423a87ba77c2631da8d55fea5256",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Jul-29",
+    "title": "Eye disorders associated with selective serotonin reuptake inhibitors: a real-world disproportionality analysis of FDA adverse event reporting system.",
+    "methods": null,
+    "results": "Our analysis revealed that SSRIs were significantly associated with eye disorders, with a higher risk of vision blurred with escitalopram, angle closure glaucoma with citalopram, and photopsia with paroxetine. The most common eye disorders were vision blurred, visual impairment, mydriasis, etc. Most of these adverse events occurred within the first 30 days of treatment. The reported incidence of severe eye disorders was 38.6% for SSRIs, with fluoxetine exhibiting the highest rate at 45.9%.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "90d21378bbede4ab6dcacb90fa2d8fd7",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Effect of add-on transcranial alternating current stimulation (tACS) in major depressive disorder: A randomized controlled trial.",
+    "methods": "The 4-week, double-blind, randomized, sham-controlled trial was performed from January 29, 2023 to December 22, 2023. Sixty-six participants were recruited and randomly assigned to receive 20 40-min sessions of either active (77.5Hz, 15 mA) or sham stimulation, with one electrode on the forehead and two on the mastoid, each day (n = 33 for each group) for four weeks (till Week 4). The participants were followed for 4 more weeks (till Week 8) without stimulation for efficacy/safety assessment. During the 4-week trial, all participants were required to take 10-20 mg of escitalopram daily. The primary efficacy endpoint was the change in HAMD-17 scores from baseline to Week 4 (with 20 treatment sessions completed). Resting-state electroencephalography (EEG) was collected with a 64-channel EEG system (Brain Products, Germany) at baseline and the Week 4 follow-up. The chi-square test, Fisher's exact test, independent-sample t-test, or Wilcoxon rank-sum test were used, as appropriate, to compare the differences in variables between groups. The effect of the intervention on the HAMD-17 score was also evaluated with linear mixed modeling (LMM) as sensitivity analysis. The correlation between the mean reduction in EEG and the mean reduction in the HAMD-17 total score was evaluated using Spearman correlation analysis.",
+    "results": "A total of 66 patients (mean [SD] age, 28.4 [8.18] years; 52 [78.8 %] female) were randomized, and 57 patients completed the study. Significant differences were found in the reductions in the HAMD-17 scores at Week 4 (t = 3.44, P = 0.001). Response rates at Week 4 were significantly higher in the active tACS group than in the sham tACS group (22 out of 33 patients [66.7 %] versus 11 out of 33 [33.3 %], P = 0.007). In the active tACS group, a correlation between the mean change in alpha power and HAMD-17 scores at Week 4 was found (r = 2.38, P = 0.024), and the mean change in alpha power was significantly bigger for responders (Z = 2.46, P = 0.014). No serious adverse events were observed in this trial.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "8beb3b00d6fa71e6aeb0b3759b4d3487",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Apr",
+    "title": "A Randomized Controlled Trial Comparing Efficacy and Safety of Antidepressant Monotherapy.",
+    "methods": "Ninety-six patients with MDD participated in this open-label, randomized, three-arm study. Participants were allotted into three groups according to a 1:1:1 ratio and given vilazodone (20-40 mg/day), vortioxetine (5-20 mg/day), or escitalopram (10-20 mg/day) for 16 weeks. Vortioxetine and vilazodone are test medications, with escitalopram serving as the control. After the baseline visit, follow-up appointments were scheduled every four weeks. Per-protocol (PP) and intent-to-treat (ITT) populations served as means for efficacy and safety evaluations, respectively. We prospectively registered this research in the Clinical Trial Registry, India (CTRI) (2022/07/043808).",
+    "results": "Out of the 134 patients we screened, 109 (81.34%) were eligible. Ninety-six (88.07%) of them completed the 16-week trial. In the PP population (n = 96), we analyzed efficacy. They had a mean age of 46.3 ± 6.2 years. At baseline, each group's median HDRS score was 30.0 (p = 0.964). Following 16 weeks of antidepressant therapy, these scores dropped to 15.0, 14.0, and 13.0 (p = 0.002). Baseline MADRS scores for all groups were 36.0 (p = 0.741). They had corresponding values of 20.0, 18.0, and 17.0 at 16 weeks (p < 0.001). Regarding both efficacy endpoints, the post-hoc analysis with the Bonferroni correction demonstrated statistically significant differences (p < 0.001). We performed the safety assessments within our ITT population (n = 109). Ninety-six adverse events were recorded. Nonetheless, none of them seemed serious. Still, five participants opted out because of their side effects. Vomiting and nausea were the most frequent side effects.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "24f68212331aaad041a1a32c406aecd4",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Treatment of Alzheimer's Disease in the New Era of Monoclonal Antibodies Against Cerebral Amyloid-β: Pharmacological Prescription and Knowledge in Argentina.",
+    "methods": "A cross- sectional and analytic study was conducted. A survey was elaborated about pharmacological treatment in AD. Statistical analysis of answers of specialists in cognitive disorders (SCD), non-specialists in cognitive disorders (NSCD), recommended treatment, non-recommended treatment (NRT), and off-label treatment was performed.",
+    "results": "155 physicians answered the survey. A 19.35%prescribed at least one NRT for dementia. 78.06%prescribed at least an off-label treatment or an NRT for mild cognitive impairment (MCI). 31%would prescribe monoclonal antibodies (MABs) against cerebral amyloid-β (Aβ) to AD patients, and 42.6%responded that they were not aware of any adverse effect of these. Quetiapine was the most frequent treatment for psychotic symptoms (88.4%) and escitalopram (32.3%) for apathy. A 70%of potential prescribers of MABs (n = 100) would request biomarkers of cerebral Aβ in the initial assessment. There were significant differences between the responses of SCD and NSCD regarding the prescription of MABs (52.17%versus 23.08, respectively) and knowledge about adverse events (76.09%versus 38.46%, respectively).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "13ac72722f54d20e34684f96cfdd5a34",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Aug",
+    "title": "Off-label higher doses of serotonin reuptake inhibitors in the treatment of obsessive-compulsive disorder: Safety and tolerability.",
+    "methods": "A retrospective longitudinal study was performed on 105 randomly selected outpatients diagnosed with OCD and were treated with OLHD-SRIs for at least 6 months. Patients received sertraline >200 mg/day, escitalopram >20 mg/day, fluvoxamine >300 mg/day, and fluoxetine >60 mg/day, combined with exposure and response prevention therapy. Patients were divided into three dosing groups: sertraline equivalent dose (SED) ≤ 200 mg/day (n = 26, 24.7%), 201-400 mg/day (n = 51, 48.5%) and 401-650 mg/day (n = 28, 26.6%). Safety and tolerability were assessed with an electrocardiogram, blood biochemistry, complete blood count, and side-effects monitoring.",
+    "results": "SED ranged from 100 to 650 mg/day and the mean duration of OLHD-SRI treatment was 20.8 months. The most common side-effects reported were sexual dysfunction (n = 36, 34%), weight gain (n = 28, 27%), sedation (n = 27, 26%), hyperhidrosis (n = 20, 19%), and tremor (n = 11, 10%). Abnormal ECG was documented in one patient, and another patient experienced a first-time seizure, whereas elevated liver enzymes were seen in 4.8% of the sample (n = 5). None of the patients had serotonin syndrome or drug-induced liver injury. Side-effects did not differ among the three dosing groups.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "8e5f9abc784b6040f0d224658c95700a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024",
+    "title": "Efficacy of whole system ayurveda management protocol in major depressive disorder- A randomized controlled clinical trial.",
+    "methods": null,
+    "results": "Study showed that Ayurveda group produced significant outcome improvement compared to control group in HDRS (p = 0.01), HARS (p = 0.03), PSQI (p = 0.03), WHOQOL-Bref (p < 0.001) and UKU side effect scale (p = 0.02). Both the group showed improvements in all the parameters except in WHOQOL-Bref where Ayurveda group only showed improvements (p < 0.001). Effect size showed large effect in WHOQOL-Bref. Mild side effects were reported in control group and none in Ayurveda group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "6221c044de0561eb6c55ec581c454a03",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Apr-01",
+    "title": "Assessing Pharmacokinetic Correlates of Escitalopram-Related Adverse Drug Reactions.",
+    "methods": "A large naturalistic sample of inpatients and outpatients prescribed ESC was analyzed. ADRs were classified using the Udvalg for Kliniske Undersogelser side effect rating scale. We compared ESC-treated patients with (n = 35) and without ADRs (n = 273) using ESC plasma concentrations as the primary outcome. We also compared ADR rates in the 2 groups based on 2 cut-off ESC levels reflecting the recommended upper thresholds of the therapeutic reference range of 80 ng/mL, suggested by the consensus therapeutic drug monitoring guidelines, and 40 ng/mL, based on recent meta-analysis data. The effects of age, sex, smoking, daily ESC dose, plasma concentrations, and concentrations corrected for daily dose were included in a binary logistic regression model to predict ADRs.",
+    "results": "No differences in clinical, demographic, or pharmacokinetic parameters were observed between patients with and without ADRs ( P > 0.05). Patients with ESC-related ADRs were more frequently diagnosed with psychotic disorders than those without (25% vs. 7.1%, P = 0.004). None of the variables was associated with ADR risk. Overall, ADR rates were not significantly different in patients above versus below thresholds of ESC concentrations (ESC concentrations >40 [n = 59] vs. ≤40 ng/mL [n = 249] and >80 [n = 8] vs. ≤80 ng/mL [n = 300]; P = 0.56 and P = 1.0, respectively).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "1050b99056e1ce6a3d1cb88e7d188e56",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Mar",
+    "title": "Antidepressants available in Japan for older people with major depressive disorder: A systematic review and meta-analysis.",
+    "methods": "Outcome measures included response rate (primary), improvement in depressive symptom scale score, remission rate, all-cause discontinuation, discontinuation due to adverse events, and at least one adverse event. A random-effects model was used to calculate the risk ratio (RR) and standardized mean difference (SMD) with a 95% confidence interval (95% CI).",
+    "results": "Nine double-blind, randomized, placebo-controlled trials (n = 2145) were identified. No study has been conducted in Japan. Our meta-analysis included the following antidepressants: duloxetine, escitalopram, imipramine, sertraline, venlafaxine, and vortioxetine. Antidepressants have significantly higher response rates than placebo (RR [95% CI] = 1.38 [1.04, 1.83], p = 0.02). Antidepressants outperformed placebo in terms of improving depressive symptom scale score (SMD [95% CI] = -0.62 [-0.92, -0.33], p < 0.0001). However, antidepressants were associated with a higher discontinuation rate due to adverse events (RR [95% CI] = 1.94 [1.30, 2.88], p = 0.001) and a higher incidence of at least one adverse event (RR [95% CI] = 1.11 [1.02, 1.21], p = 0.02) compared to placebo. The groups did not differ significantly in terms of remission rate or all-cause discontinuation.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c3c6de180dec448ee9a2feca21278bff",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Mar",
+    "title": "Efficacy and safety of agomelatine in epilepsy patients with sleep and mood disorders: An observational, retrospective cohort study.",
+    "methods": "Retrospective data were derived from 113 epilepsy patients for at least 8 weeks. All the subjects were divided into two groups, one was treated with agomelatine, the other was treated with escitalopram. Their depression and anxiety states were assessed by Hamilton Depression (HAMD) and Hamilton Anxiety (HAMA) Scales. Sleep quality was assessed by the Pittsburgh Sleep Quality Index (PSQI).",
+    "results": "The HAMA, HAMD and PSQI scores in both groups significantly declined after the treatments with agomelatine and escitalopram. However, the agomelatine group exhibited greater improvement in terms of HAMA and PSQI scores compared to the escitalopram group. No severe adverse events were observed in agomelatine group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "834e01a9f77418b1b907b8805c5951b3",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2025-Jan-01",
+    "title": "Probiotics for adults with major depressive disorder compared with antidepressants: a systematic review and network meta-analysis.",
+    "methods": null,
+    "results": "Forty-two eligible trials covering 22 interventions were identified, of which 16 were found to be effective in MDD treatment and the certainty of evidence was moderate to very low. When all trials were considered, compared with placebo, SMDs of interventions ranged from -0.16 (95% credible interval: -0.30, -0.04) for venlafaxine to -0.81 (-1.06, -0.52) for escitalopram. Probiotics were superior to brexpiprazole (SMD [95% credible interval]: -0.42 [-0.68, -0.17]), cariprazine (-0.44 [-0.69, -0.24]), citalopram (-0.37 [-0.66, -0.07]), duloxetine (-0.26, [-0.51, -0.04]), desvenlafaxine (-0.38 [-0.63, -0.14]), ketamine (-0.32 [-0.66, -0.01]), venlafaxine (-0.47 [-0.73, -0.23]), vilazodone (-0.37 [-0.61, -0.12]), vortioxetine (-0.39 [-0.63, -0.15]), and placebo (-0.62 [-0.86, -0.42]), and were noninferior to other antidepressants. In addition, probiotics ranked the second highest in the treatment hierarchy after escitalopram. Long-term treatment (≥8 weeks) using probiotics showed the same tolerability as antidepressants.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "001aa73cc409206c9ea49994cc29fb84",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "[Effectiveness, safety and adherence to therapy with Elicea Q-Tab in real clinical practice].",
+    "methods": null,
+    "results": "Patients treated with escitalopram in the form of oral tablets dispersible in the oral cavity (Elicea Q-Tab) showed an improvement in their clinical condition (a decrease in CGI-S scores from 3.65 at visit 1 to 2.63 by visit 3, by 28%; a decrease in CGI-I scores from 2.39 at visit 1 to 1.57 to visit 3, by 34%), as well as improving the quality of life, social (from 2.74 points on 1 visit to 4.32 on 2 visits, by 58%) and professional functioning (from 2.81 on 1 visit to 4.35 on 2 visits, by 55%), the level of concentration (from 3.28 points on 1 visit up to 4.5 on 3 visits, by 37%). Doctors and patients noted high satisfaction with the effectiveness and convenience of using the drug, the frequency of adverse events was low.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "502f8a593958511e04f7380694ad52c5",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2024-Sep",
+    "title": "The efficacy and safety of adding celecoxib to escitalopram for improving symptoms of major depressive disorder.",
+    "methods": null,
+    "results": "There was no significant difference in depressive symptoms between intervention and placebo groups at baseline. However, at 4 and 8 weeks after the beginning of treatment, there were significant between-group differences in HDRS scores, favoring the intervention group. No between-group differences were found in treatment-related side effects.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "0a7891646aa5a90b0de4d94706d2f04e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Oct",
+    "title": "Sertraline versus escitalopram in South Asians with moderate to severe major depressive disorder: (SOUTH-DEP) a double-blind, parallel, randomized controlled trial.",
+    "methods": "The study was conducted in South Asian participants. A total of 744 participants with moderate to severe MDD were randomly assigned to receive either sertraline or escitalopram for 8 weeks. Drug dosages and titration schedules were based on the recommendations of the prescribing information for each product and according to the judgment of the clinicians involved in the study. The primary outcome measures were changes from baseline on the Montgomery-Åsberg Depression Rating Scale (MADRS) and the clinical global impression (CGI) scale as well as the frequency of adverse events in both groups. Baseline MADRS scores in the escitalopram and sertraline groups were 28.2±0.47 (mean±SD) and 29.70±0.46 (mean±SD) respectively, and was no variability in the baseline assessments. Changes in MADRS as well as CGI scales at the end of the study were significant only for the sertraline group whereas they remained statistically nonsignificant for the escitalopram group. Results: The results of the study showed that sertraline was more efficacious than escitalopram in reducing depression rating scales such as MADRS and CGI, and that participants subjectively felt better regarding their symptoms in the sertraline group. Sertraline displays enhanced safety or tolerability than other groups of antidepressants, which frequently cause high levels of drowsiness, dizziness, blurred vision, and other undesirable effects. Adverse events were seen in both groups, but delayed ejaculation was the most frequent adverse event seen in both groups. However, a greater number of participants reported having nausea and insomnia in the sertraline group compared to the escitalopram group.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "412a893347facc5f0c5831aa62cc5c99",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "Cardiovascular adverse reactions associated with escitalopram in patients with underlying cardiovascular diseases: a systematic review and meta-analysis.",
+    "methods": "We used a predefined search strategy in PubMed, Cochrane Central Register of Controlled Trials, Embase, International Clinical Trials Registry Platform, and ClinicalTrials.gov to identify studies evaluating adverse cardiovascular reactions to escitalopram in patients with underlying cardiovascular disease. Randomized controlled trials (RCTs) that provided results on cardiovascular safety outcomes were included. Two independent reviewers screened the abstracts and full texts of the individual studies. The risk of bias was assessed using version 2 of the Cochrane risk-of-bias tool for randomized trials. The certainty of evidence was assessed using the Grading of Recommendations, Assessment, Development, and Evaluation approach.",
+    "results": "The primary outcomes were the frequency of major adverse cardiovascular events (MACE), QTc prolongation, and discontinuation of study medication. We identified 5 RCTs with 773 participants who met the inclusion criteria. Escitalopram was not associated with significantly increased risk of MACE (risk ratio [RR] = 1.85; 95% confidence interval [CI] 0.80 to 4.26; I2 0%; 5 RCTs; n = 773, moderate certainty of evidence), discontinuation of study medication (RR = 1.03; 95% CI 0.84-1.26; I2 0%; 5 RCTs; n = 773, low certainty of evidence), and QTc prolongation (RR = 1.20; 95% CI 0.76-1.90; I2 0%; 4 RCTs; n = 646, low certainty of evidence).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "629647d6e538f8cb1cfb11cbaf481c8b",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "Pharmacological approaches to the management of panic disorder in older patients: a systematic review.",
+    "methods": "A database search of studies involving patients with PD with/without agoraphobia aged ≥ 60 years was carried out using PubMed, PsycINFO, Embase, and Clinical Trials.gov, from their inception dates to 1 March 2023. Only four (published from 2002 to 2010) of the 1292 records screened were included. A risk of bias assessment was provided. This systematic review was performed using The Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA).",
+    "results": "Two studies were randomized clinical trials, whereas two were open-label, including paroxetine, citalopram, escitalopram, and sertraline; three studies reported short-term evaluations, whereas one study included a 26-week follow-up. Medications provided benefits, with good tolerability. Preliminary results suggested greater benefits of paroxetine in reducing panic attacks vs. cognitive - behavioral therapy, and an earlier decrease in PAs with escitalopram vs. citalopram. Risk of bias was considerable.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "fd10000e4e1c601e41bdfc4d27ea1bab",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Aug",
+    "title": "VE-MMODE - A randomized controlled trial of Venlafaxine versus Escitalopram for treatment of mild to moderate depression in persons with epilepsy.",
+    "methods": "In a single-center, prospective, double-blinded randomized controlled trial (RCT) 90 PWE (age ≥18 years) with mild to moderate depression, were randomized in a 1:1 ratio to receive ESCIT (5-20 mg/day) or VEN (37.5-150 mg/day) for 8 weeks. The primary outcome was to study differences in the efficacy, based on the change in scores of the Hamilton depression rating scale (HAM-D) at 8 weeks. Seizure frequency, QOLIE-31, adverse event profile, and medication adherence were secondary outcome measures.",
+    "results": "Using the NDDI-E scale, we screened 350 PWE, 90 were enrolled. ITT analysis included all participants and the PP analysis included 40 participants to VEN group and 42 to ESCIT group. Baseline mean (±SD) HAM-D scores for both groups were similar (13.53 ± 3.27; 13.02 ± 3.57). The mean difference (95%CI) on HAM-D scores at 8 weeks was found to be significant within both groups (ITT/PP- VEN: 7.75(6.75, 8.79)/7.92 (7.06, 8.78); p < 0.001, ESCIT: 8.21 (7.39, 9.03)/8.23(7.43, 9.04); p < 0.001). However, there was no significant difference in the efficacy of VEN versus ESCIT at 8 weeks. A significant improvement in QOLIE-31 index and seizure frequency was observed from baseline in both the groups. 90% of those on VEN and 92.9% of those using ESCITadhered to the treatment at week 8. Adverse events were more in VEN group than the ESCIT group.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "2b9d5661d60c8636cb34dc9e7da22ee4",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Aug",
+    "title": "Bifrontal-transcranial direct current stimulation as an early augmentation strategy in major depressive disorder: A single-blind randomised controlled trial.",
+    "methods": "Fifty adults were randomized into two groups and were administered either active tDCS or sham tDCS, along with escitalopram 10 mg/day. A total of 10 tDCS sessions with anodal stimulation at the left dorsolateral prefrontal cortex (DLPFC) and cathode at the right DLPFC were given over two weeks. Assessments were done using Hamilton Depression Rating Scale (HAM-D), Beck's Depression Inventory (BDI), and Hamilton Anxiety Rating Scale (HAM-A) at baseline, two weeks, and four weeks. A tDCS side effect checklist was administered during therapy.",
+    "results": "A significant reduction in HAM-D, BDI, and HAM-A scores were observed in both groups from baseline to week-4. At week-2, the active group had a significantly greater reduction in HAM-D and BDI scores than the sham group. However, at the end of therapy, both groups were comparable. The active group was 1.12 times more likely to experience any side effect than the sham group, but the intensity ranged from mild to moderate.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "310a36ca567224f8b376cc6f4c5a7dba",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Apr",
+    "title": "An Interim Analysis of a Randomized, Open-Label Study of Vilazodone, Escitalopram, or Vortioxetine for Major Depressive Disorder.",
+    "methods": "This is an exploratory interim analysis of a randomized, three-arm, open-label ongoing study. The participants were randomly assigned in a 1:1:1 ratio to receive either vilazodone (20-40 mg/d), escitalopram (10-20 mg/d), or vortioxetine (5-20 mg/d). Efficacy and safety assessments were done at baseline, four weeks, eight weeks, and 12 weeks.",
+    "results": "Forty-nine(69%) of the 71 enrolled participants (mean age 43.9±12.2 years; 37 men (52%)) completed the 12-week follow-up. At baseline, the three groups' median HDRS scores were 30.0, 29.5, and 29.0 (p=0.76), respectively, and at 12 weeks, they amounted to 19.5, 19.5, and 18.0 (p=0.18), respectively. At baseline, group-wise median MADRS scores were 36, 36, and 36, respectively (p=0.79); at 12 weeks, they were 24, 24, and 23, respectively (p=0.03). In the post-hoc analysis, the inter-group comparison of the change in HDRS (p = 0.02) and MADRS (p = 0.06) scores from baseline did not reach statistical significance. No participants experienced serious adverse events.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "ecca08b53b842751b3eda26bdf5436e5",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Aug-01",
+    "title": "Efficacy and tolerability of antidepressant drugs in treatment of depression in children and adolescents: a network meta-analysis.",
+    "methods": "Databases of PubMed, Cochrane Library, EMBASE, Web of Science, PsycINFO, CBM, CNKI and Wanfang Data were searched for randomized controlled trials (RCT) related to antidepressants in treatment of children and adolescents with depression from inception to December 2021. Quality assessment and data extraction from the included RCTs were performed. Statistical analyses of efficacy and tolerability were conducted with Stata 15.1 software. Surface under the cumulative ranking (SUCAR) was used to rank the value of the antidepressants.",
+    "results": "A total of 33 RCTs were included in 32 articles, involving 6949 patients. There are 13 antidepressants used in total, including amitriptyline, vilazodone, fluoxetine, selegiline, paroxetine, imipramine, desipramine, sertraline, nortriptyline, escitalopram, citalopram, venlafaxine and duloxetine. The results of network meta-analysis showed that the efficacy of duloxetine ( OR=1.95, 95% CI: 1.41-2.69), fluoxetine ( OR=1.73, 95% CI: 1.40-2.14), venlafaxine ( OR=1.37, 95% CI: 1.04-1.80) and escitalopram ( OR=1.48, 95% CI: 1.12-1.95) were significantly higher than that of placebos (all P<0.05); the probability cumulative ranks were duloxetine (87.0%), amitriptyline (83.3%), fluoxetine (79.0%), escitalopram (62.7%), etc. The results showed that the intolerability of patients receiving imipramine ( OR=0.15, 95% CI: 0.08-0.27), sertraline ( OR=0.33, 95% CI: 0.16-0.71), venlafaxine ( OR=0.35, 95% CI: 0.17-0.72), duloxetine ( OR=0.35, 95% CI: 0.17-0.73) and paroxetine ( OR=0.52, 95% CI: 0.30-0.88) were significantly higher than that of placebos (all P<0.05), and the probability cumulative ranks were imipramine (95.7%), sertraline (69.6%), venlafaxine (68.6%), duloxetine (68.2%), etc. Conclusion: Among 13 antidepressants, duloxetine, fluoxetine, escitalopram and venlafaxine are significantly better than placebo in terms of efficacy, but duloxetine and venlafaxine are less well tolerated.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "9ad9a7617013119dd92b87363c20ca65",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "Efficacy and Safety of Flexibly Dosed Esketamine Nasal Spray Plus a Newly Initiated Oral Antidepressant in Adult Patients with Treatment-Resistant Depression: A Randomized, Double-Blind, Multicenter, Active-Controlled Study Conducted in China and USA.",
+    "methods": null,
+    "results": "Of 252 randomized patients (China, 224; US, 28), 214 completed the double-blind treatment phase. The difference between treatment groups at Day 28 was not statistically significant (difference in least-square means [95% CI]: -2.0 [-4.64, 0.55]; 2-sided p = 0.123). However, esketamine plus AD demonstrated a clinically meaningful treatment difference compared with AD plus placebo in MADRS total score at 24 hours after first dose for the study overall population and China sub-population (difference in least-square mean [95% CI]: -3.3 [-5.33, -1.33] and -2.6 [-4.64, -0.60], respectively). No new safety signals were observed.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a5bd81147ed043dba2f4d1c9d7fd698a",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Nov",
+    "title": "Safer citalopram use in primary care: Can staff education and prescribing prompts improve adherence to national guidance? A closed loop clinical audit, service evaluation and quality improvement study.",
+    "methods": "Patients were identified using data searching techniques on EMIS for February-April 2020. Parameters searched for included age, hepatic impairment, cardiac disease, known QT prolongation and concomitant use with other QT-prolonging medication. Following the first cycle teaching on the safer use of citalopram was delivered to all prescribers and an EMIS prompt was also set up. A second audit cycle was then carried out. Data was analysed using Statistical Package for Social Sciences software to assess the significance of the results.",
+    "results": "Following the presentation of the first cycle findings and the introduction of the EMIS safety prompt, there was a statistically significant reduction in incorrect citalopram dose prescription in the over 65s (8 vs 1), a statistically significant reduction in the incidence of dangerous drug interactions involving citalopram (44 vs 8) and a significant reduction in the incidence of unsafe prescribing of citalopram overall (47 vs 9).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "0dbbb1adaa7f0468ed32b38167820a08",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Dose-response effects of selective serotonin reuptake inhibitor monotherapy for the treatment of depression: systematic review of reviews and meta-narrative synthesis.",
+    "methods": null,
+    "results": "The search identified 9138 records; 387 full text reports were assessed for eligibility, 42 of which matched the inclusion criteria. The majority, 83% (n=35), of reviews included data for studies with a duration of ≤12 weeks (ie, the acute phase of depression treatment). Of 39 reviews assessing efficacy, the majority (n=26) indicated that individual SSRIs and SSRI class demonstrated flat dose-response effects; standard doses were optimal for efficacy. Acceptability or tolerability were assessed in 28 reviews. Higher than standard daily doses were associated with higher dropout rates and a greater incidence of adverse drug effects (eg, nausea, sexual dysfunction, fatigue, anxiety). Despite a range of methods being reported, there was an overall consensus regarding SSRI dose related efficacy, dropouts, and adverse drug effects.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "7f9a6191f7cc706adf98a4a1bd347ed0",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jul",
+    "title": "Adverse Effects of Antidepressant Medications and their Management in Children and Adolescents.",
+    "methods": "This review examines the early- (e.g., activation, gastrointestinal symptoms, sedation) and late-emerging (e.g., weight gain) adverse effects of SSRIs and some SNRIs in pediatric patients.",
+    "results": "We provide a framework for discussing SSRI/SNRI tolerability with patients and their families and describe the pharmacologic basis, course, and predictors of adverse events in youth. Strategies to address specific tolerability concerns are presented. For selected adverse events, using posterior simulation of mean differences over time, we describe their course based on Physical Symptom Checklist measures in a prospective, randomized trial of anxious youth aged 7-17 years who were treated with sertraline (n = 139) or placebo (n = 76) for 12 weeks in the Child/Adolescent Anxiety Multimodal Study (CAMS).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "c39c002419c33a54a4e0bf866694757f",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Mar",
+    "title": "Transcutaneous electrical cranial-auricular acupoint stimulation versus escitalopram for mild-to-moderate depression: An assessor-blinded, randomized, non-inferiority trial.",
+    "methods": "468 participants received two TECAS sessions per day at home (n = 233) or approximately 10-13 mg/day escitalopram (n = 235) for 8 weeks plus 4-week follow-up. The primary outcome was clinical response, defined as a baseline-to-endpoint ≥50% reduction in Montgomery-Åsberg Depression Rating Scale (MADRS) score. Secondary outcomes included remission rate, changes in the severity of depression, anxiety, sleep and life quality.",
+    "results": "The response rate was 66.4% on TECAS and 63.2% on escitalopram with a 3.2% difference (95% confidence interval [CI], -5.9% to 12.9%) in intention-to-treat analysis, and 68.5% versus 66.2% with a 2.3% difference (95% CI, -6.9% to 11.4%) in per-protocol analysis. The lower limit of 95% CI of the differences fell within the prespecified non-inferiority margin of -10% (P ≤ 0.004 for non-inferiority). Most secondary outcomes did not differ between the two groups. TECAS-treated participants who experienced psychological trauma displayed a markedly greater response than those without traumatic experience (81.3% vs 62.1%, P = 0.013). TECAS caused much fewer adverse events than escitalopram.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "22184910299ecdc1c79393b67789c629",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jan-01",
+    "title": "Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial.",
+    "methods": null,
+    "results": "The primary noninferiority sample consisted of 208 patients (102 in MBSR and 106 in escitalopram), with a mean (SD) age of 33 (13) years; 156 participants (75%) were female; 32 participants (15%) were African American, 41 (20%) were Asian, 18 (9%) were Hispanic/Latino, 122 (59%) were White, and 13 (6%) were of another race or ethnicity (including Native American or Alaska Native, more than one race, or other, consolidated owing to low numbers). Baseline mean (SD) CGI-S score was 4.44 (0.79) for the MBSR group and 4.51 (0.78) for the escitalopram group in the per-protocol sample and 4.49 (0.77) vs 4.54 (0.83), respectively, in the randomized sample. At end point, the mean (SD) CGI-S score was reduced by 1.35 (1.06) for MBSR and 1.43 (1.17) for escitalopram. The difference between groups was -0.07 (0.16; 95% CI, -0.38 to 0.23; P = .65), where the lower bound of the interval fell within the predefined noninferiority margin of -0.495, indicating noninferiority of MBSR compared with escitalopram. Secondary intent-to-treat analyses using imputed data also showed the noninferiority of MBSR compared with escitalopram based on the improvement in CGI-S score. Of patients who started treatment, 10 (8%) dropped out of the escitalopram group and none from the MBSR group due to adverse events. At least 1 study-related adverse event occurred for 110 participants randomized to escitalopram (78.6%) and 21 participants randomized to MBSR (15.4%).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a4f4a1fa113062c0a9ca21bbad80dd32",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jan",
+    "title": "The impact of pharmacological and non-pharmacological interventions on physical health outcomes in people with mood disorders across the lifespan: An umbrella review of the evidence from randomised controlled trials.",
+    "methods": "Umbrella review of meta-analyses of randomised controlled trials (RCTs) on pharmacological/non-pharmacological interventions for physical health outcomes/intolerability-related discontinuation in mood disorders (any age).",
+    "results": "Ninety-seven meta-analyses were included. Among youths, against placebo, in depression, antidepressants/antipsychotics had higher discontinuation rates; in bipolar depression, olanzapine+fluoxetine worsened total cholesterol (TC)/triglycerides/weight gain (WG) (large ES). In adults with bipolar disorder, olanzapine worsened HbA1c/TC/WG (moderate/large ES); asenapine increased fasting glucose (small ES); quetiapine/cariprazine/risperidone induced WG (small/moderate ES). In bipolar depression, lurasidone was metabolically neutral. In depression, psychological interventions improved physical health-related quality of life (PHQoL) (small ES), fasting glucose/HbA1c (medium/large ES); SSRIs improved fasting glucose/HbA1c, readmission for coronary disease, pain (small ES); quetiapine/aripiprazole/olanzapine induced WG (small to large ES). Exercise improved cardiorespiratory fitness (moderate ES). In the elderly, fluoxetine yielded more detrimental cardiovascular effects than sertraline/escitalopram (large ES); antidepressants were neutral on exercise tolerance and PHQoL. In mixed age groups, in bipolar disorder aripiprazole was metabolically neutral; in depression, SSRIs lowered blood pressure versus placebo and serotonin-noradrenaline reuptake inhibitors (small ES); brexpiprazole augmentation caused WG and was less tolerated (small ES); exercise improved PHQoL (moderate ES).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "32e09909ff50b3a11cacf90b1ca848a9",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Risks of Digestive System Side-Effects of Selective Serotonin Reuptake Inhibitors in Patients with Depression: A Network Meta-Analysis.",
+    "methods": "Systematic searches returned 30 randomized controlled trials (n = 5004) of five antidepressants and placebos.",
+    "results": "Fluoxetine had the lowest probability of digestive side effects, ranking fifth at 0.548. Sertraline had the highest probability of digestive side effects, with a probability of 0.611. For gastrointestinal tolerability, escitalopram was better than paroxetine (odds ratio [OR] =0.62, 95% confidence interval [CI] 0.43-0.87) and sertraline (OR=0.56, 95% CI 0.32-0.99).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "97a8070010cf25316c45da6dc3a9b1c2",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023-Jan",
+    "title": "The Canadian Network for Mood and Anxiety Treatments (CANMAT) Task Force Report: Serotonergic Psychedelic Treatments for Major Depressive Disorder.",
+    "methods": "A systematic review was conducted to identify contemporary clinical trials of serotonergic psychedelics for the treatment of major depressive disorder and cancer-related depression. Studies published between January 1990 and July 2021 were identified using combinations of search terms, inspection of bibliographies and review of other psychedelic reviews and consensus statements. The levels of evidence for efficacy were graded according to the Canadian Network for Mood and Anxiety Treatments criteria.",
+    "results": "Only psilocybin and ayahuasca have contemporary clinical trials evaluating antidepressant effects. Two pilot studies showed preliminary positive effects of single-dose ayahuasca for treatment-resistant depression (Level 3 evidence). Small randomized controlled trials of psilocybin combined with psychotherapy showed superiority to waitlist controls and comparable efficacy and safety to an active comparator (escitalopram with supportive psychotherapy) in major depressive disorder, with additional randomized controlled trials showing efficacy specifically in cancer-related depression (Level 3 evidence). There was only one open-label trial of psilocybin in treatment-resistant unipolar depression (Level 4 evidence). Small sample sizes and functional unblinding were major limitations in all studies. Adverse events associated with psychedelics, including psychological (e.g., psychotomimetic effects) and physical (e.g., nausea, emesis and headaches) effects, were generally transient.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "dfbc41a85354fe121ca87fd0e5af8151",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Intramuscular ketamine vs. escitalopram and aripiprazole in acute and maintenance treatment of patients with treatment-resistant depression: A randomized double-blind clinical trial.",
+    "methods": "A comparative, parallel-group, randomized double-blind trial assessing the efficacy, safety, and tolerability of acute (4 weeks) and maintenance (24 weeks) use of IM ketamine (0.75 mg/kg) vs. active control (escitalopram 15 mg and aripiprazole 5 mg) in individuals with moderate-severe intensity TRD (no psychotic symptoms) with or without suicide risk will be conducted. Patients with TRD (18-40 years) will be randomized and blinded to receive ketamine IM or active treatment at a 1:1 ratio for 4 weeks (active treatment) and 24 weeks (maintenance treatment). Subjects will be assessed using clinical scales, monitored for vital signs (VS) after application of injectable medication, and undergo neuropsychological tests. The primary outcome will be changed on the Montgomery-Åsberg Depression Rating Scale (MADRS) during the course of the trial. The study is in running.",
+    "results": "This study can potentially yield evidence on the use of IM ketamine in the treatment of depressive disorders as an ultra-rapid low-cost therapy associated with less patient discomfort and reduced use of medical resources, and can elucidate long-term effects on different outcomes, such as neuropsychological aspects.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "af451cbd418f498325a4f6ac2d709d4e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Jun-27",
+    "title": "Influence of CYP2C19*17 Genetic Polymorphism on the Steady-State Concentration of Escitalopram in Patients with Recurrent Depressive Disorder.",
+    "methods": null,
+    "results": "Our findings revealed the statistically significant results in terms of both treatment efficacy evaluation (HAMD scores at the end of the treatment course): (CC) 9.0 [7.0; 11.0], (CT) 4.0 [2.0; 6.0] and (TT) 2.0 [1.0; 4.0], p < 0.001; and safety profile (the UKU scores): (CC) 7.0 [7.0; 8.0], (CT) 3.0 [3.0; 4.0] and (TT) 3.0 [2.0; 3.0], p < 0.001. We revealed no statistically significant results for the concentration/dose ratio of escitalopram in patients with different genotypes: (CC) 5.762 [3.939; 9.076], (CT) 5.714 [3.485; 8.533] and (TT) 7.388 [4.618; 10.167], p = 0.268).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "47330cc9d49fe346c795f07a9b5a1693",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Oct-19",
+    "title": "The modifying effect of the serum-to-dialysate potassium gradient on the cardiovascular safety of SSRIs in the hemodialysis population: a pharmacoepidemiologic study.",
+    "methods": "We conducted a cohort study using 2007-2017 data from the United States Renal Data System and a large dialysis provider to examine if the serum-to-dialysate potassium gradient modifies SSRI cardiac safety. Using a new-user design, we compared 1-year sudden cardiac death (SCD) risk among HD patients newly treated with higher (citalopram, escitalopram) versus lower (fluoxetine, fluvoxamine, paroxetine, sertraline) QT-prolonging potential SSRIs, overall and stratified by baseline potassium gradient (≥4 versus &lt;4 mEq/l). We used inverse probability of treatment-weighted survival models to estimate weighted hazard ratios (HRs) and 95% confidence intervals (CIs) and conducted a confirmatory nested case-control study.",
+    "results": "The study included 25 099 patients: 11 107 (44.3%) higher QT-prolonging potential SSRI new users and 13 992 (55.7%) lower QT-prolonging potential SSRI new users. Overall, higher versus lower QT-prolonging potential SSRI use was not associated with SCD [weighted HR 1.03 (95% CI 0.86-1.24)]. However, a greater risk of SCD was associated with higher versus lower QT-prolonging potential SSRI use among patients with baseline potassium gradients ≥4 mEq/l but not among those with gradients &lt;4 mEq/l [weighted HR 2.17 (95% CI 1.16-4.03) versus 0.95 (0.78-1.16)]. Nested case-control analyses yielded analogous results.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "e2452b539af164e2196e03caaebd9488",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Jun-01",
+    "title": "Pharmacogenetics and Pain Treatment with a Focus on Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) and Antidepressants: A Systematic Review.",
+    "methods": "A systematic literature search was performed according to the preferred reporting items for systematic reviews and meta-analysis (PRISMA) guidelines regarding the human in vivo efficacy and safety of NSAIDs and antidepressants in pain treatment that take pharmacogenetic parameters into consideration. Studies were collected from PubMed, Scopus, and Web of Science up to the cutoff date 18 October 2021.",
+    "results": "Twenty-five articles out of the 6547 initially detected publications were identified. Relevant medication-gene interactions were noted for drug safety. Interactions important for pain management were detected for (1) ibuprofen/CYP2C9; (2) celecoxib/CYP2C9; (3) piroxicam/CYP2C8, CYP2C9; (4) diclofenac/CYP2C9, UGT2B7, CYP2C8, ABCC2; (5) meloxicam/CYP2C9; (6) aspirin/CYP2C9, SLCO1B1, and CHST2; (7) amitriptyline/CYP2D6 and CYP2C19; (8) imipramine/CYP2C19; (9) nortriptyline/CYP2C19, CYP2D6, ABCB1; and (10) escitalopram/HTR2C, CYP2C19, and CYP1A2.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "d376ef0934f811a95349a1539999d703",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "The Incidence and Costs of Adverse Events Associated with Antidepressants: Results from a Systematic Review, Network Meta-Analysis and Multi-Country Economic Model.",
+    "methods": "A systematic literature review was conducted (in Medline, Embase, PsycINFO and CENTRAL) to identify placebo-controlled trials reporting rates of at least one type of sexual dysfunction, weight change, insomnia, anxiety, and anhedonia. Eight antidepressants were considered: duloxetine, escitalopram, fluoxetine, paroxetine, sertraline, trazodone, venlafaxine, and vortioxetine. This evidence was synthesised via Bayesian random effects network meta-analyses to provide comparative estimates of safety. A systematic search identified country-specific costs of managing depression and adverse events of antidepressants. Evidence on costs and safety was combined in an economic model to provide country-specific costs for Bulgaria, the Czech Republic, Greece, Hungary, Italy, Romania, Slovakia, Portugal, and Poland.",
+    "results": "Trazodone had the lowest rates of both insomnia (odds ratio 0.66, 95% credible interval 0.31 to 1.38) and anxiety (0.13, <0.01 to 1.80). All antidepressants were associated with increased rates of sexual dysfunction relative to placebo. Weight change was largest for fluoxetine (kg change -1.01, -1.40 to -0.60) and sertraline (-1.00, -1.36 to -0.65), although heterogeneity was extreme for this outcome. No evidence was identified for anhedonia. Total costs were lowest for trazodone in all nine of the countries evaluated. This was primarily due to reduced rates of treatment discontinuation.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "0291e9651c4da7f36b818fb1724054cc",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-May",
+    "title": "The Efficacy and Safety of Selective Serotonin Reuptake Inhibitors and Serotonin-Norepinephrine Reuptake Inhibitors in the Treatment of Menopausal Hot Flashes: A Systematic Review of Clinical Trials.",
+    "methods": "In this systematic review, articles published during 2003-2019 in PubMed, MEDLINE, Web of Science, Scopus, Science Direct, PsycINFO, CINAHL, the Cochrane Central Register of Controlled Trials, and Google Scholar as well as Iranian databases such as SID, and Magiran were searched. The quality of the selected articles was assessed using the Jadad score calculation.",
+    "results": "Thirty-six articles on randomized controlled trials were included in this study, out of which 27 articles had acceptable, and nine had weak methodological quality. Findings on SSRIs class of drugs indicated that escitalopram, paroxetine, and fluoxetine have higher efficacy and safety in the treatment of menopausal HF than other drugs. Studies on the effectiveness of sertraline, citalopram, and fluvoxamine are limited in number or show inconsistent results. Therefore, further high-quality studies are required to confirm their effectiveness in alleviating HF. Within the SNRIs class, venlafaxine and desvenlafaxine showed significant efficacy in the treatment of menopausal HF. However, studies on the effectiveness of duloxetine are also limited, which requires further research.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "08e29d9fcda2bac6d8f0aede3d777ede",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022",
+    "title": "Controversies in the Pharmacotherapy of Adolescent Depression.",
+    "methods": "Based on the available literature, we will address the following topics: a) controversies regarding the definition of depression as a unique homogeneous condition with a unique type of pharmacological treatment; b) controversies about the interpretation of data from Randomized Controlled Trials (RCTs) on the efficacy of pharmacological treatments in adolescent depression; c) the interpretation of data regarding the safety of antidepressant treatment in adolescent depression, particularly in terms of increased suicidal risk.",
+    "results": "According to RCTs, antidepressants are minimally to moderately more effective than placebo, principally based on very high placebo responses, and only fluoxetine shows more evidence of efficacy. These differences in meta-analyses are sometimes statistically but not clinically significant. Depression is a heterogeneous condition in terms of etiology, the role of psychosocial adversities severity, episodicity, presentation, and relationship with bipolarity. This heterogeneity may partly explain the low drug-placebo difference and the high placebo response (possibly related to a high level of natural recovery of adolescent depression). In the National Institute of Mental Health (NIMH)-funded studies, including a lower number of study sites and more reliable enrollment procedures, lower placebo response rates and greater group differences between medication and placebo were found. Robust evidence supports an increased risk of emergent suicidality after starting antidepressants. A clear age effect on suicidal risk after antidepressants is supported by a comprehensive meta-analysis, showing that suicidal risk increases with decreasing age, being markedly greater in subjects aged between 18 and 25 years. However, the term suicidality is too broad, as it includes suicidal ideation, suicidal attempts, and completed suicide, with a wide range of severity and pervasiveness. If emergent suicidality should be actively and carefully explored, empirical evidence, albeit weak, suggests that combined pharmacotherapy (antidepressant and/or lithium) associated with psychotherapy may be helpful in reducing pretreatment suicidal ideation and suicidal risk.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "a4b964c24ec969a885f4e372db5b6d42",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021",
+    "title": "Understanding genetic risk factors for common side effects of antidepressant medications.",
+    "methods": "We used data from the Australian Genetics of Depression Study to gain insights into the aetiology and genetic risk factors to antidepressant side effects. To this end, we employed structural equation modelling, polygenic risk scoring and regressions.",
+    "results": "Here we show that participants reporting a specific side effect for one antidepressant are more likely to report the same side effect for other antidepressants, suggesting the presence of shared individual or pharmacological factors. Polygenic risk scores (PRS) for depression associated with side effects that overlapped with depressive symptoms, including suicidality and anxiety. Body Mass Index PRS are strongly associated with weight gain from all medications. PRS for headaches are associated with headaches from sertraline. Insomnia PRS show some evidence of predicting insomnia from amitriptyline and escitalopram.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "f2a7a4136879e0e5226b28917690eff9",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Apr",
+    "title": "Acute Efficacy and Safety of Escitalopram Versus Desvenlafaxine and Vortioxetine in the Treatment of Depression With Cognitive Complaint: A Rater-Blinded Randomized Comparative Study.",
+    "methods": "A total of 129 patients with MDD who also complained of CC were randomized evenly to either escitalopram, vortioxetine, or desvenlafaxine group and underwent a multi-center, six-week, rater-blinded, and head-to-head comparative trial. Differences in depressive symptoms following treatment were measured using the Hamilton Depression Rating Scale (HAMD) and the Montgomery-Åsberg Depression Rating Scale (MADRS). Subjective cognitive function and the presence of adverse events were assessed.",
+    "results": "The three antidepressant treatment groups did not show significant differences in the improvement of depressive symptoms as measured by HAMD and MADRS. Desvenlafaxine treatment was associated with a superior treatment response rate in depressive symptoms compared to vortioxetine or escitalopram treatment. However, no significant differences were found in the remission rate of depressive symptoms. The three antidepressant treatment groups did not show significant differences in the improvement of CC. Adverse profiles of each treatment group were tolerable, with no significant differences.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "fa5e616cc92b351fea1085e2c27e7222",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-May",
+    "title": "Pretreatment anxious depression as a predictor of side effect frequency and severity in escitalopram and aripiprazole adjunctive therapy.",
+    "methods": "188 of the 211 trial participants provided information on side effects during treatment with escitalopram (10-20 mg) for 8 weeks, and nonresponders received further augmentation on aripiprazole (2-10 mg) adjunctive therapy for another 8 weeks, whereas responders remained on escitalopram. Participants completed the Toronto Side Effects Scale at weeks 2, 4, 10, and 12. Covariate-adjusted negative binomial regression and Wilcoxon tests examined the association between anxious depression (GAD-7 ≥ 10) and number of side effects. Covariate-adjusted logistic regression and chi-square tests explored the association between anxious depression and specific side effects.",
+    "results": "For both therapies, the most frequent side effects were also the most severe. They mostly related to the central nervous system (CNS) (i.e., drowsiness and nervousness). Between baseline and week 2, the number of side effects participants experienced (incidence rate ratio [IRR] = 1.38, p = .010) or had trouble with (IRR = 1.34, p = .026) was significantly higher among those with anxious depression for escitalopram but not adjunctive aripiprazole. Further, odds of experiencing and having trouble with nervousness and agitation were also significantly higher in anxious depression for escitalopram only (p < .05).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "0a5aefbb3ac76b42af2b4836042a628e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2023",
+    "title": "A Review of Clinical Studies Assessing the Therapeutic Efficacy of Escitalopram: A Step Towards Development.",
+    "methods": "It emphasizes comparative and clinical trial studies with several pharmacological targets reviewed from the data available on PubMed, Science Direct, Clinicaltrails.gov, and from many reputed foundations.",
+    "results": "To highlight the clinical efficacy, safety, recent development, and stable formulation of escitalopram with an increased bioavailability profile. Evidence-based on the available clinical and pharmacoeconomic data, escitalopram represents an effective first-line treatment option for MDD patients.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "657e3d360b934814ee89c28391c41775",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2022-Jan-27",
+    "title": "Safety and efficacy of early augmentation with repetitive transcranial magnetic stimulation in the treatment of drug-free patients with obsessive-compulsive disorder.",
+    "methods": "This is a randomized double-blind, placebo-controlled study that involved the administration of a total of 20 sessions of rTMS (active/sham) to drug-naïve OCD patients using a standard protocol (1-Hz; 20 trains [80 pulses/train]; 1600 pulses per session at 100% resting motor threshold) at supplementary motor area. All patients (active and sham) were started on escitalopram 10 mg/d, which was subsequently increased to 20 mg/d after 10 days.",
+    "results": "Out of the 24 patients, 13 received active and 11 received sham rTMS. At the end of rTMS therapy, there was a substantial reduction (P = .001) in total Yale-Brown Obsessive-Compulsive Scale, obsessions (P = .030) and compulsions (P = .001) between the groups. Only few patients (N = 8) reported mild side effect with rTMS, local pain, and headache being the commonest. The study revealed large effect size (Cohen's d = 1.6) of rTMS as an early augmentation strategy in drug-free patients of OCD.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "bde0261ca20ddba4f165eca20fb64632",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Nov-25",
+    "title": "[Curative effect of the combined therapy of warm acupuncture at back-shu points of five zang organs and western medicine on depression of yang deficiency pattern and its attenuating effect].",
+    "methods": "A total of 80 patients with depression of yang deficiency pattern were randomly divided into an observation group and a control group （39 cases/group）. In the control group, escitalopram oxalate tablets were administered orally every day. In the observation group, on the base of the medication as the control group, warm acupuncture therapy was exerted at back-shu points of five zang organs, for 30 min each time, 5 times a week. The duration of treatment was 6 weeks in two groups. Before and after treatment, the scores of Hamilton depression scale (HAMD) and the antidepressant side effect scale (SERS) were evaluated and electroencephalogram (EEG) was detected; and the curative effect was assessed according to HAMD reduction rate in patients of the two groups.",
+    "results": "After treatment, the HAMD and SERS scores were lower than those before treatment in both groups. Compared with the control group, the HAMD and SERS scores were lower (P<0.05, P<0.01), and the EEG result was improved (P<0.01) in the observation group. The clinical total effective rate of the observation group was 97.43% (38/39), higher than 92.30% (36/39) of the control group (P<0.05).",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "39c77bc37c8db861612d5a0873ca147e",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Oct-22",
+    "title": "Clinical efficacy of Danzhi Xiaoyao Powder in the treatment of post-stroke depression: A protocol for randomized, double-blind clinical study.",
+    "methods": "This is a prospective, randomized, double-blind, parallel controlled trial to explore the efficacy and safety of Danzhi Xiaoyao Powder in the treatment of PSD. The participants were randomly divided into treatment group and control group. The treatment group used Danzhi Xiaoyao Powder combined with escitalopram oxalate, and the control group used Danzhi Xiaoyao Powder simulant combined with citalopram oxalate. The two groups were both treated for 8 weeks and followed up for 3 months. Observational index includes: Total response rate, Hamilton depression scale, Barthel index, national institutes of health stroke scale, the modified Edinburgh-Scandinavian stroke scale, Incidence of adverse reactions. Finally, SPASS 22.0 software was used for statistical analysis of the data.",
+    "results": null,
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "d61918a7eb5a0c28e7c724d66e75a85c",
+    "query_date": "22_02_2025"
+  },
+  {
+    "pub_date": "2021-Aug-09",
+    "title": "Adverse events with sacubitril/valsartan in the real world: emerging signals to target preventive strategies from the FDA adverse event reporting system.",
+    "methods": "We used the US Food and Drug Administration adverse event reporting system (worldwide pharmacovigilance database) to compare adverse events recording sacubitril/valsartan as suspect with other cardiovascular drugs. Disproportionality analyses were performed by calculating the reporting odds ratios, deemed significant when the lower limit of the 95% confidence interval was greater than 1. Clinical priority was assigned to adverse events with significant disproportionality by scoring (range 0-10 points) five features (number of events, magnitude of the lower limit of the 95% confidence interval, mortality frequency, important/designated medical event, biological plausibility).",
+    "results": "Sacubitril/valsartan was recorded in 20,021 reports, with 178 adverse events associated with significant disproportionality: 71.9%, 25.9% and 2.2% were classified as weak, moderate and strong clinical priorities, respectively. Increased reporting emerged for several cardiovascular adverse events, including 'renal failure' (N = 388; lower limit of the 95% confidence interval 2.26), 'hyperkalaemia' (314; 2.42) and 'angioedema' (309; 1.56). Sudden cardiac death (priority score 9 points) was the only designated medical event with strong clinical priority. Notably, sudden cardiac death occurred early after sacubitril/valsartan administration (average onset 124 days), with concomitant drugs known for pro-arrhythmic potential (e.g. amiodarone, escitalopram, mirtazapine, loop diuretics) in 26.2% of records.",
+    "figures_tables": null,
+    "source": "pubmed",
+    "article_id": "28ce3832d502cda262ef8cb05cb71235",
+    "query_date": "22_02_2025"
+  }
+]
