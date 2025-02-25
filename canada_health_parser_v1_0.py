@@ -5,13 +5,11 @@ from datetime import datetime
 
 
 def generate_article_id(title, results):
-    """Генерирует уникальный идентификатор на основе заголовка и текста результатов."""
     unique_str = title + (results if results else "")
     return hashlib.md5(unique_str.encode("utf-8")).hexdigest()
 
 
 def create_entry(pub_date, title, methods, results_text, figures_tables, source, query_date):
-    """Создает словарь с данными записи."""
     article_id = generate_article_id(title, results_text)
     return {
         "pub_date": pub_date,
@@ -26,17 +24,6 @@ def create_entry(pub_date, title, methods, results_text, figures_tables, source,
 
 
 def parse_health_canada(drug_name):
-    """
-    Выполняет поиск по сайту Health Canada (https://cvp-pcv.hc-sc.gc.ca/arq-rei/index-eng.jsp)
-    с использованием GET-параметра 'drugName'. Затем парсит HTML-страницу и извлекает записи из таблицы.
-
-    Предполагается, что результаты размещены в таблице с id="resultsTable", где:
-      - 1-я колонка: заголовок/название документа,
-      - 2-я колонка: дата публикации,
-      - 3-я колонка: краткое описание или аннотация.
-
-    Если структура сайта изменится, необходимо скорректировать селекторы.
-    """
     results = []
     base_url = "https://cvp-pcv.hc-sc.gc.ca/arq-rei/index-eng.jsp"
     params = {"drugName": drug_name}

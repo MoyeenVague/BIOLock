@@ -67,7 +67,6 @@ def watch_gui(drug_name):
             sources_data = json.load(f)
     except FileNotFoundError:
         sources_data = {}
-        # Можно также вернуть сообщение об ошибке, если требуется:
         # return "Файл source_database.json не найден."
 
     matching_drug = None

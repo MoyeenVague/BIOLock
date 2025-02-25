@@ -62,16 +62,6 @@ def is_side_effect(term):
 
 
 def process_file(input_path, output_path):
-    """
-    Обрабатывает один CSV-файл.
-    Из входного файла берутся столбцы article id (извлекается из "article id" или "article_id"),
-    NER Entities и Side Effects.
-    Для каждого article id берется дата публикации (pub_date) из соответствующего JSON-файла,
-    расположенного в папке /drug_data.
-    Результирующий CSV-файл содержит столбцы: last mention, article id, side effects.
-    Если список побочных эффектов пуст, в ячейку записывается "nothing".
-    Все термины в столбце side effects выводятся в нижнем регистре и разделяются запятыми.
-    """
     # Определяем имя JSON-файла из папки /drug_data
     csv_filename = os.path.basename(input_path)
     base, _ = os.path.splitext(csv_filename)  # Например, "aspirin_17_02_2025_table"

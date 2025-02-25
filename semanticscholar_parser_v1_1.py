@@ -35,7 +35,6 @@ def create_entry(pub_date, title, methods, results, figures_tables, source, quer
 
 
 def is_side_effect_study(entry):
-    """Проверяет, содержит ли объединённый текст (methods, results, figures_tables) ключевые слова, связанные с побочными эффектами."""
     combined_text = ""
     for key in ["methods", "results", "figures_tables"]:
         if entry.get(key):
@@ -68,23 +67,6 @@ def search_semantic_api(query, limit, retries=3, backoff_factor=1):
 
 
 def parse_semanticscholar(drug_name, accepted_required=33):
-    """
-    Выполняет поиск публикаций через API Semantic Scholar.
-
-    1. Сначала используется расширенный запрос – препарат + ключевые слова для побочных эффектов.
-    2. Если публикаций, удовлетворяющих критерию (наличие ключевых слов в аннотации), не найдено,
-       выполняется fallback‑поиск по названию препарата.
-
-    Результаты возвращаются в виде списка словарей со следующими ключами:
-      - "pub_date"
-      - "title"
-      - "methods"        (для Semantic Scholar отсутствует, поэтому None)
-      - "results"        (аннотация публикации)
-      - "figures_tables" (отсутствуют, поэтому None)
-      - "source"
-      - "article_id"
-      - "query_date"
-    """
     results = []
     # Первый этап: расширенный запрос
     enhanced_query = f'{drug_name} side effect adverse event safety tolerability'

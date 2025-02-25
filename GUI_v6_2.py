@@ -335,7 +335,6 @@ def run_filter():
 root = tk.Tk()
 root.title("BIOLock")
 root.configure(bg=BG_COLOR)
-# Устанавливаем увеличенную геометрию и разрешаем масштабирование окна
 root.geometry("1000x800")
 root.resizable(True, True)
 
@@ -431,7 +430,6 @@ watcher_text.grid(row=3, column=0, columnspan=2, padx=10, pady=5)
 
 # ===== Окно логов =====
 log_frame = tk.Frame(root, bg=BG_COLOR)
-# Добавляем expand=True, чтобы лог-окно адаптировалось при изменении размера
 log_frame.pack(fill='both', expand=True, padx=10, pady=(0, 10))
 tk.Label(log_frame, text="Логи:", bg=BG_COLOR, fg=LABEL_FG_COLOR) \
     .pack(anchor="w", padx=5, pady=(5, 0))

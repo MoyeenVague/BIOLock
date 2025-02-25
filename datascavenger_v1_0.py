@@ -5,12 +5,6 @@ from datetime import datetime
 
 
 def extract_info_from_filename(filename):
-    """
-    Извлекает название препарата и дату отчёта из имени файла.
-    Ожидаемый формат: <drug_name>_<dd>_<mm>_<yyyy>_table.csv,
-    где drug_name может состоять из нескольких частей, разделённых символом '_'.
-    Возвращает drug_name, date_str и объект datetime.
-    """
     if not filename.endswith('_table.csv'):
         return None, None, None
     base = filename[:-10]  # удаляем "_table.csv"

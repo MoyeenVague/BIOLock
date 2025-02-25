@@ -7,10 +7,6 @@ from googletrans import Translator
 
 
 async def async_translate_to_russian(text):
-    """
-    Асинхронный перевод текста на русский язык.
-    Если исходный язык не русский, переводит текст на русский.
-    """
     translator = Translator()
     detected = await translator.detect(text)
     if detected.lang != 'ru':
@@ -20,27 +16,10 @@ async def async_translate_to_russian(text):
 
 
 def translate_to_russian(text):
-    """
-    Синхронная обёртка для асинхронной функции перевода.
-    """
     return asyncio.run(async_translate_to_russian(text))
 
 
 def parse_apteka(drug_name):
-    """
-    Парсит отзывы о лекарственном препарате с сайта apteka.ru.
-
-    При необходимости переводит drug_name на русский язык.
-    Возвращает список словарей с ключами:
-      - pub_date: дата публикации отзыва,
-      - title: заголовок отзыва,
-      - methods: подробное содержание отзыва,
-      - results: оценка (если имеется),
-      - figures_tables: (оставлено как None),
-      - source: источник ("apteka.ru"),
-      - article_id: уникальный идентификатор отзыва,
-      - query_date: дата запроса.
-    """
     # Перевод названия препарата на русский язык, если требуется
     drug_name_ru = translate_to_russian(drug_name)
 
